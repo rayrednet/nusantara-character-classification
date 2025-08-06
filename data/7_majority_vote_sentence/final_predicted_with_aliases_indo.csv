@@ -1,0 +1,2205 @@
+story_id,person,aliases,predicted_type
+1,Tokoh-1,"ayah, ayahnya, pak, suami, suaminya",lainnya
+1,Tokoh-2,"gadis, puteri",lainnya
+1,Tokoh-3,"kanda, putera",antagonis
+1,Tokoh-4,"istri, istri petani, istrinya",lainnya
+1,Tokoh-5,"desa, penduduk desa",lainnya
+1,Tokoh-6,bidadari,lainnya
+1,Tokoh-7,petani,protagonis
+1,Tokoh-8,ikan,lainnya
+2,Tokoh-1,"putri cantik, putri hijau",antagonis
+2,Tokoh-2,"abang, abangku, abangnya",lainnya
+2,Tokoh-3,"sultan, sultan muhayat syah",lainnya
+2,Tokoh-4,mambang khayali,lainnya
+2,Tokoh-5,mambang jazid,lainnya
+2,Tokoh-6,prajurit deli,lainnya
+2,Tokoh-7,"naga, naga raksasa",protagonis
+2,Tokoh-8,"aceh, sultan aceh",protagonis
+2,Tokoh-9,hijau,lainnya
+3,Tokoh-1,"bu, ibu, ibunya, istri, istrinya, orang tua seruni",lainnya
+3,Tokoh-2,"ayah, ayah seruni, orang tua seruni, pak, pasangan suami istri",lainnya
+3,Tokoh-3,orang tua seruni,lainnya
+3,Tokoh-4,orang tua,lainnya
+3,Tokoh-5,tetangga,lainnya
+3,Tokoh-6,"tuhan, yang maha kuasa",lainnya
+3,Tokoh-7,kembang desa,lainnya
+3,Tokoh-8,penduduk,lainnya
+3,Tokoh-9,"majikan, majikannya",lainnya
+3,Tokoh-10,anjing,lainnya
+3,Tokoh-11,seruni,protagonis
+3,Tokoh-12,batu,lainnya
+3,Tokoh-13,toki,lainnya
+4,Tokoh-1,"bu, bu pinta, ibu, ibuku, ibumu, ibunya, istri, istrinya",protagonis
+4,Tokoh-2,"raja, raja sirambas",lainnya
+4,Tokoh-3,"anak, anakku, anaknya, nak",protagonis
+4,Tokoh-4,"putri cantik, putri tuan jawabnya",protagonis
+4,Tokoh-5,tuhan,lainnya
+4,Tokoh-6,"penduduk, penduduk kampung",lainnya
+4,Tokoh-7,wanita tua,lainnya
+4,Tokoh-8,sampuraga,lainnya
+4,Tokoh-9,janda tua,lainnya
+4,Tokoh-10,pengawal,lainnya
+4,Tokoh-11,"majikan, majikannya",lainnya
+4,Tokoh-12,tuan,protagonis
+5,Tokoh-1,"istri, istrinya",lainnya
+5,Tokoh-2,"putri, putri kerajaan laut, putri laut",lainnya
+5,Tokoh-3,"datuk, datuk penghulu",protagonis
+5,Tokoh-4,"besar, buyung besar",protagonis
+5,Tokoh-5,"penduduk, warga",lainnya
+6,Tokoh-1,"bunda, ibu, ibu si jibau, ibunya, istri datuk kejuruan",protagonis
+6,Tokoh-2,"ayah, ayahmu, ayahnya",lainnya
+6,Tokoh-3,"datuk orang kaya muda, kaka, kakak, kakaknya, kakanda, kaya",protagonis
+6,Tokoh-4,"adik, adiknya",lainnya
+6,Tokoh-5,"kakek, kakeknya",lainnya
+6,Tokoh-6,"tuhan, tuhan yang maha esa",lainnya
+6,Tokoh-7,orang kepercayaannya,lainnya
+6,Tokoh-8,"datuk malim panjang, panjang",antagonis
+6,Tokoh-9,datuk kejuruan,lainnya
+6,Tokoh-10,pemuda gagah,lainnya
+6,Tokoh-11,amat lincah,lainnya
+6,Tokoh-12,siti ensah,protagonis
+6,Tokoh-13,nogong,lainnya
+6,Tokoh-14,jibau,protagonis
+6,Tokoh-15,syekh,lainnya
+6,Tokoh-16,si,protagonis
+7,Tokoh-1,"ibu, ibu ahmad, orang tua",lainnya
+7,Tokoh-2,"ayah, orang tua, pak ahmad",lainnya
+7,Tokoh-3,puteri bungsu,lainnya
+7,Tokoh-4,puteri sulung,lainnya
+7,Tokoh-5,raja,lainnya
+7,Tokoh-6,gajah putih kerajaan,lainnya
+7,Tokoh-7,"pawang merbuk, wak, wak pawang, wak pawang merbuk",antagonis
+7,Tokoh-8,"burung, burung merbuk",lainnya
+7,Tokoh-9,lelaki tua,lainnya
+7,Tokoh-10,muhammad,protagonis
+7,Tokoh-11,firman,lainnya
+7,Tokoh-12,ahmad,protagonis
+7,Tokoh-13,hai,lainnya
+8,Tokoh-1,raja sitanggang,lainnya
+8,Tokoh-2,raja siali,lainnya
+8,Tokoh-3,istri partiga tiga sipunjung,lainnya
+8,Tokoh-4,"adik, adik tirinya, adiknya",protagonis
+8,Tokoh-5,"ayam jago partiga tiga sipunjung, partiga tiga sipunjung, tiga sipunjung",protagonis
+8,Tokoh-6,yang maha kuasa,lainnya
+8,Tokoh-7,suhi boh bosar,lainnya
+8,Tokoh-8,warga kampung,lainnya
+8,Tokoh-9,"ular, ular sendei",lainnya
+8,Tokoh-10,anggaranim,protagonis
+8,Tokoh-11,ular besar,lainnya
+8,Tokoh-12,nan sorma,lainnya
+8,Tokoh-13,ayam raja,lainnya
+8,Tokoh-14,siantar,lainnya
+8,Tokoh-15,petani,lainnya
+8,Tokoh-16,pemuda,lainnya
+8,Tokoh-17,sanak,lainnya
+8,Tokoh-18,urung,lainnya
+8,Tokoh-19,"cucu, cucunya",protagonis
+9,Tokoh-1,"ibu, ibumu, isteri, isterinya, orang tuanya",lainnya
+9,Tokoh-2,"puteri guru teteabulan, puteri pamannya",lainnya
+9,Tokoh-3,raja narasaon,lainnya
+9,Tokoh-4,"ayah, ayahku, orang tuanya, suami, suami isteri, suaminya",lainnya
+9,Tokoh-5,"anak, anaknya",lainnya
+9,Tokoh-6,orang tuanya,lainnya
+9,Tokoh-7,pengurus besarnya,lainnya
+9,Tokoh-8,"siboru, siboru bidinglaut",antagonis
+9,Tokoh-9,"bidadari, ketujuh bidadari",lainnya
+9,Tokoh-10,yang maha kuasa,lainnya
+9,Tokoh-11,tujuh bidadari,protagonis
+9,Tokoh-12,kodok besar,lainnya
+9,Tokoh-13,"dukun, dukun besar",lainnya
+9,Tokoh-14,datu pejel,lainnya
+9,Tokoh-15,narasaon,protagonis
+9,Tokoh-16,budiman,lainnya
+9,Tokoh-17,pemuda,protagonis
+10,Tokoh-1,"bunda, ibu, ibuku, ibundanya, isteri, isterinya, orang tuaku",lainnya
+10,Tokoh-2,"puteri, puteri margolang, puteri raja, puteri raja margolang, puterinya, tuan, tuan puteri, tuanku",protagonis
+10,Tokoh-3,permaisuri raja margolang,lainnya
+10,Tokoh-4,"permaisuri haroharo, permaisuri raja haroharo",lainnya
+10,Tokoh-5,raja margolang,lainnya
+10,Tokoh-6,raja haroharo,lainnya
+10,Tokoh-7,putera haroharo,lainnya
+10,Tokoh-8,"ayah, ayaha, ayahandamu, ayahku, keluarga ayah, orang tuaku, suami, suaminya",lainnya
+10,Tokoh-9,menteri dalam negeri,lainnya
+10,Tokoh-10,menteri pertahanan,lainnya
+10,Tokoh-11,anak raja,lainnya
+10,Tokoh-12,"adik, adiknya",lainnya
+10,Tokoh-13,orang tuaku,lainnya
+10,Tokoh-14,dewan penasihat raja margolang,lainnya
+10,Tokoh-15,menantu raja margolang,lainnya
+10,Tokoh-16,"penduduk daerah, rakyat, rakyat haroharo, rakyat raja margolang",lainnya
+10,Tokoh-17,"pembesar kerajaannya, pembesar negara, pembesar negeri",lainnya
+10,Tokoh-18,"kerajaan, pembesar kerajaan",lainnya
+10,Tokoh-19,anggota rombongan,lainnya
+10,Tokoh-20,anggota keluarga,lainnya
+10,Tokoh-21,tuanku syah alam,lainnya
+10,Tokoh-22,perdana menteri,lainnya
+10,Tokoh-23,"istana, pegawai istana",lainnya
+10,Tokoh-24,"kunal, sipakpak kunal",antagonis
+10,Tokoh-25,tukang dayung,lainnya
+10,Tokoh-26,kerabat raja,lainnya
+10,Tokoh-27,"naga sorai, nagai sori, sori",protagonis
+10,Tokoh-28,ahli nujum,lainnya
+10,Tokoh-29,mataniari,lainnya
+10,Tokoh-30,kepala,lainnya
+10,Tokoh-31,pemuka,lainnya
+10,Tokoh-32,budak,lainnya
+10,Tokoh-33,"kaka, kakandaku",lainnya
+11,Tokoh-1,raja,lainnya
+11,Tokoh-2,"ayah, ayahnya",protagonis
+11,Tokoh-3,"datu, datu pongpangbalasaribu",lainnya
+11,Tokoh-4,datu pulungantua,lainnya
+11,Tokoh-5,"penduduk, penduduk desa",lainnya
+11,Tokoh-6,"setan, setan betina",lainnya
+11,Tokoh-7,"maima, sahang maima",antagonis
+11,Tokoh-8,"babi, babi besar",lainnya
+11,Tokoh-9,datu dalu,lainnya
+11,Tokoh-10,"paman, pamannya",lainnya
+11,Tokoh-11,tujuh,lainnya
+12,Tokoh-1,ibu,lainnya
+12,Tokoh-2,raja pu rempur mayapmayap,lainnya
+12,Tokoh-3,raja bulbulen,lainnya
+12,Tokoh-4,ketujuh hulubalangnya,lainnya
+12,Tokoh-5,pu rempur mayapmayap,protagonis
+12,Tokoh-6,"rakyat, rakyat benua harhar, rakyatnya",antagonis
+12,Tokoh-7,nenek batara guru,lainnya
+12,Tokoh-8,"burung, burung kramat",lainnya
+12,Tokoh-9,pandirabar,lainnya
+12,Tokoh-10,hulubalang,lainnya
+13,Tokoh-1,"ibu, ibu si, ibumu, isteri, isterinya, istri, istri datu kandibata, istrinya, orang tua",antagonis
+13,Tokoh-2,raja alas,lainnya
+13,Tokoh-3,"ayah, orang tua",lainnya
+13,Tokoh-4,"adik, adikku",lainnya
+13,Tokoh-5,beru tandang meriah,protagonis
+13,Tokoh-6,beru tandang karo,protagonis
+13,Tokoh-7,"datu, datu kandibata",lainnya
+13,Tokoh-8,"perempuan tua, tua",lainnya
+13,Tokoh-9,datu besar,lainnya
+13,Tokoh-10,pedagang,protagonis
+13,Tokoh-11,prajurit,lainnya
+13,Tokoh-12,pesuruh,lainnya
+13,Tokoh-13,"kerabat, kerabatnya",lainnya
+13,Tokoh-14,"rakyat, rakyatnya",lainnya
+13,Tokoh-15,murid,lainnya
+13,Tokoh-16,paman,lainnya
+13,Tokoh-17,bibi,lainnya
+14,Tokoh-1,"ibu, ibunya, orang tuanya",lainnya
+14,Tokoh-2,raja ompu pangisi,lainnya
+14,Tokoh-3,raja dirumana,lainnya
+14,Tokoh-4,raja simamen,lainnya
+14,Tokoh-5,"orang tuanya, suami",lainnya
+14,Tokoh-6,anak,lainnya
+14,Tokoh-7,"kakak, kakaknya",lainnya
+14,Tokoh-8,"adik, adiknya",lainnya
+14,Tokoh-9,orang tuanya,lainnya
+14,Tokoh-10,"abang, abangnya",lainnya
+14,Tokoh-11,datu parngongo,lainnya
+14,Tokoh-12,penangkap ikan,lainnya
+14,Tokoh-13,"ompu pangisi, pangisi",protagonis
+14,Tokoh-14,dukun besar,lainnya
+14,Tokoh-15,"bayi, bayi gumul",antagonis
+14,Tokoh-16,taganbulu,lainnya
+14,Tokoh-17,harimau,lainnya
+14,Tokoh-18,nenek,lainnya
+15,Tokoh-1,"puteri raja, puteri sri pandan, puteri yang, tuanku puteri",lainnya
+15,Tokoh-2,permaisuri,lainnya
+15,Tokoh-3,raja simargolang,antagonis
+15,Tokoh-4,raja aceh,lainnya
+15,Tokoh-5,putera mahkota,lainnya
+15,Tokoh-6,"ayaha, ayahanda, ayahanda raja, ayahandanya",protagonis
+15,Tokoh-7,anakku sri pandan,lainnya
+15,Tokoh-8,orang tua utusan,lainnya
+15,Tokoh-9,orang tua,protagonis
+15,Tokoh-10,tuanku raja,lainnya
+15,Tokoh-11,simargolang,protagonis
+15,Tokoh-12,sri pandan,protagonis
+15,Tokoh-13,margolang,lainnya
+15,Tokoh-14,pembantu,protagonis
+15,Tokoh-15,penduduk,lainnya
+15,Tokoh-16,hatoban,protagonis
+15,Tokoh-17,"kekasih, kekasihnya",lainnya
+15,Tokoh-18,pemuda,lainnya
+15,Tokoh-19,orang,protagonis
+16,Tokoh-1,"bu, ibu, ibu tador, ibunya, orang tua tador, orang tuanya",antagonis
+16,Tokoh-2,"ayah, ayah tador, ayahnya, orang tua tador, orang tuanya, suami, suaminya, yah",antagonis
+16,Tokoh-3,"uwak, uwak tador",protagonis
+16,Tokoh-4,"anak, anaknya, nak",protagonis
+16,Tokoh-5,kakek,lainnya
+16,Tokoh-6,"orang tua tador, orang tuanya",antagonis
+16,Tokoh-7,orang tua,antagonis
+16,Tokoh-8,"tetangga, tetangga tador",lainnya
+16,Tokoh-9,"warga, warga kampung",lainnya
+16,Tokoh-10,"ayam, ayam tua",lainnya
+16,Tokoh-11,penjaga,lainnya
+16,Tokoh-12,cacing,lainnya
+16,Tokoh-13,tador,protagonis
+16,Tokoh-14,"nenek, neneknya",lainnya
+16,Tokoh-15,ikan,lainnya
+17,Tokoh-1,raja pangeran mas,lainnya
+17,Tokoh-2,raja empedu,antagonis
+17,Tokoh-3,raja kubang,lainnya
+17,Tokoh-4,raja kubu,lainnya
+17,Tokoh-5,"putri, putri darah putih",lainnya
+17,Tokoh-6,pangeran mas,protagonis
+17,Tokoh-7,penduduk,lainnya
+17,Tokoh-8,utusan,lainnya
+17,Tokoh-9,kerbau,lainnya
+17,Tokoh-10,kubang,protagonis
+17,Tokoh-11,kubu,lainnya
+17,Tokoh-12,tuan,protagonis
+18,Tokoh-1,"ibu, ibunya",lainnya
+18,Tokoh-2,raja,antagonis
+18,Tokoh-3,anak raja,lainnya
+18,Tokoh-4,"kakak, kakaknya",protagonis
+18,Tokoh-5,"adik, adiknya",lainnya
+18,Tokoh-6,"masyarakat setempat, penduduk komering hilir, penduduk setempat",lainnya
+18,Tokoh-7,"kerajaan, panglima kerajaan",lainnya
+18,Tokoh-8,"ratu, ratu wanita sakti",lainnya
+18,Tokoh-9,"pagar bumi, teman pagar bumi",protagonis
+18,Tokoh-10,ketujuh saudara,lainnya
+18,Tokoh-11,penjaga kebun,protagonis
+18,Tokoh-12,puyung suan,lainnya
+18,Tokoh-13,pahit lidah,protagonis
+18,Tokoh-14,orang sakti,lainnya
+18,Tokoh-15,pengawal,lainnya
+18,Tokoh-16,dayang,lainnya
+18,Tokoh-17,pemuda,lainnya
+18,Tokoh-18,gadis,lainnya
+19,Tokoh-1,"bu, ibu, ibu indra, ibunya, istri, istrinya",protagonis
+19,Tokoh-2,"ayah, ayahnya, pak, pak buyung, suami, suami istri, suaminya",antagonis
+19,Tokoh-3,"anak, anaknya",lainnya
+19,Tokoh-4,"orangtua, orangtuanya",lainnya
+19,Tokoh-5,taduang,lainnya
+19,Tokoh-6,indra,lainnya
+19,Tokoh-7,ayam,lainnya
+20,Tokoh-1,"bu, ibu, ibu malin, ibuku, ibumu, ibunya, istri, istrinya",antagonis
+20,Tokoh-2,"anak, anaknya, nak",protagonis
+20,Tokoh-3,putri,lainnya
+20,Tokoh-4,tuhan,lainnya
+20,Tokoh-5,"mande, mande rubayah",protagonis
+20,Tokoh-6,"malin, malin kundang",protagonis
+20,Tokoh-7,lelaki muda,lainnya
+20,Tokoh-8,"wanita, wanita tua",lainnya
+20,Tokoh-9,awak kapal,lainnya
+21,Tokoh-1,"ibu, ibunya",protagonis
+21,Tokoh-2,"ayah, ayahnya, bapak",protagonis
+21,Tokoh-3,anak gadis,protagonis
+21,Tokoh-4,"tujuh, tujuh orang pintar",lainnya
+21,Tokoh-5,"angku rajo kaciak, rajo kaciak",protagonis
+21,Tokoh-6,sutan rumanduang,lainnya
+21,Tokoh-7,cerdik pandai,lainnya
+21,Tokoh-8,"siamang, siamang putih",lainnya
+21,Tokoh-9,"puti, puti julian",antagonis
+21,Tokoh-10,alim ulama,lainnya
+21,Tokoh-11,bangsawan,lainnya
+21,Tokoh-12,penduduk,lainnya
+21,Tokoh-13,penghulu,lainnya
+21,Tokoh-14,saudagar,lainnya
+21,Tokoh-15,rustam,lainnya
+21,Tokoh-16,pemuda,lainnya
+21,Tokoh-17,gadis,lainnya
+21,Tokoh-18,"cucu, cucunya",lainnya
+21,Tokoh-19,uda,lainnya
+21,Tokoh-20,"ang, angku",lainnya
+22,Tokoh-1,"suami, suaminya",protagonis
+22,Tokoh-2,"anak, anaknya",lainnya
+22,Tokoh-3,"anjing, anjing penjaga, anjing penjaga ladang",lainnya
+22,Tokoh-4,"mak, mak siti, siti",antagonis
+22,Tokoh-5,"ipeh, mak ipeh",protagonis
+22,Tokoh-6,"bayo, bayomu, bayonya",protagonis
+23,Tokoh-1,"bu, ibu, ibunya, orang tua",protagonis
+23,Tokoh-2,"ayah, orang tua, suami, suaminya",lainnya
+23,Tokoh-3,"anak gadis, anak gadisnya, anak seorang janda miskin, nak",antagonis
+23,Tokoh-4,tuhan,lainnya
+23,Tokoh-5,mak siyah,protagonis
+23,Tokoh-6,tek kanah,lainnya
+23,Tokoh-7,penduduk,lainnya
+23,Tokoh-8,bujang,protagonis
+23,Tokoh-9,gadis,antagonis
+23,Tokoh-10,siti,antagonis
+24,Tokoh-1,"ibu, ibumu, ibunya, istri",protagonis
+24,Tokoh-2,"ayah, ayahnya",protagonis
+24,Tokoh-3,"kak saku, kakak, kakak sulungnya, kakaknya, saku",protagonis
+24,Tokoh-4,"adik, adik bungsunya, adikku, adiknya",lainnya
+24,Tokoh-5,anggota keluarga kecil,lainnya
+24,Tokoh-6,abatan,lainnya
+24,Tokoh-7,bungsu,protagonis
+24,Tokoh-8,sulung,protagonis
+24,Tokoh-9,nenek,lainnya
+24,Tokoh-10,seko,lainnya
+24,Tokoh-11,babi,lainnya
+25,Tokoh-1,"bu, ibu, ibunya, istri, istri sang kepala suku",protagonis
+25,Tokoh-2,"ayah, ayahnya, suami, suaminya, yah",antagonis
+25,Tokoh-3,"anak kecil, anak semata wayangnya, nak",protagonis
+25,Tokoh-4,kakek tuan putri,protagonis
+25,Tokoh-5,kesepuluh pasangan suami istri,lainnya
+25,Tokoh-6,prajurit dari bangsa jin,lainnya
+25,Tokoh-7,sakti mandraguna,protagonis
+25,Tokoh-8,sigar penjalin,protagonis
+25,Tokoh-9,"desa, penduduk desa",antagonis
+25,Tokoh-10,tameng muter,protagonis
+25,Tokoh-11,"patih, patih songan",lainnya
+25,Tokoh-12,dewi anjani,protagonis
+25,Tokoh-13,kepala suku,antagonis
+25,Tokoh-14,"bayi, bayi ajaib, yang ajaib",protagonis
+25,Tokoh-15,"tuan, tuan putri, tuannya",protagonis
+25,Tokoh-16,"doyan, doyan nada",protagonis
+25,Tokoh-17,limandaru,antagonis
+25,Tokoh-18,ratu jin,protagonis
+25,Tokoh-19,pertapa,protagonis
+25,Tokoh-20,raksasa,antagonis
+25,Tokoh-21,beberi,lainnya
+25,Tokoh-22,burung,lainnya
+25,Tokoh-23,orang,antagonis
+26,Tokoh-1,"istri, istri nusa, istrinya",lainnya
+26,Tokoh-2,"suami, suaminya",protagonis
+26,Tokoh-3,"adik, adik ipar, adik ipar nusa, adik iparnya, dik",lainnya
+26,Tokoh-4,"abang, bang",protagonis
+26,Tokoh-5,"ikan, ikan saluang",antagonis
+26,Tokoh-6,"naga, naga besar, naga nusa, nusa",protagonis
+26,Tokoh-7,"tuan, tuan naga",protagonis
+26,Tokoh-8,ular naga,protagonis
+26,Tokoh-9,warga,lainnya
+27,Tokoh-1,"ibu, ibumu, istri, istrinya",lainnya
+27,Tokoh-2,"ayah, ayahnya, suami, suaminya",lainnya
+27,Tokoh-3,"anak, anak muda, anaknya",protagonis
+27,Tokoh-4,adik,protagonis
+27,Tokoh-5,"kakek, kek",lainnya
+27,Tokoh-6,"putri kesayangannya, putri tuan",lainnya
+27,Tokoh-7,"abang, bang",protagonis
+27,Tokoh-8,"ikan, ikan patin",antagonis
+27,Tokoh-9,ikan besar,lainnya
+27,Tokoh-10,manyang,protagonis
+27,Tokoh-11,leniri,lainnya
+27,Tokoh-12,simbun,lainnya
+27,Tokoh-13,pemuda,lainnya
+27,Tokoh-14,labih,lainnya
+27,Tokoh-15,"putra, putranya",lainnya
+27,Tokoh-16,tuan,protagonis
+27,Tokoh-17,niri,lainnya
+27,Tokoh-18,bayi,lainnya
+27,Tokoh-19,ari,lainnya
+28,Tokoh-1,"bu, bu nenek, ibu, ibunya",protagonis
+28,Tokoh-2,raja,lainnya
+28,Tokoh-3,"ayah, suami, suaminya",lainnya
+28,Tokoh-4,"anak muda, nak",protagonis
+28,Tokoh-5,"adik, adik tercintanya, adikku, adikmu, adiknya, dik",protagonis
+28,Tokoh-6,putri raja,lainnya
+28,Tokoh-7,"abang, abangnya, bang",lainnya
+28,Tokoh-8,ranying hatalla langit,lainnya
+28,Tokoh-9,perempuan paruh baya,lainnya
+28,Tokoh-10,pengawal istana,lainnya
+28,Tokoh-11,perempuan tua,lainnya
+28,Tokoh-12,"nek, nenek, nenek malang",antagonis
+28,Tokoh-13,dohong,protagonis
+28,Tokoh-14,"ambun, rimbun",protagonis
+28,Tokoh-15,janda,lainnya
+28,Tokoh-16,"cucu, cucunya",lainnya
+29,Tokoh-1,pemimpin para dewa,lainnya
+29,Tokoh-2,sakti mandraguna,lainnya
+29,Tokoh-3,batara narada,lainnya
+29,Tokoh-4,pemuda tampan,lainnya
+29,Tokoh-5,batara togog,lainnya
+29,Tokoh-6,"batara semar, semar",protagonis
+29,Tokoh-7,"dewa indra, dewa narada",lainnya
+29,Tokoh-8,"pandu, prabu pandu",lainnya
+29,Tokoh-9,dewa ismaya,lainnya
+29,Tokoh-10,dewa perang,lainnya
+29,Tokoh-11,"batara guru, guru",lainnya
+29,Tokoh-12,pandawa,lainnya
+29,Tokoh-13,arjuna,antagonis
+29,Tokoh-14,tujuh,lainnya
+29,Tokoh-15,raden,lainnya
+29,Tokoh-16,hai,lainnya
+29,Tokoh-17,den,protagonis
+30,Tokoh-1,"ibu, ibunya",lainnya
+30,Tokoh-2,anak muda,protagonis
+30,Tokoh-3,"putri kemuning, putri semata wayangnya",lainnya
+30,Tokoh-4,tuhan yang maha kuasa,lainnya
+30,Tokoh-5,"rakyat, rakyat kerajaan ringin anom, rakyatku, rakyatnya, warga",lainnya
+30,Tokoh-6,"prabu, prabu aryo seto",antagonis
+30,Tokoh-7,"naga, naga sakti, ular naga sakti",protagonis
+30,Tokoh-8,"budug, jaka budug",protagonis
+30,Tokoh-9,pangeran,lainnya
+30,Tokoh-10,pemuda,lainnya
+30,Tokoh-11,yang,lainnya
+31,Tokoh-1,"ibu, ibunya",lainnya
+31,Tokoh-2,"permaisuri, permaisurinya",lainnya
+31,Tokoh-3,raja,lainnya
+31,Tokoh-4,ayah,lainnya
+31,Tokoh-5,"putri kandita, putri prabu siliwangi",antagonis
+31,Tokoh-6,"prabu, prabu siliwangi, selir, selir prabu siliwangi, selirku",protagonis
+31,Tokoh-7,peserta rapat,lainnya
+31,Tokoh-8,pangeran,lainnya
+31,Tokoh-9,istana,lainnya
+31,Tokoh-10,dukun,lainnya
+32,Tokoh-1,"raja, raja riak bakau",protagonis
+32,Tokoh-2,"kakek bagus, kakek misterius, kek",lainnya
+32,Tokoh-3,tuhan,lainnya
+32,Tokoh-4,syekh abdullatif,lainnya
+32,Tokoh-5,"penduduk, rakyat, warga, warganya",lainnya
+32,Tokoh-6,prajurit,lainnya
+32,Tokoh-7,"ayam, ayamku",lainnya
+32,Tokoh-8,tuan,protagonis
+33,Tokoh-1,"gadis, putri arum, putri cadasari, putri raja, tuan putri",antagonis
+33,Tokoh-2,"pangeran, pangeran bengis, pangeran sae, pangeran sae bagus, pangeran sae bagus lana",protagonis
+33,Tokoh-3,"penduduk, penduduk kampung, penduduk setempat, rakyat",lainnya
+33,Tokoh-4,sakti mandraguna,lainnya
+33,Tokoh-5,pangeran cunihin,protagonis
+33,Tokoh-6,tetua kampung,lainnya
+33,Tokoh-7,dewa penolong,lainnya
+33,Tokoh-8,"gelang, pande, pande gelang",protagonis
+33,Tokoh-9,"ki, ki pande",lainnya
+33,Tokoh-10,lelaki,lainnya
+33,Tokoh-11,"guru, gurunya",lainnya
+34,Tokoh-1,"ibu, ibunya, istri raja muda, istri saudagar",lainnya
+34,Tokoh-2,permaisuri,lainnya
+34,Tokoh-3,raja buaya,lainnya
+34,Tokoh-4,raja muda,lainnya
+34,Tokoh-5,"ayah, ayahnya, suami, suaminya",protagonis
+34,Tokoh-6,adik sang raja,lainnya
+34,Tokoh-7,"putri, putri niwer gading, tuan putri",lainnya
+34,Tokoh-8,putra mahkota,lainnya
+34,Tokoh-9,"saudagar, saudagar kaya",lainnya
+34,Tokoh-10,"ikan besar, naga, naga besar",lainnya
+34,Tokoh-11,amat mude,antagonis
+34,Tokoh-12,"keponakan, keponakannya",lainnya
+34,Tokoh-13,paman,lainnya
+35,Tokoh-1,"ibu, ibunya, istri, istrinya",protagonis
+35,Tokoh-2,"pakcik, pakcikmu",antagonis
+35,Tokoh-3,"puteri bungsu, puteri bungsunya",protagonis
+35,Tokoh-4,puteri raja,protagonis
+35,Tokoh-5,raja,protagonis
+35,Tokoh-6,"ayah, ayah banta seudang, ayahku, ayahnya, bapak",protagonis
+35,Tokoh-7,"adik, adik kandungnya, adikku, adiknya",antagonis
+35,Tokoh-8,ketujuh puteri,protagonis
+35,Tokoh-9,"banta, banta seudang",protagonis
+35,Tokoh-10,gajah putih,lainnya
+35,Tokoh-11,wanita tua,protagonis
+35,Tokoh-12,"imam, imam salat",lainnya
+35,Tokoh-13,"mak, mak toyo",protagonis
+35,Tokoh-14,"jin, jin pari",protagonis
+35,Tokoh-15,"aulia, aulia al, aulia allah",lainnya
+35,Tokoh-16,"kucing, kucingnya",protagonis
+35,Tokoh-17,"lain, lainnya",lainnya
+35,Tokoh-18,nek,protagonis
+36,Tokoh-1,"masyarakat adat, penduduk, penduduk kampung",protagonis
+36,Tokoh-2,datu musa,antagonis
+37,Tokoh-1,ayah sari,lainnya
+37,Tokoh-2,dukun tua,lainnya
+37,Tokoh-3,wanita,protagonis
+37,Tokoh-4,sari,lainnya
+37,Tokoh-5,rama,antagonis
+38,Tokoh-1,"bu minah, ibu, ibunya, minah",protagonis
+38,Tokoh-2,"anak, anaknya",protagonis
+38,Tokoh-3,batu betangkup,lainnya
+38,Tokoh-4,janda tua,lainnya
+39,Tokoh-1,"masyarakat, masyarakat papua nugini, warga masyarakat",antagonis
+39,Tokoh-2,tetua adat,lainnya
+39,Tokoh-3,naga,protagonis
+40,Tokoh-1,wongge,protagonis
+40,Tokoh-2,meja,antagonis
+41,Tokoh-1,raksasa jahat,antagonis
+41,Tokoh-2,"pemuda, pemuda muda",lainnya
+41,Tokoh-3,dewi cantik,lainnya
+41,Tokoh-4,dewi anjani,protagonis
+41,Tokoh-5,jaka daha,lainnya
+41,Tokoh-6,dewa,protagonis
+42,Tokoh-1,raja hutan,lainnya
+42,Tokoh-2,"putri anggun, putri cantik",lainnya
+42,Tokoh-3,anggun,protagonis
+42,Tokoh-4,adi,antagonis
+43,Tokoh-1,"gajah, gajah sakti",antagonis
+43,Tokoh-2,pemburu,lainnya
+43,Tokoh-3,kancil,protagonis
+44,Tokoh-1,penduduk desa,lainnya
+44,Tokoh-2,pemimpin suku,lainnya
+44,Tokoh-3,"rara, rara anteng",lainnya
+44,Tokoh-4,"dewa gunung, gunung",antagonis
+44,Tokoh-5,jaka seger,lainnya
+44,Tokoh-6,pahlawan,lainnya
+44,Tokoh-7,tengger,protagonis
+44,Tokoh-8,pemuda,lainnya
+44,Tokoh-9,bima,lainnya
+45,Tokoh-1,raja,lainnya
+45,Tokoh-2,"putri, putri cantik",antagonis
+45,Tokoh-3,prajurit kerajaan jenggala,lainnya
+45,Tokoh-4,dewi kilisuci,protagonis
+45,Tokoh-5,ayam jantan,lainnya
+45,Tokoh-6,mahesa suro,lainnya
+45,Tokoh-7,lembu suro,lainnya
+46,Tokoh-1,raden cilik,protagonis
+46,Tokoh-2,"desa, warga desa",lainnya
+47,Tokoh-1,bangsawan kerajaan,lainnya
+47,Tokoh-2,"panji, panji asmoro",protagonis
+47,Tokoh-3,dukun tua,lainnya
+47,Tokoh-4,pangeran,lainnya
+48,Tokoh-1,"dewa sungai sempor, sempor",protagonis
+48,Tokoh-2,"desa, penduduk desa, penduduk sempor",protagonis
+48,Tokoh-3,penguasa jahat,lainnya
+48,Tokoh-4,raden purnama,lainnya
+48,Tokoh-5,jaka sempor,lainnya
+48,Tokoh-6,kepala desa,lainnya
+49,Tokoh-1,raja jin sepanjang,protagonis
+49,Tokoh-2,raja jin,lainnya
+49,Tokoh-3,"suami, suaminya",lainnya
+49,Tokoh-4,"martoyuda, tumenggung martoyuda",lainnya
+49,Tokoh-5,ratu pantai selatan,lainnya
+49,Tokoh-6,panembahan senopati,lainnya
+49,Tokoh-7,ki gede pemanahan,protagonis
+49,Tokoh-8,pangeran purbaya,lainnya
+49,Tokoh-9,"raden krincing, raden kuning",lainnya
+49,Tokoh-10,"jin, jin sepanjang",protagonis
+49,Tokoh-11,kyai keramat,antagonis
+49,Tokoh-12,nyai bogem,lainnya
+49,Tokoh-13,santa,lainnya
+50,Tokoh-1,"puyang adong, ratu, ratu puyang adong",protagonis
+50,Tokoh-2,"desa, penduduk desa",lainnya
+51,Tokoh-1,"ki rangga gading, rangga gading",protagonis
+51,Tokoh-2,"warga, warga sekampung",lainnya
+51,Tokoh-3,penjaga,lainnya
+51,Tokoh-4,gantel,lainnya
+51,Tokoh-5,burung,lainnya
+51,Tokoh-6,eyang,lainnya
+51,Tokoh-7,ulama,lainnya
+52,Tokoh-1,permaisuri kerajaan,lainnya
+52,Tokoh-2,"raja, raja asli",lainnya
+52,Tokoh-3,ayah angkatnya,lainnya
+52,Tokoh-4,menteri,lainnya
+52,Tokoh-5,"prabu barma wijaya, prabu barma wijaya kusumah",protagonis
+52,Tokoh-6,"ayam, ayam ciung wanara, ciung, ciung wanara",antagonis
+52,Tokoh-7,dewi naganingrum,lainnya
+52,Tokoh-8,petugas kerajaan,lainnya
+52,Tokoh-9,dewi pangrenyep,lainnya
+52,Tokoh-10,"penduduk desa, rakyat galuh",lainnya
+52,Tokoh-11,prabu permana,lainnya
+52,Tokoh-12,hariang banga,lainnya
+52,Tokoh-13,ajar sukaresi,lainnya
+52,Tokoh-14,aria kebonan,lainnya
+52,Tokoh-15,ayam jantan,lainnya
+52,Tokoh-16,uwa batara,lainnya
+52,Tokoh-17,perempuan,lainnya
+52,Tokoh-18,nagawiru,protagonis
+52,Tokoh-19,pemuda,lainnya
+52,Tokoh-20,putra,lainnya
+53,Tokoh-1,penduduk desa,lainnya
+53,Tokoh-2,mbok sari,antagonis
+53,Tokoh-3,"nenek, neneknya",lainnya
+53,Tokoh-4,anom,protagonis
+54,Tokoh-1,"ibu, istri, istrinya",lainnya
+54,Tokoh-2,"raja, raja airlangga",lainnya
+54,Tokoh-3,"anak buahnya, anak perempuan calon arang",lainnya
+54,Tokoh-4,"arang, calon arang, pasukan calon arang",protagonis
+54,Tokoh-5,dewi angkara murka,lainnya
+54,Tokoh-6,nyi calon arang,lainnya
+54,Tokoh-7,ratna manggali,lainnya
+54,Tokoh-8,"penduduk, penduduk desa, rakyat, rakyatku",lainnya
+54,Tokoh-9,prajurit daha,lainnya
+54,Tokoh-10,empu barada,lainnya
+54,Tokoh-11,empu bahula,antagonis
+54,Tokoh-12,dinda ratna,lainnya
+54,Tokoh-13,paman patih,lainnya
+54,Tokoh-14,ahli sihir,lainnya
+54,Tokoh-15,kerajaan,lainnya
+54,Tokoh-16,gadis,lainnya
+55,Tokoh-1,"ibu, ibunya, istri, istri saudagar, istrinya",lainnya
+55,Tokoh-2,raja buaya,lainnya
+55,Tokoh-3,raja muda,lainnya
+55,Tokoh-4,putri niwer gading,lainnya
+55,Tokoh-5,"amat mude, paman amat mude",protagonis
+55,Tokoh-6,saudagar,lainnya
+55,Tokoh-7,gading,lainnya
+55,Tokoh-8,naga,lainnya
+55,Tokoh-9,ratu,lainnya
+56,Tokoh-1,raja linge,lainnya
+56,Tokoh-2,ayah,lainnya
+56,Tokoh-3,"sultan, sultan meurah",antagonis
+56,Tokoh-4,sultan alam,lainnya
+56,Tokoh-5,"naga, naga besar",lainnya
+56,Tokoh-6,tuan tapa,protagonis
+56,Tokoh-7,"rakyat, warga",lainnya
+57,Tokoh-1,siluman penyu,lainnya
+57,Tokoh-2,watu maladong,lainnya
+57,Tokoh-3,dukun sakti,lainnya
+57,Tokoh-4,"desa, kepala desa",protagonis
+57,Tokoh-5,tuan rumah,lainnya
+57,Tokoh-6,"babi, babi hutan",protagonis
+57,Tokoh-7,petani,protagonis
+57,Tokoh-8,nenek,lainnya
+57,Tokoh-9,warga,lainnya
+58,Tokoh-1,istri,lainnya
+58,Tokoh-2,hyang widhi wasa,lainnya
+58,Tokoh-3,"desa, penduduk, penduduk desa, warga, warga desa",protagonis
+58,Tokoh-4,paman kerbau,lainnya
+58,Tokoh-5,kepala desa,lainnya
+58,Tokoh-6,kebo iwa,protagonis
+59,Tokoh-1,raja negeri luhu,lainnya
+59,Tokoh-2,raja soya,lainnya
+59,Tokoh-3,"putri, putri ta ina luhu",protagonis
+59,Tokoh-4,"warga, warga sekitar",lainnya
+59,Tokoh-5,"luhu, ta ina luhu",antagonis
+59,Tokoh-6,"nenek, nenek luhu",lainnya
+59,Tokoh-7,soya,lainnya
+60,Tokoh-1,raja jin kluntung wuluh,lainnya
+60,Tokoh-2,"ayah, ayahnya, bapak, bapaknya",protagonis
+60,Tokoh-3,"anak, anaknya",lainnya
+60,Tokoh-4,"adik, adiknya",lainnya
+60,Tokoh-5,putri,lainnya
+60,Tokoh-6,"raden, raden panembahan batara katong",lainnya
+60,Tokoh-7,"adipati raden batara katong, raden batara katong",lainnya
+60,Tokoh-8,"jin kluntung mungil, jin kluntung wuluh, kluntung wuluh, mungil",protagonis
+60,Tokoh-9,"suro handoko, warok, warok suro handoko, warok surohandoko",protagonis
+60,Tokoh-10,guru batara katong,lainnya
+60,Tokoh-11,panembahan agung,protagonis
+60,Tokoh-12,warok singobowo,lainnya
+60,Tokoh-13,"roro, roro warsiyani",protagonis
+60,Tokoh-14,warok gunaseco,lainnya
+60,Tokoh-15,"penari, penari jatilan",lainnya
+60,Tokoh-16,roro suminten,antagonis
+60,Tokoh-17,raden subroto,lainnya
+60,Tokoh-18,cempluk,lainnya
+60,Tokoh-19,bopo,protagonis
+61,Tokoh-1,"ibu, ibunya",protagonis
+61,Tokoh-2,tanggang,antagonis
+62,Tokoh-1,"ibu, ibunya",lainnya
+62,Tokoh-2,"ikan, ikan gabus emas",protagonis
+62,Tokoh-3,"penduduk asli, penduduk desa",lainnya
+62,Tokoh-4,raden surya,lainnya
+62,Tokoh-5,berto,antagonis
+62,Tokoh-6,tua,lainnya
+63,Tokoh-1,raja hitam,antagonis
+63,Tokoh-2,raja jahat,lainnya
+63,Tokoh-3,raja muda,protagonis
+63,Tokoh-4,"rakyat, rakyatnya",lainnya
+64,Tokoh-1,babi hutan,lainnya
+64,Tokoh-2,sigarlaki,protagonis
+64,Tokoh-3,pembantu,lainnya
+64,Tokoh-4,kepiting,lainnya
+64,Tokoh-5,pencuri,lainnya
+64,Tokoh-6,"limbat, limbatlah",protagonis
+64,Tokoh-7,rusa,lainnya
+64,Tokoh-8,"tuan, tuanku, tuannya",protagonis
+65,Tokoh-1,"kepiting, kepitinglah",protagonis
+65,Tokoh-2,ayam,antagonis
+65,Tokoh-3,kera,protagonis
+66,Tokoh-1,"bu, ibu, ibuku, ibumu, ibunya, istri, istrinya",protagonis
+66,Tokoh-2,"ayah, bapak, pak, suami, suaminya",lainnya
+66,Tokoh-3,"anak, anak yang bungsu, anaknya",protagonis
+66,Tokoh-4,"kak, kakak, kakaknya",lainnya
+66,Tokoh-5,"adik, adiknya, dik",lainnya
+66,Tokoh-6,ikan duyung,lainnya
+66,Tokoh-7,bungsu,lainnya
+66,Tokoh-8,wanita,lainnya
+66,Tokoh-9,yang,protagonis
+67,Tokoh-1,permaisuri,lainnya
+67,Tokoh-2,raja bone,lainnya
+67,Tokoh-3,"ayaha, ayahanda, ayahandamu, ayahandanya",lainnya
+67,Tokoh-4,"gadis, putri dari luwu, putri tadampalik, putri tercintanya",antagonis
+67,Tokoh-5,panglima anre guru pakanranyeng,lainnya
+67,Tokoh-6,"bone, panglima kerajaan bone, panglima perang kerajaan bone",lainnya
+67,Tokoh-7,"putra mahkota, putra mahkota kerajaan",lainnya
+67,Tokoh-8,tabib istana,lainnya
+67,Tokoh-9,"luwu, rakyat, rakyat luwu, rakyatku, rakyatnya",lainnya
+67,Tokoh-10,"kerbau, kerbau bule",lainnya
+67,Tokoh-11,"datu, datu luwu",protagonis
+67,Tokoh-12,pengawal,lainnya
+67,Tokoh-13,"pengikut, pengikutnya",lainnya
+67,Tokoh-14,pangeran,lainnya
+67,Tokoh-15,dewa,lainnya
+67,Tokoh-16,nak,protagonis
+68,Tokoh-1,"raja alekawi bumi, raja bumi",lainnya
+68,Tokoh-2,raja langit,lainnya
+68,Tokoh-3,"ayah, ayahnya",lainnya
+68,Tokoh-4,"gadis, putri tiongkok",lainnya
+68,Tokoh-5,"anggota kerajaan, anggota kerajaan langit, kerajaan",lainnya
+68,Tokoh-6,kesatria kerajaan,lainnya
+68,Tokoh-7,guru ri selleng,lainnya
+68,Tokoh-8,"we, we tanriyabeng",lainnya
+68,Tokoh-9,"la toge, la toge langi, la toge langilah",antagonis
+68,Tokoh-10,la tenritatta,protagonis
+68,Tokoh-11,la patiganna,lainnya
+68,Tokoh-12,we tenriwaru,protagonis
+68,Tokoh-13,batara lattu,lainnya
+68,Tokoh-14,i la galigo,protagonis
+68,Tokoh-15,la tiuleng,protagonis
+68,Tokoh-16,we cudai,lainnya
+68,Tokoh-17,timo,lainnya
+69,Tokoh-1,"istri, istri towjatuwa, istriku, istrimu, istrinya",lainnya
+69,Tokoh-2,suami,lainnya
+69,Tokoh-3,burung kaswari,lainnya
+69,Tokoh-4,"buaya, buaya besar",protagonis
+69,Tokoh-5,buaya ajaib,lainnya
+69,Tokoh-6,towjatuwa,antagonis
+69,Tokoh-7,wituwe,lainnya
+69,Tokoh-8,bayi,lainnya
+70,Tokoh-1,"ibu, ibu tua, ibunya, istri, istrinya",protagonis
+70,Tokoh-2,"ayah, ayahnya",lainnya
+70,Tokoh-3,"anak anjing, anak perempuan",lainnya
+70,Tokoh-4,adik tirinya,protagonis
+70,Tokoh-5,burung cenderawasih,lainnya
+70,Tokoh-6,"anjing, anjing betina",lainnya
+70,Tokoh-7,"perempuan tua, tua",lainnya
+70,Tokoh-8,"wong, wong koko",lainnya
+70,Tokoh-9,kweiya,antagonis
+71,Tokoh-1,"bu, ibu, istri, orang tuanya",lainnya
+71,Tokoh-2,permaisuri,lainnya
+71,Tokoh-3,"ayah, orang tuanya, suami istri",lainnya
+71,Tokoh-4,"kak, kakak, kakak lelakinya, kakaknya",protagonis
+71,Tokoh-5,"adik, adiknya",lainnya
+71,Tokoh-6,orang tuanya,protagonis
+71,Tokoh-7,orang tua,lainnya
+71,Tokoh-8,burung kecil,lainnya
+71,Tokoh-9,"hantu hutan, hutan",protagonis
+71,Tokoh-10,"ikun, suri ikun, suri ikunlah",antagonis
+71,Tokoh-11,ketujuh,protagonis
+71,Tokoh-12,saudara,protagonis
+71,Tokoh-13,rakyat,lainnya
+71,Tokoh-14,keenam,lainnya
+72,Tokoh-1,"bu, ibu, ibunya, istri",protagonis
+72,Tokoh-2,"suami, suaminya",lainnya
+72,Tokoh-3,"anak, anaknya",lainnya
+72,Tokoh-4,kakak,lainnya
+72,Tokoh-5,adik,lainnya
+72,Tokoh-6,"burung kekuwo, burung kelik",lainnya
+72,Tokoh-7,"amaq lembain, inaq lembain, lembain",protagonis
+72,Tokoh-8,penduduk,lainnya
+72,Tokoh-9,dewata,lainnya
+73,Tokoh-1,orang tua magohiduuru,protagonis
+73,Tokoh-2,nona endo lisawa,lainnya
+73,Tokoh-3,"penduduk, penduduk dusun",lainnya
+73,Tokoh-4,magohiduuru,antagonis
+73,Tokoh-5,nona laeng,lainnya
+73,Tokoh-6,tetua adat,lainnya
+73,Tokoh-7,majojaru,lainnya
+73,Tokoh-8,orang,protagonis
+74,Tokoh-1,"desa, penduduk, penduduk desa",lainnya
+74,Tokoh-2,aminah,protagonis
+74,Tokoh-3,gadis,lainnya
+74,Tokoh-4,buaya,antagonis
+75,Tokoh-1,"prajurit sang puteri jelita, puteri aji, puteri aji berdarah putih, puteri cantik, puteri jelita",antagonis
+75,Tokoh-2,raja terhormat,lainnya
+75,Tokoh-3,raja sakti,lainnya
+75,Tokoh-4,raja cina,protagonis
+75,Tokoh-5,panglima perangnya,lainnya
+75,Tokoh-6,prajurit raja cina,lainnya
+75,Tokoh-7,anjing,lainnya
+76,Tokoh-1,"puteri karang melenu, putri junjung, putri karang melenu",lainnya
+76,Tokoh-2,raja cina,antagonis
+76,Tokoh-3,anak sawah,lainnya
+76,Tokoh-4,kakek,lainnya
+76,Tokoh-5,"aji betara agung dewa sakti, dewa, dewa sakti",protagonis
+76,Tokoh-6,petinggi halu dusun,lainnya
+76,Tokoh-7,lembu suana,lainnya
+76,Tokoh-8,"naga, naga kutai",lainnya
+76,Tokoh-9,valentjin,lainnya
+76,Tokoh-10,"penggawa, penggawanya",lainnya
+76,Tokoh-11,delapan,lainnya
+76,Tokoh-12,.,protagonis
+77,Tokoh-1,permaisuri,lainnya
+77,Tokoh-2,raja,protagonis
+77,Tokoh-3,"saudara, saudara kembarnya, saudaranya",protagonis
+77,Tokoh-4,prajurit kerajaan,lainnya
+77,Tokoh-5,kembar raja,lainnya
+77,Tokoh-6,"rakyat, rakyatnya",protagonis
+77,Tokoh-7,kapal,lainnya
+77,Tokoh-8,buaya,lainnya
+77,Tokoh-9,naga,antagonis
+77,Tokoh-10,alam,lainnya
+78,Tokoh-1,"ibu, ibunya",protagonis
+78,Tokoh-2,"suami, suaminya",lainnya
+78,Tokoh-3,"anak, anaknya",protagonis
+78,Tokoh-4,"putri, putrinya",lainnya
+78,Tokoh-5,tuhan,lainnya
+78,Tokoh-6,penduduk sekitar,lainnya
+78,Tokoh-7,"pembantu, pembantunya",protagonis
+78,Tokoh-8,pemuda,lainnya
+78,Tokoh-9,cantik,protagonis
+78,Tokoh-10,darmi,antagonis
+79,Tokoh-1,"bu, ibu, ibu chandrakirana, ibunda, ibunya",lainnya
+79,Tokoh-2,pakar kesehatan istana kediri,lainnya
+79,Tokoh-3,"gadis, gadis yang, puteri, puteri kandungnya, putri, putri permaisuri, putrinya",lainnya
+79,Tokoh-4,"permaisuri, permaisuri kediri",lainnya
+79,Tokoh-5,raja panjalu,lainnya
+79,Tokoh-6,raja kediri,lainnya
+79,Tokoh-7,raja daha,lainnya
+79,Tokoh-8,"ayah, ayaha, ayahandanya, ayahnya",lainnya
+79,Tokoh-9,dewata yang maha agung,lainnya
+79,Tokoh-10,"raden inu, raden inu kertapati",lainnya
+79,Tokoh-11,"chandrakirana, dewi chandrakirana",protagonis
+79,Tokoh-12,"nenek, nenek gagak ireng, nenek sihir, nenek tua",antagonis
+79,Tokoh-13,"tabib, tabib istana",lainnya
+79,Tokoh-14,"dukun, dukun wanita",lainnya
+79,Tokoh-15,"keong, keong emas",lainnya
+79,Tokoh-16,dewi ajeng,lainnya
+79,Tokoh-17,"prabu, rama prabu",lainnya
+80,Tokoh-1,"ayah, ayahnya, suami, suaminya",protagonis
+80,Tokoh-2,anak,protagonis
+80,Tokoh-3,"penduduk desa, penduduk desa pathok, warga, warga desa",lainnya
+80,Tokoh-4,nyai selakanta,lainnya
+80,Tokoh-5,nyi latung,lainnya
+80,Tokoh-6,klinthing,antagonis
+80,Tokoh-7,janda tua,lainnya
+80,Tokoh-8,ki hajar,protagonis
+80,Tokoh-9,nenek,lainnya
+80,Tokoh-10,resi,lainnya
+80,Tokoh-11,naga,protagonis
+81,Tokoh-1,raja bertubuh raksasa,lainnya
+81,Tokoh-2,raja boko,lainnya
+81,Tokoh-3,ayah,lainnya
+81,Tokoh-4,"prajurit, prajurit prambanan",lainnya
+81,Tokoh-5,"roro, roro jonggrang",protagonis
+81,Tokoh-6,makhluk halus,lainnya
+81,Tokoh-7,"pemuda, pemuda desa, pemuda sakti",lainnya
+81,Tokoh-8,"joko, joko bandung",antagonis
+81,Tokoh-9,bibik emban,lainnya
+81,Tokoh-10,ayam jantan,lainnya
+81,Tokoh-11,tentara,lainnya
+81,Tokoh-12,satria,lainnya
+81,Tokoh-13,paduka,lainnya
+81,Tokoh-14,raden,lainnya
+81,Tokoh-15,jin,lainnya
+82,Tokoh-1,"ibu, ibunya",lainnya
+82,Tokoh-2,"suami, suaminya",lainnya
+82,Tokoh-3,anak perempuan,lainnya
+82,Tokoh-4,janda paruh baya,lainnya
+82,Tokoh-5,wanita tua,lainnya
+82,Tokoh-6,mbok srini,protagonis
+82,Tokoh-7,"mas, timun mas",protagonis
+82,Tokoh-8,pertapa,lainnya
+82,Tokoh-9,raksasa,antagonis
+83,Tokoh-1,"kakek, kakek tua",antagonis
+83,Tokoh-2,"kepala desa, pengawal, pengawal kepala desa",protagonis
+83,Tokoh-3,penduduk,lainnya
+83,Tokoh-4,pengemis,lainnya
+84,Tokoh-1,raja,lainnya
+84,Tokoh-2,"ayah, ayahnya",protagonis
+84,Tokoh-3,"putri, putri kerajaan",lainnya
+84,Tokoh-4,"bandung bondowoso, pangeran, pangeran bandung bondowoso",protagonis
+84,Tokoh-5,roro jonggrang,protagonis
+84,Tokoh-6,kerajaan,lainnya
+85,Tokoh-1,"ibu, ibu muda, ibunya",protagonis
+85,Tokoh-2,"suami, suaminya",lainnya
+85,Tokoh-3,"anak, anaknya",lainnya
+85,Tokoh-4,"malin, malin kundang",protagonis
+85,Tokoh-5,"kapten, kapten kapal, kaptennya",lainnya
+85,Tokoh-6,amina,lainnya
+86,Tokoh-1,"bu wuragil, ibu, istri, istrinya, wuragil",protagonis
+86,Tokoh-2,"ayah, ayahnya, pak wuragil, suami, suaminya",antagonis
+86,Tokoh-3,"raja, raja negeri",lainnya
+86,Tokoh-4,"kak, kakak, kakakku",lainnya
+86,Tokoh-5,"putri nilasari, putri tunggalnya",lainnya
+86,Tokoh-6,burung merpati,lainnya
+86,Tokoh-7,ketujuh anak,lainnya
+86,Tokoh-8,raksasa,protagonis
+86,Tokoh-9,sulung,lainnya
+86,Tokoh-10,keenam,lainnya
+86,Tokoh-11,"kyai, nyai",lainnya
+86,Tokoh-12,nak,protagonis
+87,Tokoh-1,"tetangga, tetangganya",lainnya
+87,Tokoh-2,teman sepermainannya,lainnya
+87,Tokoh-3,belulusan ulakh,protagonis
+87,Tokoh-4,"penduduk, penduduk desa, penduduk dosen, penduduk dusun, warga",lainnya
+87,Tokoh-5,sesepuh dusun,lainnya
+87,Tokoh-6,orang didusun,lainnya
+87,Tokoh-7,teman sedusun,lainnya
+87,Tokoh-8,hewan melata,lainnya
+87,Tokoh-9,sahabat,lainnya
+87,Tokoh-10,puyang,lainnya
+87,Tokoh-11,ular,antagonis
+88,Tokoh-1,"raja, raja naga",lainnya
+88,Tokoh-2,"ular, ular tapak angin",protagonis
+88,Tokoh-3,ular besar,lainnya
+88,Tokoh-4,ular naga,lainnya
+88,Tokoh-5,nakal,lainnya
+89,Tokoh-1,"dewa, dewa matahari, matahari",protagonis
+89,Tokoh-2,pembesar dewa,lainnya
+89,Tokoh-3,hyang candra,lainnya
+89,Tokoh-4,hyang surya,lainnya
+89,Tokoh-5,hyang wisnu,lainnya
+89,Tokoh-6,batara guru,lainnya
+89,Tokoh-7,resi narada,lainnya
+89,Tokoh-8,"dewi, dewi biasa",lainnya
+89,Tokoh-9,"bulan, dewa bulan",lainnya
+89,Tokoh-10,kalarahu,protagonis
+89,Tokoh-11,raksasa,antagonis
+90,Tokoh-1,"permaisuri, permaisurinya",protagonis
+90,Tokoh-2,raja medang,lainnya
+90,Tokoh-3,anak kijang,lainnya
+90,Tokoh-4,rakyat seluruh negeri,lainnya
+90,Tokoh-5,bayi kijang,lainnya
+90,Tokoh-6,dewata,lainnya
+90,Tokoh-7,sulang,antagonis
+90,Tokoh-8,prabu,lainnya
+90,Tokoh-9,nenek,lainnya
+90,Tokoh-10,dukun,lainnya
+90,Tokoh-11,"gusti, gustimu",lainnya
+91,Tokoh-1,kala srenggi,antagonis
+91,Tokoh-2,batara guru,lainnya
+91,Tokoh-3,ki semangke,lainnya
+91,Tokoh-4,resi narada,lainnya
+91,Tokoh-5,babi hutan,lainnya
+91,Tokoh-6,dewi sri,protagonis
+92,Tokoh-1,"ayah, ayahmu, ayahnya, pak mukdima, suami, suaminya",lainnya
+92,Tokoh-2,raja,lainnya
+92,Tokoh-3,"istri, istrinya, istrinya dik",protagonis
+92,Tokoh-4,putri,lainnya
+92,Tokoh-5,orang madura,lainnya
+92,Tokoh-6,tukang sapu,lainnya
+92,Tokoh-7,lasmudin,antagonis
+92,Tokoh-8,mukdima,lainnya
+92,Tokoh-9,"pegawai, pegawainya",lainnya
+92,Tokoh-10,patih,lainnya
+92,Tokoh-11,gusti,lainnya
+92,Tokoh-12,nak,protagonis
+92,Tokoh-13,din,lainnya
+92,Tokoh-14,dik,lainnya
+93,Tokoh-1,"ibu, ibu patih sidapaksa, ibunda, ibunya, istri, istri patih sidapaksa, istriku, istrinya",protagonis
+93,Tokoh-2,"permaisuri, permaisurinya",lainnya
+93,Tokoh-3,raja sindureja,lainnya
+93,Tokoh-4,ayah,lainnya
+93,Tokoh-5,"anak, anakku",lainnya
+93,Tokoh-6,"patih, patih sidapaksa, sidapaksa",protagonis
+93,Tokoh-7,"nenek, nenekku",lainnya
+93,Tokoh-8,bayi,lainnya
+94,Tokoh-1,raja medangkamulan,lainnya
+94,Tokoh-2,adik dora,lainnya
+94,Tokoh-3,"medangkamulan, prabu, prabu medangkamulan",protagonis
+94,Tokoh-4,"aji saka, prabu aji saka, tuan, tuan aji saka",protagonis
+94,Tokoh-5,"paman, paman sembada, sembada",antagonis
+94,Tokoh-6,"dora, paman dora",protagonis
+94,Tokoh-7,rakyat,lainnya
+94,Tokoh-8,patih,lainnya
+95,Tokoh-1,"ibu, ibunda",lainnya
+95,Tokoh-2,permaisuri,lainnya
+95,Tokoh-3,raja bandarangin,lainnya
+95,Tokoh-4,raja kelana,lainnya
+95,Tokoh-5,raja kediri,lainnya
+95,Tokoh-6,"ayah, ayaha, ayahanda",lainnya
+95,Tokoh-7,putriku candra kirana,lainnya
+95,Tokoh-8,putri tunggalnya,lainnya
+95,Tokoh-9,abang,lainnya
+95,Tokoh-10,"panji asmara, panji asmara bangun",lainnya
+95,Tokoh-11,"candra kirana, dinda candra kirana",lainnya
+95,Tokoh-12,dewi candra kirana,lainnya
+95,Tokoh-13,"mbok, mbok rondo, mbok rondo dadapan, rondo dadapan",protagonis
+95,Tokoh-14,patih tamengdita,lainnya
+95,Tokoh-15,"kleting kuning, kleting ungu, kuning, ungu",protagonis
+95,Tokoh-16,"kangkang, yuyu kangkang",lainnya
+95,Tokoh-17,naya genggong,lainnya
+95,Tokoh-18,rakyat kediri,lainnya
+95,Tokoh-19,tukang perahu,lainnya
+95,Tokoh-20,"iren, kleting iren",lainnya
+95,Tokoh-21,ragil kuning,protagonis
+95,Tokoh-22,sabda palon,lainnya
+95,Tokoh-23,"kleting ljo, ljo",lainnya
+95,Tokoh-24,"ande, ande lumut, lumut",protagonis
+95,Tokoh-25,kodok ljo,lainnya
+95,Tokoh-26,pemuda,lainnya
+95,Tokoh-27,doyok,lainnya
+95,Tokoh-28,nduk,lainnya
+96,Tokoh-1,"pak sabar, pak sabar bar",lainnya
+96,Tokoh-2,"bu mellas, bu sabar, istri, istrinya, ma ti",lainnya
+96,Tokoh-3,tukang emas,lainnya
+96,Tokoh-4,"saudara, saudaranya",protagonis
+96,Tokoh-5,anjing,lainnya
+96,Tokoh-6,kucing,antagonis
+96,Tokoh-7,tikus,lainnya
+96,Tokoh-8,pria,antagonis
+96,Tokoh-9,dik,lainnya
+97,Tokoh-1,"ibu, ibuku, ibunya",protagonis
+97,Tokoh-2,ayah,lainnya
+97,Tokoh-3,kakek buto ljo,lainnya
+97,Tokoh-4,tuhan,lainnya
+97,Tokoh-5,"mbok, mbok rondo, mbok rondo dadapan, rondo, rondo dadapan",protagonis
+97,Tokoh-6,"nini buto, nini buto ljo",lainnya
+97,Tokoh-7,bawang merah,protagonis
+97,Tokoh-8,bawang putih,antagonis
+97,Tokoh-9,"saudara, saudaranya",lainnya
+97,Tokoh-10,"nek, nenek",lainnya
+97,Tokoh-11,janda,lainnya
+97,Tokoh-12,paman,lainnya
+97,Tokoh-13,nak,protagonis
+98,Tokoh-1,"ayah, ayah mereka, ayahnya",lainnya
+98,Tokoh-2,"kakak, kakaknya",lainnya
+98,Tokoh-3,"adik, adiknya",lainnya
+98,Tokoh-4,"putri, putri sulung",lainnya
+98,Tokoh-5,prabu tapa agung,lainnya
+98,Tokoh-6,"kasarung, lutung kasarung",protagonis
+98,Tokoh-7,nenek sihir,lainnya
+98,Tokoh-8,purbararang,lainnya
+98,Tokoh-9,purbasari,antagonis
+98,Tokoh-10,pengawal,lainnya
+98,Tokoh-11,monyet,lainnya
+98,Tokoh-12,"rakyat, rakyatnya",lainnya
+98,Tokoh-13,pemuda,lainnya
+98,Tokoh-14,patih,lainnya
+99,Tokoh-1,"bu, ibu, ibunya",protagonis
+99,Tokoh-2,"raja, raja sungging perbangkara",lainnya
+99,Tokoh-3,"ayah, ayahnya",protagonis
+99,Tokoh-4,babi hutan betina,lainnya
+99,Tokoh-5,hyang tunggul,lainnya
+99,Tokoh-6,dayang sumbi,antagonis
+99,Tokoh-7,makhluk gaib,lainnya
+99,Tokoh-8,gadis jelita,lainnya
+99,Tokoh-9,sangkuriang,protagonis
+99,Tokoh-10,babi betina,lainnya
+99,Tokoh-11,wayungyang,lainnya
+99,Tokoh-12,dewata,lainnya
+99,Tokoh-13,tumang,lainnya
+99,Tokoh-14,pemuda,lainnya
+100,Tokoh-1,pak,lainnya
+100,Tokoh-2,"kakek, kakek tua",antagonis
+100,Tokoh-3,tuhan,lainnya
+100,Tokoh-4,"penduduk, penduduk desa, penduduk kampung, warga, warga kampung",protagonis
+100,Tokoh-5,"pengemis, pengemis tua",lainnya
+100,Tokoh-6,"endit, nyai endit",protagonis
+100,Tokoh-7,"nyi, nyi asih",lainnya
+100,Tokoh-8,centeng,lainnya
+100,Tokoh-9,petani,lainnya
+100,Tokoh-10,hai,lainnya
+101,Tokoh-1,"ibu angkatnya, istri, istrinya",lainnya
+101,Tokoh-2,"permaisuri pohaci, permaisuri pohaci naganingrum",lainnya
+101,Tokoh-3,permaisuri kedua raja,lainnya
+101,Tokoh-4,"raja, rajaku",antagonis
+101,Tokoh-5,ayah,protagonis
+101,Tokoh-6,"ayam, ayam ciung wanara, ciung wanara, wanara",protagonis
+101,Tokoh-7,dewi pangrenyep,lainnya
+101,Tokoh-8,pegawai istana,lainnya
+101,Tokoh-9,"hariang, hariang banga",lainnya
+101,Tokoh-10,"pohaci, putra pohaci",lainnya
+101,Tokoh-11,naganingrum,lainnya
+101,Tokoh-12,pengawal,lainnya
+101,Tokoh-13,nini,lainnya
+101,Tokoh-14,aki,lainnya
+101,Tokoh-15,ki,lainnya
+102,Tokoh-1,raja,lainnya
+102,Tokoh-2,"putri, putri kecil, putriku",lainnya
+102,Tokoh-3,penasihat kerajaan,lainnya
+102,Tokoh-4,ahli perhiasan,protagonis
+102,Tokoh-5,paman kerbau,lainnya
+102,Tokoh-6,"masyarakat, penduduk, rakyat",antagonis
+102,Tokoh-7,kebo iwa,lainnya
+102,Tokoh-8,prabu,lainnya
+102,Tokoh-9,ratu,lainnya
+102,Tokoh-10,nak,protagonis
+103,Tokoh-1,"bu, ibu, ibunya, isteri, isterinya",protagonis
+103,Tokoh-2,"puteri bungsu, puteri bungsu raja, puteri bungsuku, puteri raja",lainnya
+103,Tokoh-3,raja,antagonis
+103,Tokoh-4,"suami, suaminya",lainnya
+103,Tokoh-5,"anak, anaknya",protagonis
+103,Tokoh-6,tuhan,lainnya
+103,Tokoh-7,ikan besar,lainnya
+103,Tokoh-8,rakyat,lainnya
+104,Tokoh-1,"bunda, bundaku, ibu, ibunya, istri, istrinya",lainnya
+104,Tokoh-2,"puteri raja, putri",lainnya
+104,Tokoh-3,"permaisuri, permaisuri tuanku",lainnya
+104,Tokoh-4,"raja, raja gambang cina",protagonis
+104,Tokoh-5,"ayah, suami, suaminya",lainnya
+104,Tokoh-6,"tuhan, tuhanku",lainnya
+104,Tokoh-7,putra mahkota,lainnya
+104,Tokoh-8,labang donya,antagonis
+104,Tokoh-9,ahli nujum,lainnya
+104,Tokoh-10,pengawal,lainnya
+104,Tokoh-11,mak ni,protagonis
+104,Tokoh-12,donya,protagonis
+104,Tokoh-13,gajah,lainnya
+104,Tokoh-14,hakim,lainnya
+104,Tokoh-15,nun,lainnya
+105,Tokoh-1,"bu, ibu kandungnya, ibu tirinya, isteri lahuda, lahuda",protagonis
+105,Tokoh-2,"puteri yang, puterinya yang ketujuh",lainnya
+105,Tokoh-3,"puteri daulat tuanku, puteri laila, tuan, tuan puteri, tuanku",lainnya
+105,Tokoh-4,"puteri bungsu, puteri bungsu raja, puteri raja",protagonis
+105,Tokoh-5,"puteri yang, puteri yang ketiga",lainnya
+105,Tokoh-6,puteri sulung,lainnya
+105,Tokoh-7,"permaisuri, permaisuri raja ahmad, permaisurinya",lainnya
+105,Tokoh-8,"raja, raja ahmad",antagonis
+105,Tokoh-9,putera raja,lainnya
+105,Tokoh-10,"ayah, ayah puteri bungsu, ayahku, ayahmu, ayahnya, suami, suaminya",lainnya
+105,Tokoh-11,"anak lahuda, anak raja",protagonis
+105,Tokoh-12,"adik, adiknya",lainnya
+105,Tokoh-13,tuhan,lainnya
+105,Tokoh-14,"abang, abangnya, bang, yang",protagonis
+105,Tokoh-15,tengku syiah rimba,lainnya
+105,Tokoh-16,kambing gembalanya,lainnya
+105,Tokoh-17,"kampung, penduduk, penduduk desa, penduduk kampung, rakyat",lainnya
+105,Tokoh-18,perdana menteri,lainnya
+105,Tokoh-19,ketujuh puteri,lainnya
+105,Tokoh-20,"burung, burung raksasa, raksasa",protagonis
+105,Tokoh-21,"burung garuda, garuda",protagonis
+105,Tokoh-22,daulat tuanku,lainnya
+105,Tokoh-23,"gajah, tapak gajah",lainnya
+105,Tokoh-24,tengku qazi,lainnya
+105,Tokoh-25,"ahmad, banta ahmad",protagonis
+105,Tokoh-26,"nek, nenek, nenek tua",lainnya
+105,Tokoh-27,"kuda, kuda tua",protagonis
+105,Tokoh-28,"pelayan, pelayannya",lainnya
+105,Tokoh-29,"dayang, dayangnya",lainnya
+105,Tokoh-30,cokeng,lainnya
+105,Tokoh-31,bungsu,lainnya
+105,Tokoh-32,pemuda,protagonis
+105,Tokoh-33,budak,lainnya
+105,Tokoh-34,ai,lainnya
+106,Tokoh-1,"ibu, ibunya, isteri, isteri saudagar, isterinya, saudagar",antagonis
+106,Tokoh-2,"puteri, puteri gading, puteri niwer gading",lainnya
+106,Tokoh-3,permaisuri,lainnya
+106,Tokoh-4,raja buaya,lainnya
+106,Tokoh-5,raja muda,lainnya
+106,Tokoh-6,putera raja,lainnya
+106,Tokoh-7,"ayah, ayahnya, suami, suaminya",protagonis
+106,Tokoh-8,"anak muda, anak saudaranya",protagonis
+106,Tokoh-9,"kaka, kakak iparnya, kakanda",lainnya
+106,Tokoh-10,"tuhan, tuhan yang maha kuasa",lainnya
+106,Tokoh-11,"ikan besar, naga, naga besar",lainnya
+106,Tokoh-12,"amat mude, mude",protagonis
+106,Tokoh-13,petugas,lainnya
+106,Tokoh-14,"pegawai, pegawainya",lainnya
+106,Tokoh-15,rakyat,lainnya
+106,Tokoh-16,tukang,lainnya
+106,Tokoh-17,gading,lainnya
+106,Tokoh-18,paduka,lainnya
+106,Tokoh-19,dukun,lainnya
+106,Tokoh-20,ai,lainnya
+107,Tokoh-1,"raja, raja muda",lainnya
+107,Tokoh-2,"ayah, orang tua",lainnya
+107,Tokoh-3,"adik, adikku, adiknya",lainnya
+107,Tokoh-4,tuhan,lainnya
+107,Tokoh-5,"abang, abangnya",lainnya
+107,Tokoh-6,"penduduk, penduduk kampung",lainnya
+107,Tokoh-7,"beungong, beungong meulu, beungong peukan, meulu, peukan",antagonis
+107,Tokoh-8,kepala kampung,lainnya
+107,Tokoh-9,"dayang, dayang raja, dayangnya",lainnya
+107,Tokoh-10,"naga, naga besar",lainnya
+107,Tokoh-11,naga laut,lainnya
+107,Tokoh-12,anjing,lainnya
+107,Tokoh-13,nenek,lainnya
+107,Tokoh-14,ahli,protagonis
+108,Tokoh-1,"orang tua, pak amat, pak hasan, suami, suaminya",lainnya
+108,Tokoh-2,"kampung, penduduk, penduduk kampung",antagonis
+108,Tokoh-3,"aman maskerning, inem maskerning, maskerning",protagonis
+108,Tokoh-4,penghulu uten,lainnya
+108,Tokoh-5,"hutan, orang, orang hutan",protagonis
+109,Tokoh-1,"ibu kandungnya, ibu siti sara, ibu tiri, ibu tirinya, isteri, isterinya",protagonis
+109,Tokoh-2,"ayah, ayah siti sara, ayahmu, ayahnya, papa, suami, suaminya",protagonis
+109,Tokoh-3,"anak, anak yang masih kecil, anakku, anaknya",lainnya
+109,Tokoh-4,semua orang di kampung,lainnya
+109,Tokoh-5,orang lain,lainnya
+109,Tokoh-6,siti sara,protagonis
+109,Tokoh-7,janda,antagonis
+110,Tokoh-1,"ibu, ibumu, ibunya",protagonis
+110,Tokoh-2,"ayah, ayahnya, suami, suaminya",lainnya
+110,Tokoh-3,"anak, anakku, anaknya",protagonis
+110,Tokoh-4,"kucing, kucing peliharaannya",lainnya
+110,Tokoh-5,perempuan tua,lainnya
+110,Tokoh-6,anjing,lainnya
+110,Tokoh-7,kijang,lainnya
+110,Tokoh-8,tikus,lainnya
+110,Tokoh-9,bang,lainnya
+110,Tokoh-10,ular,lainnya
+110,Tokoh-11,nome,antagonis
+110,Tokoh-12,win,lainnya
+111,Tokoh-1,"bunda, bundanya, ibu, ibunya, istri, istri raja, istrinya, orang tuanya",protagonis
+111,Tokoh-2,raja,protagonis
+111,Tokoh-3,"ayah, ayahnya, orang tuanya",protagonis
+111,Tokoh-4,"anak muda, anak raja, anak tunggal raja",protagonis
+111,Tokoh-5,orang tuanya,protagonis
+111,Tokoh-6,tuhan yang maha esa,lainnya
+111,Tokoh-7,tukang emas,lainnya
+111,Tokoh-8,"besar, ular, ular besar",lainnya
+111,Tokoh-9,kampung,lainnya
+111,Tokoh-10,"anjing, anjinglah",lainnya
+111,Tokoh-11,monyet,lainnya
+111,Tokoh-12,kucing,antagonis
+111,Tokoh-13,"rakyat, rakyatku, rakyatnya",lainnya
+111,Tokoh-14,burung,lainnya
+111,Tokoh-15,tikus,antagonis
+112,Tokoh-1,"ibu salamah, istri, istrinya",lainnya
+112,Tokoh-2,"pak, pak amat, suami, suaminya",antagonis
+112,Tokoh-3,tetangga,lainnya
+112,Tokoh-4,tuhan,lainnya
+112,Tokoh-5,orang kampung,lainnya
+112,Tokoh-6,salamah,protagonis
+112,Tokoh-7,"kerabat, kerabatnya",lainnya
+112,Tokoh-8,"famili, familinya",lainnya
+112,Tokoh-9,"sopir, sopirnya",lainnya
+112,Tokoh-10,amat,lainnya
+113,Tokoh-1,"ibu, ibumu, ibunya, istri, istrinya, orang tua",protagonis
+113,Tokoh-2,"ayah, ayahnya, orang tua, suami, suaminya",lainnya
+113,Tokoh-3,"anak, anaknya",antagonis
+113,Tokoh-4,penduduk kampung,lainnya
+113,Tokoh-5,empeng besoe,lainnya
+113,Tokoh-6,orang kaya,lainnya
+113,Tokoh-7,ikan,lainnya
+114,Tokoh-1,"ibu, ibu putroe sunoe, ibuku, ibumu",lainnya
+114,Tokoh-2,permaisuri,lainnya
+114,Tokoh-3,"raja, raja tuanku",protagonis
+114,Tokoh-4,"ayah, ayahnya",protagonis
+114,Tokoh-5,"anak, anaknya",protagonis
+114,Tokoh-6,putroe sambinoe,antagonis
+114,Tokoh-7,putroe sunoe,protagonis
+114,Tokoh-8,putroe hitam,protagonis
+114,Tokoh-9,telangkai keempat,lainnya
+114,Tokoh-10,telangkai ketiga,lainnya
+114,Tokoh-11,"tuhan, tuhanku",lainnya
+114,Tokoh-12,sambinoe,lainnya
+114,Tokoh-13,dayang,lainnya
+114,Tokoh-14,dukun,lainnya
+114,Tokoh-15,hitam,protagonis
+114,Tokoh-16,sunoe,lainnya
+114,Tokoh-17,tuan,lainnya
+115,Tokoh-1,"bu, ibu, ibunya",lainnya
+115,Tokoh-2,"raja, raja muda",lainnya
+115,Tokoh-3,"putri, putri ular, putrinya",protagonis
+115,Tokoh-4,dayang istana,lainnya
+115,Tokoh-5,"ular, ular besar",lainnya
+115,Tokoh-6,burung,lainnya
+115,Tokoh-7,ratu,lainnya
+116,Tokoh-1,"ibu, ibunya",protagonis
+116,Tokoh-2,raja,antagonis
+116,Tokoh-3,anak kecil,lainnya
+116,Tokoh-4,"beru dayang, dayang",protagonis
+116,Tokoh-5,ikan besar,lainnya
+116,Tokoh-6,penduduk,lainnya
+116,Tokoh-7,janda,protagonis
+117,Tokoh-1,"ayah, ayahnya",protagonis
+117,Tokoh-2,"putri lubuk gong, putri tunggalnya",antagonis
+117,Tokoh-3,masyarakat desa,lainnya
+117,Tokoh-4,lubuk gong,protagonis
+117,Tokoh-5,pemuda,protagonis
+118,Tokoh-1,ibu sabai,lainnya
+118,Tokoh-2,"ayah, ayaha, ayahandanya, ayahnya",protagonis
+118,Tokoh-3,"adik, adiknya",protagonis
+118,Tokoh-4,putri sulung,lainnya
+118,Tokoh-5,"nan, rajo, rajo nan kongkong",protagonis
+118,Tokoh-6,rajo nan panjang,protagonis
+118,Tokoh-7,"sabai, sabai nan aluih",antagonis
+118,Tokoh-8,rajo babanding,protagonis
+118,Tokoh-9,mangkutak alam,protagonis
+118,Tokoh-10,sadun saribai,lainnya
+118,Tokoh-11,"pembantu, pembantunya",lainnya
+118,Tokoh-12,pengawal,lainnya
+118,Tokoh-13,gembala,lainnya
+118,Tokoh-14,warga,lainnya
+119,Tokoh-1,tuhan,lainnya
+119,Tokoh-2,"masyarakat, masyarakat pendukungnya, masyarakat tanjungraya",protagonis
+119,Tokoh-3,bujang sembilan,lainnya
+119,Tokoh-4,datuk limbatang,lainnya
+119,Tokoh-5,"adat, pemimpin adat",antagonis
+119,Tokoh-6,siti rasani,lainnya
+119,Tokoh-7,ikan rinuak,lainnya
+119,Tokoh-8,kepala desa,lainnya
+119,Tokoh-9,giran,lainnya
+120,Tokoh-1,"ibu, ibunya",lainnya
+120,Tokoh-2,raja,lainnya
+120,Tokoh-3,"ayah, ayahnya",protagonis
+120,Tokoh-4,"putri, putri raja",lainnya
+120,Tokoh-5,"abang, abangnya",lainnya
+120,Tokoh-6,penduduk negeri,lainnya
+120,Tokoh-7,salimbo,lainnya
+120,Tokoh-8,pemuda,lainnya
+120,Tokoh-9,ikan,antagonis
+120,Tokoh-10,ngah,lainnya
+121,Tokoh-1,raja syah alam,lainnya
+121,Tokoh-2,raja besar,lainnya
+121,Tokoh-3,ayah,lainnya
+121,Tokoh-4,"bunda hang tuah, istri, istrinya",lainnya
+121,Tokoh-5,"bendahara, bendahara paduka raja bintan, bintan",lainnya
+121,Tokoh-6,pegawai kerajaan majapahit,lainnya
+121,Tokoh-7,raden aria sena,lainnya
+121,Tokoh-8,"dang, hang, hang kasturi",lainnya
+121,Tokoh-9,taming sari,lainnya
+121,Tokoh-10,"hang mahmud, hang tuah",protagonis
+121,Tokoh-11,hang jebat,lainnya
+121,Tokoh-12,"aria putra, putra, putranya",lainnya
+121,Tokoh-13,hang lekir,lainnya
+121,Tokoh-14,penduduk,lainnya
+121,Tokoh-15,lanun,lainnya
+121,Tokoh-16,tetua,lainnya
+121,Tokoh-17,cih,lainnya
+121,Tokoh-18,hai,lainnya
+122,Tokoh-1,harimau,protagonis
+122,Tokoh-2,kucing,antagonis
+122,Tokoh-3,singa,lainnya
+122,Tokoh-4,"guru, gurumu",lainnya
+123,Tokoh-1,"permaisuri, permaisuri kerajaan palembang",lainnya
+123,Tokoh-2,"istri, istrinya",lainnya
+123,Tokoh-3,"suami, suamiku",lainnya
+123,Tokoh-4,pangeran demang aji jaya,lainnya
+123,Tokoh-5,"datuk, datuk kaya",protagonis
+123,Tokoh-6,nilam sari,lainnya
+123,Tokoh-7,cik wan,lainnya
+123,Tokoh-8,alam,lainnya
+124,Tokoh-1,"ayah, ayahnya",lainnya
+124,Tokoh-2,"istri, istrinya",lainnya
+124,Tokoh-3,"kakak, kakaknya",protagonis
+124,Tokoh-4,"adik, adiknya",lainnya
+124,Tokoh-5,"putri, putri pandan berduri, putriku",antagonis
+124,Tokoh-6,"masyarakat suku laut, warga",lainnya
+124,Tokoh-7,pemimpin bijak,protagonis
+124,Tokoh-8,bayi perempuan,protagonis
+124,Tokoh-9,jenang perkasa,protagonis
+124,Tokoh-10,batin mantang,protagonis
+124,Tokoh-11,"batin lagoi, batin mapoi",protagonis
+124,Tokoh-12,julela,lainnya
+124,Tokoh-13,pemuda,lainnya
+125,Tokoh-1,"istri, istriku, istrinya",protagonis
+125,Tokoh-2,"suami, suaminya",lainnya
+125,Tokoh-3,"adik, dik",protagonis
+125,Tokoh-4,tetangga,lainnya
+125,Tokoh-5,"penduduk, warga, warga bunguran, warga sekitar",lainnya
+125,Tokoh-6,bidan kampung,protagonis
+125,Tokoh-7,"mak, mak semah",protagonis
+125,Tokoh-8,perempuan,lainnya
+125,Tokoh-9,mak bidan,protagonis
+125,Tokoh-10,"mai, mai lamah",protagonis
+125,Tokoh-11,baitusen,lainnya
+125,Tokoh-12,budi,lainnya
+125,Tokoh-13,bang,protagonis
+125,Tokoh-14,emak,protagonis
+126,Tokoh-1,istri,protagonis
+126,Tokoh-2,"suami, suami istri",lainnya
+126,Tokoh-3,penduduk desa,lainnya
+126,Tokoh-4,"ular, ular besar",antagonis
+126,Tokoh-5,harimau,lainnya
+126,Tokoh-6,loreng,protagonis
+127,Tokoh-1,"masyarakat desa, penduduk, warga, warga desa",lainnya
+127,Tokoh-2,"pengemis, pengemis tua",lainnya
+127,Tokoh-3,"nyai, nyai endit",protagonis
+127,Tokoh-4,penjaga,antagonis
+127,Tokoh-5,petani,lainnya
+128,Tokoh-1,"raja, raja bijaksana",lainnya
+128,Tokoh-2,"adik, adikku",lainnya
+128,Tokoh-3,"pangeran jaya, pangeran suta",protagonis
+128,Tokoh-4,"pangeran geri, pangeran gerinda",lainnya
+128,Tokoh-5,lelaki tua,lainnya
+128,Tokoh-6,bidadari,lainnya
+129,Tokoh-1,"ayah, pak piun",lainnya
+129,Tokoh-2,anak buahnya,lainnya
+129,Tokoh-3,"pemimpin, pemimpin centeng, pemimpinnya",lainnya
+129,Tokoh-4,"rakyat jelata, rakyat miskin",lainnya
+129,Tokoh-5,haji naipin,lainnya
+129,Tokoh-6,tuan tanah,lainnya
+129,Tokoh-7,"liem, liem tjeng",protagonis
+129,Tokoh-8,babah liem,protagonis
+129,Tokoh-9,pendekar,lainnya
+129,Tokoh-10,bu pinah,lainnya
+129,Tokoh-11,pitung,protagonis
+129,Tokoh-12,"guru, gurunya",lainnya
+130,Tokoh-1,"anak, anaknya",lainnya
+130,Tokoh-2,masyarakat desa,lainnya
+130,Tokoh-3,"ular, ular berbisa",antagonis
+130,Tokoh-4,siti mayang,lainnya
+130,Tokoh-5,mah bongsu,protagonis
+130,Tokoh-6,mah piah,lainnya
+130,Tokoh-7,pemuda,lainnya
+131,Tokoh-1,"ibu, ibu dari gadis",protagonis
+131,Tokoh-2,"gadis, putri",antagonis
+131,Tokoh-3,"penduduk dusun, warga dusun",lainnya
+131,Tokoh-4,kepala desa,lainnya
+131,Tokoh-5,babi,lainnya
+132,Tokoh-1,"ibu, ibunya",lainnya
+132,Tokoh-2,raja,antagonis
+132,Tokoh-3,putri,lainnya
+132,Tokoh-4,"burung, burung elang",lainnya
+132,Tokoh-5,pemuda,protagonis
+132,Tokoh-6,"paman, pamannya",lainnya
+132,Tokoh-7,banta,protagonis
+132,Tokoh-8,janda,protagonis
+132,Tokoh-9,jakub,lainnya
+133,Tokoh-1,"raja, raja parkit",protagonis
+133,Tokoh-2,"burung parkit, parkit",antagonis
+133,Tokoh-3,pemburu,lainnya
+134,Tokoh-1,ibu,protagonis
+134,Tokoh-2,ayah,protagonis
+134,Tokoh-3,anak ketiga,lainnya
+134,Tokoh-4,adik kedua,lainnya
+134,Tokoh-5,"raksasa, raksasa wanita",antagonis
+134,Tokoh-6,"orangtua, orangtuanya",lainnya
+134,Tokoh-7,ketujuh,lainnya
+134,Tokoh-8,bungsu,protagonis
+134,Tokoh-9,sulung,lainnya
+135,Tokoh-1,raja cik serule,lainnya
+135,Tokoh-2,raja linge,lainnya
+135,Tokoh-3,"ayah, ayah angkatnya, ayahnya",protagonis
+135,Tokoh-4,"kakak, kakaknya",lainnya
+135,Tokoh-5,"putri, putri sultan aceh",protagonis
+135,Tokoh-6,"penduduk negeri, rakyat, warga",lainnya
+135,Tokoh-7,"sultan, sultan johor",lainnya
+135,Tokoh-8,gajah putih,lainnya
+135,Tokoh-9,"aceh, sultan aceh",antagonis
+135,Tokoh-10,sengeda,lainnya
+135,Tokoh-11,muria,lainnya
+136,Tokoh-1,"ayah, ayahnya",lainnya
+136,Tokoh-2,kakak raden kuning,lainnya
+136,Tokoh-3,adik sinaran bulan,lainnya
+136,Tokoh-4,"putri hitam manis, putri sinaran, putri sinaran bulan",lainnya
+136,Tokoh-5,tukang pantunan,lainnya
+136,Tokoh-6,rantai sekilan,lainnya
+136,Tokoh-7,penduduk kota,lainnya
+136,Tokoh-8,"raden keling, raden kuning",protagonis
+136,Tokoh-9,roman yakub,lainnya
+136,Tokoh-10,hitam manis,lainnya
+136,Tokoh-11,naga lipan,lainnya
+136,Tokoh-12,hulubalang,lainnya
+136,Tokoh-13,"ratu, ratu agung",antagonis
+136,Tokoh-14,ular,lainnya
+137,Tokoh-1,raja,lainnya
+137,Tokoh-2,"istri, istrinya",lainnya
+137,Tokoh-3,anak muda,lainnya
+137,Tokoh-4,"putri, putri raja",lainnya
+137,Tokoh-5,"masyarakat desa, penduduk, warga",lainnya
+137,Tokoh-6,bujang kurap,protagonis
+137,Tokoh-7,pria raksasa,lainnya
+137,Tokoh-8,tabib sakti,lainnya
+137,Tokoh-9,tapak libok,lainnya
+137,Tokoh-10,orang sakti,lainnya
+137,Tokoh-11,peserta,lainnya
+138,Tokoh-1,raja hutan,lainnya
+138,Tokoh-2,adipati ratu,protagonis
+138,Tokoh-3,puyang sajak,lainnya
+138,Tokoh-4,"masyarakat, penduduk, rakyat, rakyatku",lainnya
+138,Tokoh-5,pemimpin,lainnya
+138,Tokoh-6,harimau,antagonis
+138,Tokoh-7,hutan,lainnya
+138,Tokoh-8,yang,lainnya
+139,Tokoh-1,"dusun, penduduk, penduduk dusun, warga",protagonis
+140,Tokoh-1,"ibu, ibuku, ibumu, ibundanya, ibunya, istri, istrinya",protagonis
+140,Tokoh-2,ayah,lainnya
+140,Tokoh-3,putri raja,lainnya
+140,Tokoh-4,mande rubayah,lainnya
+140,Tokoh-5,"malin, malin kundang",antagonis
+140,Tokoh-6,nahkoda,lainnya
+140,Tokoh-7,wanita,lainnya
+141,Tokoh-1,"ibu, ma, orang tuanya",lainnya
+141,Tokoh-2,"ayah, orang tuanya, suami",lainnya
+141,Tokoh-3,anak gadis,antagonis
+141,Tokoh-4,orang tuanya,antagonis
+141,Tokoh-5,"gadis, putri, putri tercintanya",lainnya
+141,Tokoh-6,tuhan,lainnya
+141,Tokoh-7,"desa, masyarakat, penduduk desa, warga desa",lainnya
+141,Tokoh-8,"keke, keke panagian, panagian",protagonis
+141,Tokoh-9,mamaluan,lainnya
+141,Tokoh-10,"tante, tantenya",protagonis
+141,Tokoh-11,"bibi, bibinya",lainnya
+142,Tokoh-1,"ibu, ibunya",protagonis
+142,Tokoh-2,"ayah, ayah la moelu, ayahnya",lainnya
+142,Tokoh-3,la moelu,protagonis
+142,Tokoh-4,jinnade,lainnya
+142,Tokoh-5,ikan,antagonis
+143,Tokoh-1,"istri, istriku",lainnya
+143,Tokoh-2,anggota rombongan,lainnya
+143,Tokoh-3,pengantin pria,protagonis
+143,Tokoh-4,perias,lainnya
+144,Tokoh-1,"bu, ibu, ibunya",protagonis
+144,Tokoh-2,"anak, anaknya, nak",lainnya
+144,Tokoh-3,"burung, burung tiung, burung tiung besar",antagonis
+144,Tokoh-4,"elang, elang besar",lainnya
+144,Tokoh-5,burung beo,lainnya
+145,Tokoh-1,"ayah, pasangan suami istri, suami",antagonis
+145,Tokoh-2,"istri, istrinya",lainnya
+145,Tokoh-3,tuhan,lainnya
+145,Tokoh-4,"penduduk, penduduk sekitar",lainnya
+145,Tokoh-5,man metem,lainnya
+145,Tokoh-6,man moro,lainnya
+145,Tokoh-7,pintolee,lainnya
+145,Tokoh-8,mohamad,lainnya
+145,Tokoh-9,war,protagonis
+146,Tokoh-1,permaisuri,lainnya
+146,Tokoh-2,raja,lainnya
+146,Tokoh-3,"putri, putri mandalika",protagonis
+146,Tokoh-4,sekar kuning,lainnya
+146,Tokoh-5,pangeran,lainnya
+146,Tokoh-6,rakyat,lainnya
+146,Tokoh-7,ratu,lainnya
+147,Tokoh-1,raja tutur jimat,lainnya
+147,Tokoh-2,raja bijaksana,lainnya
+147,Tokoh-3,"ayah, ayahnya",protagonis
+147,Tokoh-4,"kakek, kakeknya",lainnya
+147,Tokoh-5,"ratu, ratu darah putih",lainnya
+147,Tokoh-6,"dalem, paniakan dalem",protagonis
+147,Tokoh-7,muhammad,antagonis
+147,Tokoh-8,rakyat,lainnya
+148,Tokoh-1,raja sangiang,lainnya
+148,Tokoh-2,raja sangen,lainnya
+148,Tokoh-3,raja bunu,lainnya
+148,Tokoh-4,"paninting, paninting tarung",antagonis
+148,Tokoh-5,mangku amat,lainnya
+148,Tokoh-6,nyai jaya,protagonis
+148,Tokoh-7,paman,lainnya
+148,Tokoh-8,dukun,lainnya
+149,Tokoh-1,raja,lainnya
+149,Tokoh-2,ayah,lainnya
+149,Tokoh-3,"istri, istri tuan, istrinya",protagonis
+149,Tokoh-4,"kakak, kakak kandungnya, kakakmu, kakaknya",lainnya
+149,Tokoh-5,"adik, adiknya",lainnya
+149,Tokoh-6,"raden banterang, tuanku raden banterang",protagonis
+149,Tokoh-7,"pembantu, pembantunya",lainnya
+149,Tokoh-8,kijang,lainnya
+149,Tokoh-9,surati,lainnya
+149,Tokoh-10,lelaki,lainnya
+149,Tokoh-11,gadis,lainnya
+149,Tokoh-12,tuan,protagonis
+150,Tokoh-1,"ayah, ayahnya",lainnya
+150,Tokoh-2,"putri, putri adipati jayengrana",lainnya
+150,Tokoh-3,adipati cakraningrat,lainnya
+150,Tokoh-4,"pangeran, pangeran situbondo, situbondo",protagonis
+150,Tokoh-5,adipati jayengrana,lainnya
+150,Tokoh-6,kyai gembolo,lainnya
+150,Tokoh-7,pemuda sakti,lainnya
+150,Tokoh-8,"jaka, jaka jumput",antagonis
+150,Tokoh-9,jaka taruna,lainnya
+150,Tokoh-10,joko dolog,lainnya
+150,Tokoh-11,purbawati,lainnya
+151,Tokoh-1,raja bijaksana,lainnya
+151,Tokoh-2,"putri, putri teja, putri teja nirmala",protagonis
+151,Tokoh-3,raden begawan,antagonis
+151,Tokoh-4,"dewi, dewi jahat",lainnya
+151,Tokoh-5,pangeran,lainnya
+151,Tokoh-6,prabu,lainnya
+152,Tokoh-1,"ibu, ibunya",lainnya
+152,Tokoh-2,raja,lainnya
+152,Tokoh-3,putri cantik,lainnya
+152,Tokoh-4,sungging perbangkara,lainnya
+152,Tokoh-5,anjing jantan,lainnya
+152,Tokoh-6,makhluk halus,lainnya
+152,Tokoh-7,hyang tunggal,lainnya
+152,Tokoh-8,wayung hyang,lainnya
+152,Tokoh-9,dayang sumbi,protagonis
+152,Tokoh-10,sangkuriang,lainnya
+152,Tokoh-11,tumang,antagonis
+152,Tokoh-12,"dewa, dewi",lainnya
+153,Tokoh-1,raja,lainnya
+153,Tokoh-2,"ayah, ayahnya",lainnya
+153,Tokoh-3,"adik, adiknya",lainnya
+153,Tokoh-4,"putri, putri rarang, putri rarang purbaratna",protagonis
+153,Tokoh-5,prabu panggung keraton,lainnya
+153,Tokoh-6,"pangeran munding, pangeran munding larik",lainnya
+153,Tokoh-7,prabu gajah menggala,lainnya
+153,Tokoh-8,ular besar,lainnya
+153,Tokoh-9,penduduk,lainnya
+153,Tokoh-10,kakang,lainnya
+153,Tokoh-11,pemuda,lainnya
+153,Tokoh-12,rayi,lainnya
+154,Tokoh-1,"ibu, ibunya",protagonis
+154,Tokoh-2,"ayah, ayahnya",lainnya
+154,Tokoh-3,"putri, putri endahwarni",protagonis
+154,Tokoh-4,dayang kesayangan permaisuri,lainnya
+154,Tokoh-5,"anantakusuma, pangeran, pangeran anantakusuma",protagonis
+154,Tokoh-6,candramawat,lainnya
+154,Tokoh-7,"anteh, nyai anteh",antagonis
+154,Tokoh-8,nyai dadap,lainnya
+154,Tokoh-9,"paman, pamannya",lainnya
+154,Tokoh-10,ratu,lainnya
+154,Tokoh-11,tuan,protagonis
+155,Tokoh-1,pak mantri,lainnya
+155,Tokoh-2,"kabayan, mertua, mertua kabayan, mertuanya",protagonis
+155,Tokoh-3,kang kabayan,lainnya
+155,Tokoh-4,nyi iteung,lainnya
+155,Tokoh-5,abah,lainnya
+156,Tokoh-1,raja giri layang,lainnya
+156,Tokoh-2,raja majapahit,lainnya
+156,Tokoh-3,"istri, istrinya",lainnya
+156,Tokoh-4,"kaka, kakak, kakakku, kakaknya, kakanda",lainnya
+156,Tokoh-5,"adik, adiknya",lainnya
+156,Tokoh-6,"putri cantik, putri giri larang",lainnya
+156,Tokoh-7,"patih, patih endang capang",antagonis
+156,Tokoh-8,patih mangkunagara,lainnya
+156,Tokoh-9,penduduk kerajaan,lainnya
+156,Tokoh-10,giri,protagonis
+157,Tokoh-1,"raja, raja mongondow",lainnya
+157,Tokoh-2,"istri, istrinya",lainnya
+157,Tokoh-3,"adik, adiknya",lainnya
+157,Tokoh-4,putri raja,lainnya
+157,Tokoh-5,"murid pulumoduyo, pulumoduyo, putra, putra pulumoduyo",protagonis
+157,Tokoh-6,pembesar negeri,lainnya
+157,Tokoh-7,bangsa iyotogia,lainnya
+157,Tokoh-8,putra mahkota,lainnya
+157,Tokoh-9,putra mooduto,lainnya
+157,Tokoh-10,sapi hutan,lainnya
+157,Tokoh-11,pogambango,lainnya
+157,Tokoh-12,"pengikut, pengikutnya",lainnya
+157,Tokoh-13,odahati,lainnya
+157,Tokoh-14,suwawa,lainnya
+157,Tokoh-15,"rakyat, rakyatnya",antagonis
+157,Tokoh-16,"dodo, dodoku",lainnya
+158,Tokoh-1,"ibu, ibunya, istri",protagonis
+158,Tokoh-2,permaisuri,lainnya
+158,Tokoh-3,raja siendeng,lainnya
+158,Tokoh-4,raja negeri,lainnya
+158,Tokoh-5,"ayah, ayahnya",protagonis
+158,Tokoh-6,"putri raja siendeng, putri siendeng",lainnya
+158,Tokoh-7,putra mahkota ternate,lainnya
+158,Tokoh-8,"putra zulkarnain, zulkarnain",protagonis
+158,Tokoh-9,djumangopa,lainnya
+158,Tokoh-10,ahli nujum,lainnya
+158,Tokoh-11,pongoliwu,lainnya
+158,Tokoh-12,"kemenakan, kemenakannya",lainnya
+158,Tokoh-13,djamali,lainnya
+158,Tokoh-14,djubali,lainnya
+158,Tokoh-15,tutali,lainnya
+158,Tokoh-16,wanita,lainnya
+158,Tokoh-17,pemuda,lainnya
+159,Tokoh-1,"ibu, istri, istrinya",lainnya
+159,Tokoh-2,"gadis, putri, putri semata wayangnya, putrinya",antagonis
+159,Tokoh-3,sri nawangsih,lainnya
+159,Tokoh-4,"tanah, tuan tanah",protagonis
+159,Tokoh-5,ceceng,protagonis
+159,Tokoh-6,janda,lainnya
+160,Tokoh-1,"istri, istrinya",lainnya
+160,Tokoh-2,"suami, suaminya",lainnya
+160,Tokoh-3,"desa, sesepuh desa",antagonis
+160,Tokoh-4,sri poh haci,lainnya
+160,Tokoh-5,raden budog,protagonis
+160,Tokoh-6,warga desa,lainnya
+160,Tokoh-7,dewi padi,lainnya
+160,Tokoh-8,nyi siti,lainnya
+160,Tokoh-9,"anjing, anjingnya",lainnya
+160,Tokoh-10,janda,lainnya
+160,Tokoh-11,kuda,lainnya
+161,Tokoh-1,"ibu, ibunya, istri, istriku",lainnya
+161,Tokoh-2,"permaisuri, permaisurinya",antagonis
+161,Tokoh-3,raja,lainnya
+161,Tokoh-4,"ayah, ayahnya",protagonis
+161,Tokoh-5,adik sang raja,lainnya
+161,Tokoh-6,"paman, paman pangeran amat mude, pamannya, pangeran, pangeran amat mude",protagonis
+161,Tokoh-7,"rakyat, rakyat negeri",lainnya
+161,Tokoh-8,tabib,lainnya
+161,Tokoh-9,fakir,lainnya
+161,Tokoh-10,sang,lainnya
+162,Tokoh-1,permaisuri,lainnya
+162,Tokoh-2,"raja, raja ular",lainnya
+162,Tokoh-3,"ayah, ayahnya",protagonis
+162,Tokoh-4,"tukang cincin, tukang pembuat cincin",lainnya
+162,Tokoh-5,"ular, ular besar",lainnya
+162,Tokoh-6,anjing,lainnya
+162,Tokoh-7,burung,lainnya
+162,Tokoh-8,kucing,lainnya
+162,Tokoh-9,tikus,lainnya
+162,Tokoh-10,rohib,antagonis
+163,Tokoh-1,"ayah, ayahnya",protagonis
+163,Tokoh-2,masyarakat sekitar,lainnya
+163,Tokoh-3,"tonaas, tonaas utara",lainnya
+163,Tokoh-4,maharimbouw,antagonis
+163,Tokoh-5,alam,lainnya
+164,Tokoh-1,"ibu, ibunya",lainnya
+164,Tokoh-2,ayah,lainnya
+164,Tokoh-3,"perempuan tua, tua",antagonis
+164,Tokoh-4,"lelaki, lelaki tua",lainnya
+164,Tokoh-5,"anjing, anjingnya",lainnya
+164,Tokoh-6,kweiya,protagonis
+164,Tokoh-7,burung,lainnya
+165,Tokoh-1,raja tongkol,lainnya
+165,Tokoh-2,raja ayam,lainnya
+165,Tokoh-3,"rakyat, rakyat ayam, rakyat tongkol, rakyatku, rakyatnya, tongkol, warga pantai, warga pesisir",protagonis
+165,Tokoh-4,ikan tongkol,lainnya
+165,Tokoh-5,"ayam, ayam jantan",antagonis
+165,Tokoh-6,nelayan,lainnya
+166,Tokoh-1,"pak pung, suami",protagonis
+166,Tokoh-2,"istri, istrinya",lainnya
+166,Tokoh-3,"kakek, kakek tua",lainnya
+166,Tokoh-4,tetangga,lainnya
+166,Tokoh-5,"ikan, ikan pesut",antagonis
+166,Tokoh-6,warga,lainnya
+166,Tokoh-7,gadis,lainnya
+167,Tokoh-1,raja,lainnya
+167,Tokoh-2,ayah,lainnya
+167,Tokoh-3,"kakek, kakek tua",lainnya
+167,Tokoh-4,putri,lainnya
+167,Tokoh-5,"burung, burung ruai, ruai",antagonis
+167,Tokoh-6,bungsu,protagonis
+168,Tokoh-1,ular panjang,lainnya
+168,Tokoh-2,hyang shiwa,protagonis
+168,Tokoh-3,batara guru,antagonis
+168,Tokoh-4,"dewa, dewa brahma",lainnya
+168,Tokoh-5,dewa shiwa,lainnya
+168,Tokoh-6,raksasa,antagonis
+169,Tokoh-1,prabu jayabaya,protagonis
+169,Tokoh-2,mpu panuluh,lainnya
+169,Tokoh-3,mpu sedah,lainnya
+169,Tokoh-4,ratu adil,lainnya
+170,Tokoh-1,"batara, batara narada, batara panyarikan",antagonis
+170,Tokoh-2,batara bayu,lainnya
+170,Tokoh-3,batara guru,lainnya
+170,Tokoh-4,"empu, empu pamadi, empu rama",protagonis
+170,Tokoh-5,"dewa, dewa angin",lainnya
+170,Tokoh-6,empu sakti,lainnya
+171,Tokoh-1,"istri, istrinya",lainnya
+171,Tokoh-2,"suami, suaminya",lainnya
+171,Tokoh-3,nawangwulan,protagonis
+171,Tokoh-4,jaka tarub,antagonis
+171,Tokoh-5,bidadari,lainnya
+172,Tokoh-1,"raja, raja brawijaya v",protagonis
+172,Tokoh-2,"menggala, wangsa menggala",lainnya
+172,Tokoh-3,adipati cepu,lainnya
+172,Tokoh-4,sabdo palon,lainnya
+172,Tokoh-5,raden,lainnya
+173,Tokoh-1,"tumenggung, tumenggung wiraguna",antagonis
+173,Tokoh-2,"adipati, adipati pragulo, adipati pragulo ii, pragulo ii",protagonis
+173,Tokoh-3,nyai simobarong,lainnya
+173,Tokoh-4,sultan agung,lainnya
+173,Tokoh-5,"roro, roro mendut",protagonis
+173,Tokoh-6,abdi,lainnya
+174,Tokoh-1,"bu, ibu, ibunya",protagonis
+174,Tokoh-2,"anak, anakku",lainnya
+174,Tokoh-3,joko bodo,protagonis
+174,Tokoh-4,gadis,lainnya
+174,Tokoh-5,janda,protagonis
+175,Tokoh-1,"bu, ibu, ibunya",protagonis
+175,Tokoh-2,"anak, anakku",lainnya
+175,Tokoh-3,joko bodo,protagonis
+175,Tokoh-4,gadis,lainnya
+175,Tokoh-5,janda,protagonis
+176,Tokoh-1,wangkoang,lainnya
+176,Tokoh-2,raksasa,antagonis
+176,Tokoh-3,bungsu,lainnya
+176,Tokoh-4,wahede,protagonis
+176,Tokoh-5,bara,lainnya
+177,Tokoh-1,raja,lainnya
+177,Tokoh-2,"ayah, ayahnya",lainnya
+177,Tokoh-3,"adik, adiknya",lainnya
+177,Tokoh-4,putri raja,lainnya
+177,Tokoh-5,"lutung, lutung kasarung, pangeran lutung kasarung",antagonis
+177,Tokoh-6,patih istana,lainnya
+177,Tokoh-7,purbararang,lainnya
+177,Tokoh-8,prabu tapa,lainnya
+177,Tokoh-9,purbasari,protagonis
+177,Tokoh-10,perempuan,lainnya
+177,Tokoh-11,rakyat,lainnya
+178,Tokoh-1,pak sabeni,protagonis
+178,Tokoh-2,masyarakat sekitar,lainnya
+178,Tokoh-3,pedagang,lainnya
+178,Tokoh-4,salamah,lainnya
+178,Tokoh-5,pemuda,lainnya
+178,Tokoh-6,rojali,antagonis
+179,Tokoh-1,rio tabing,protagonis
+179,Tokoh-2,rakyat,lainnya
+179,Tokoh-3,alam,lainnya
+179,Tokoh-4,dewa,lainnya
+180,Tokoh-1,raja,antagonis
+180,Tokoh-2,"nek, nenek, nenek tua, neneknya",lainnya
+180,Tokoh-3,piatu,lainnya
+180,Tokoh-4,nak,protagonis
+181,Tokoh-1,"ibu, ibu tua, ibuku, ibumu, ibunya",protagonis
+181,Tokoh-2,"suami, suaminya",lainnya
+181,Tokoh-3,"pangeran, pangeran kerajaan",lainnya
+181,Tokoh-4,"gaib, ular, ular gaib",antagonis
+181,Tokoh-5,bungsu,protagonis
+181,Tokoh-6,pemuda,lainnya
+181,Tokoh-7,sulung,lainnya
+182,Tokoh-1,"ayah, ayahnya",protagonis
+182,Tokoh-2,kakek,lainnya
+182,Tokoh-3,"maulana hasanuddin, sultan, sultan maulana hasanuddin",lainnya
+182,Tokoh-4,prabu pucuk umun,antagonis
+182,Tokoh-5,prabu surawosan,lainnya
+183,Tokoh-1,"raja, raja wilayah",lainnya
+183,Tokoh-2,"penduduk, penduduk wilayah",lainnya
+183,Tokoh-3,nagaseni,lainnya
+183,Tokoh-4,mahadali,lainnya
+183,Tokoh-5,rio raos,protagonis
+183,Tokoh-6,panjang,lainnya
+184,Tokoh-1,"raksasa, raksasa ganas",antagonis
+184,Tokoh-2,"tikus, tikus jantan",lainnya
+184,Tokoh-3,burung mutuo,lainnya
+184,Tokoh-4,lipan besar,lainnya
+184,Tokoh-5,lelaki tua,protagonis
+184,Tokoh-6,tulap,lainnya
+185,Tokoh-1,wamborowamboro,lainnya
+185,Tokoh-2,"wangguunggu pa, wangguunggu panda",protagonis
+185,Tokoh-3,"masyarakat, penduduk, penduduk desa",lainnya
+185,Tokoh-4,pemimpin desa,lainnya
+185,Tokoh-5,burung gagak,lainnya
+185,Tokoh-6,ende bhawo,lainnya
+185,Tokoh-7,pemuda,lainnya
+185,Tokoh-8,panda,antagonis
+185,Tokoh-9,sara,lainnya
+186,Tokoh-1,raja sigi,lainnya
+186,Tokoh-2,ayah,lainnya
+186,Tokoh-3,"istri, istri raja sigi, istrinya",lainnya
+186,Tokoh-4,panglima perang,lainnya
+186,Tokoh-5,tadulako bulili,lainnya
+186,Tokoh-6,warga bulili,lainnya
+186,Tokoh-7,pendekar,lainnya
+186,Tokoh-8,pengawal,lainnya
+186,Tokoh-9,bantili,lainnya
+186,Tokoh-10,dinda,lainnya
+186,Tokoh-11,"make, makeku",antagonis
+186,Tokoh-12,sigi,protagonis
+187,Tokoh-1,raja,lainnya
+187,Tokoh-2,"istri, istrinya",lainnya
+187,Tokoh-3,putri bungsu raja,lainnya
+187,Tokoh-4,"penduduk, penduduk negeri",lainnya
+187,Tokoh-5,"burung, burung ajaib",antagonis
+187,Tokoh-6,"to baka, to baka keo",protagonis
+187,Tokoh-7,pemuda,lainnya
+188,Tokoh-1,ayah landorundun,lainnya
+188,Tokoh-2,putri,lainnya
+188,Tokoh-3,putra mahkota kerajaan,lainnya
+188,Tokoh-4,datu bendurana,antagonis
+188,Tokoh-5,landorundun,protagonis
+188,Tokoh-6,tetua adat,lainnya
+188,Tokoh-7,pengawal,lainnya
+189,Tokoh-1,"putri bungsu, putri mayang, putri mayang sari, putri tertua, putri tujuh",lainnya
+189,Tokoh-2,"pangeran, pangeran empang kuala",lainnya
+189,Tokoh-3,seri bunga tanjung,lainnya
+189,Tokoh-4,"ratu, ratu bijaksana",lainnya
+189,Tokoh-5,"cik sima, ratu cik sima",antagonis
+189,Tokoh-6,ketujuh putri,lainnya
+189,Tokoh-7,mayang sari,protagonis
+189,Tokoh-8,tujuh,lainnya
+190,Tokoh-1,"ayah, ayah caadara, ayahnya",protagonis
+190,Tokoh-2,anak buah caadara,lainnya
+190,Tokoh-3,"panglima perang, panglima perang wire, wire",antagonis
+190,Tokoh-4,masyarakat desa,lainnya
+190,Tokoh-5,"anjing, anjing pemburu",lainnya
+190,Tokoh-6,caadara,lainnya
+190,Tokoh-7,kuala,lainnya
+191,Tokoh-1,"ibu, ibunya, istri, istrinya",protagonis
+191,Tokoh-2,"ayah, ayahnya",lainnya
+191,Tokoh-3,anak,protagonis
+191,Tokoh-4,putri kepala adat,lainnya
+191,Tokoh-5,"penduduk, penduduk kampung, penduduk kampung merem",lainnya
+191,Tokoh-6,woiwallytmang,lainnya
+191,Tokoh-7,kepala adat,lainnya
+191,Tokoh-8,bonadebu,lainnya
+191,Tokoh-9,woiram,antagonis
+191,Tokoh-10,mesi,lainnya
+191,Tokoh-11,dewa,lainnya
+192,Tokoh-1,roh penunggu pohon,lainnya
+192,Tokoh-2,"kampung, penduduk, penduduk kampung, warga",protagonis
+192,Tokoh-3,kepala kampung,lainnya
+192,Tokoh-4,yatim,antagonis
+193,Tokoh-1,"raja, raja koranobini",lainnya
+193,Tokoh-2,"istri, istrinya",protagonis
+193,Tokoh-3,penduduk kampung,lainnya
+193,Tokoh-4,"bidadari, bidadari bungsu, bungsu",protagonis
+193,Tokoh-5,mandinuma,lainnya
+193,Tokoh-6,nenek tua,lainnya
+193,Tokoh-7,siraiman,lainnya
+193,Tokoh-8,pemuda,lainnya
+194,Tokoh-1,"ayah, ayah skolong, ayahnya, orang tua skolong",protagonis
+194,Tokoh-2,"istri, orang tua skolong",protagonis
+194,Tokoh-3,kakak,lainnya
+194,Tokoh-4,adik,protagonis
+194,Tokoh-5,kakek,lainnya
+194,Tokoh-6,orang tua skolong,protagonis
+194,Tokoh-7,"skolong, skolong rebo todo",protagonis
+194,Tokoh-8,"gadis, gadis cantik",lainnya
+194,Tokoh-9,paman,lainnya
+194,Tokoh-10,"bibi, bibimu, bibinya",antagonis
+194,Tokoh-11,cue,protagonis
+195,Tokoh-1,raja patmaraga,protagonis
+195,Tokoh-2,raja sukmaraga,lainnya
+195,Tokoh-3,"istri, istrinya",lainnya
+195,Tokoh-4,"kakak, kakaknya",lainnya
+195,Tokoh-5,putri junjung buih,lainnya
+195,Tokoh-6,"bayi, bayi perempuan",antagonis
+195,Tokoh-7,datuk pujung,lainnya
+195,Tokoh-8,ratu kuripan,lainnya
+195,Tokoh-9,sukmaraga,lainnya
+195,Tokoh-10,wanita,lainnya
+195,Tokoh-11,rakyat,lainnya
+195,Tokoh-12,"tuan, tuanku",lainnya
+196,Tokoh-1,"ratu, ratu ayu kencana, ratu ayu kencana wungu",protagonis
+196,Tokoh-2,"adipati, adipati kebo marcuet, kebo marcuet",antagonis
+196,Tokoh-3,ki ajah pamengger,lainnya
+196,Tokoh-4,rakyat majapahit,lainnya
+196,Tokoh-5,layang kumitir,lainnya
+196,Tokoh-6,pendekar sakti,lainnya
+196,Tokoh-7,patih logender,lainnya
+196,Tokoh-8,dewi puyengan,lainnya
+196,Tokoh-9,adipati sakti,lainnya
+196,Tokoh-10,jaka umbaran,lainnya
+196,Tokoh-11,dewi wahita,lainnya
+196,Tokoh-12,dewi suhita,lainnya
+196,Tokoh-13,layang seta,lainnya
+196,Tokoh-14,minakjinggo,lainnya
+196,Tokoh-15,damarwulan,lainnya
+196,Tokoh-16,pemuda,lainnya
+196,Tokoh-17,guru,lainnya
+197,Tokoh-1,"ibu, ibunya",protagonis
+197,Tokoh-2,"puteri, puteri dayang lais",lainnya
+197,Tokoh-3,raja komering,lainnya
+197,Tokoh-4,raja jambi,lainnya
+197,Tokoh-5,"kakak, kakaknya",lainnya
+197,Tokoh-6,adik,lainnya
+197,Tokoh-7,"hulubalang, hulubalang tengkorak batu, tengkorak batu",antagonis
+197,Tokoh-8,hulubalang sakti,lainnya
+197,Tokoh-9,harimau,lainnya
+197,Tokoh-10,buaya,lainnya
+197,Tokoh-11,ceren,lainnya
+198,Tokoh-1,"istri, istriku",lainnya
+198,Tokoh-2,"putri, putri penguasa kota",lainnya
+198,Tokoh-3,tuhan,lainnya
+198,Tokoh-4,"abang, bang",lainnya
+198,Tokoh-5,"penduduk, penduduk kampung",lainnya
+198,Tokoh-6,penguasa kota,lainnya
+198,Tokoh-7,"anok lumang, lumang",protagonis
+198,Tokoh-8,perempuan,lainnya
+198,Tokoh-9,pengawal,lainnya
+198,Tokoh-10,pemuda,lainnya
+198,Tokoh-11,"abdul, abdullah",lainnya
+199,Tokoh-1,"bu, ibu, ibu mertua, ibumu, ibunya, istri, istrinya",protagonis
+199,Tokoh-2,raja malaka,lainnya
+199,Tokoh-3,"ayah, ayahnya",protagonis
+199,Tokoh-4,"anak, anakku, anaknya, nak",protagonis
+199,Tokoh-5,kakek tua,lainnya
+199,Tokoh-6,putri raja,lainnya
+199,Tokoh-7,tuhan,lainnya
+199,Tokoh-8,perempuan tua,lainnya
+199,Tokoh-9,janda tua,protagonis
+199,Tokoh-10,penduduk,lainnya
+199,Tokoh-11,pengawal,protagonis
+199,Tokoh-12,kantan,protagonis
+200,Tokoh-1,"bu, ibu, ibu dari ni tuwung kuning, ibunya, istri, istrinya, orang tuanya",protagonis
+200,Tokoh-2,"bapak, bapaknya, orang tuanya, suami, suamiku, suaminya",lainnya
+200,Tokoh-3,"anak, anaknya",protagonis
+200,Tokoh-4,orang tuanya,lainnya
+200,Tokoh-5,ni tuwung kuning,lainnya
+200,Tokoh-6,bidadari,lainnya
+200,Tokoh-7,i pudak,antagonis
+200,Tokoh-8,"nenek, neneknya",lainnya
+201,Tokoh-1,raja,lainnya
+201,Tokoh-2,"istri, istrinya",lainnya
+201,Tokoh-3,"pan balang, pan balang tamak",protagonis
+201,Tokoh-4,kepala desa,lainnya
+201,Tokoh-5,pencuri,lainnya
+201,Tokoh-6,bapak,lainnya
+201,Tokoh-7,warga,lainnya
+201,Tokoh-8,ayam,lainnya
+202,Tokoh-1,putri bungsu,protagonis
+202,Tokoh-2,"tuan tapa, tuan tapa yang sakti",protagonis
+202,Tokoh-3,bayi perempuan,lainnya
+202,Tokoh-4,"pertapa, pertapa sakti",protagonis
+202,Tokoh-5,"naga, sepasang naga",protagonis
+202,Tokoh-6,naga raksasa,antagonis
+202,Tokoh-7,naga betina,lainnya
+202,Tokoh-8,bayi mungil,lainnya
+202,Tokoh-9,naga jantan,lainnya
+202,Tokoh-10,naga sakti,lainnya
+202,Tokoh-11,"orangtua, orangtuanya",protagonis
+203,Tokoh-1,"ibu, ibunya",protagonis
+203,Tokoh-2,"ayah, suami, suamiku, suaminya",lainnya
+203,Tokoh-3,tuhan,lainnya
+203,Tokoh-4,"desa, warga desa",lainnya
+203,Tokoh-5,pelayan,lainnya
+203,Tokoh-6,bungsu,antagonis
+203,Tokoh-7,sulung,protagonis
+203,Tokoh-8,nak,protagonis
+203,Tokoh-9,kak,lainnya
+204,Tokoh-1,"ibu, ibunya, istri, istrinya",lainnya
+204,Tokoh-2,raja,lainnya
+204,Tokoh-3,"ayah, ayahnya, suami, suaminya",lainnya
+204,Tokoh-4,"putri, putri raja",protagonis
+204,Tokoh-5,"tuhan yang maha kuasa, yang maha kuasa",lainnya
+204,Tokoh-6,panglima kerajaan,lainnya
+204,Tokoh-7,penduduk kampung,lainnya
+204,Tokoh-8,"pemuda, pemuda gagah",lainnya
+204,Tokoh-9,raksasa,antagonis
+204,Tokoh-10,bayi,lainnya
+205,Tokoh-1,ibu,lainnya
+205,Tokoh-2,"puteri mayang, putri cantik, putri pinang masak",lainnya
+205,Tokoh-3,"raja, raja mataram",protagonis
+205,Tokoh-4,"ayah, ayahnya",lainnya
+205,Tokoh-5,anak kecil kudisan,lainnya
+205,Tokoh-6,"adik, adiknya",lainnya
+205,Tokoh-7,"orang kayo hitam, paman, paman orang kayo hitam, pamannya",antagonis
+205,Tokoh-8,orang kayo pinagi,lainnya
+205,Tokoh-9,datuk temenggung,lainnya
+205,Tokoh-10,orang kayo gemuk,lainnya
+205,Tokoh-11,penasihat raja,lainnya
+205,Tokoh-12,tiang bungkuk,lainnya
+205,Tokoh-13,hulubalang,lainnya
+205,Tokoh-14,"empu, empu sakti",lainnya
+205,Tokoh-15,tentara,lainnya
+205,Tokoh-16,tuan,lainnya
+206,Tokoh-1,ibunda sang raja,lainnya
+206,Tokoh-2,"raja, raja tua",protagonis
+206,Tokoh-3,"putri, putri pinang masak",antagonis
+206,Tokoh-4,prajurit bayaran,lainnya
+206,Tokoh-5,pengawal raja,lainnya
+206,Tokoh-6,ahli tukang,lainnya
+206,Tokoh-7,kerajaan,lainnya
+206,Tokoh-8,pekerja,lainnya
+206,Tokoh-9,"rakyat, rakyatku",lainnya
+206,Tokoh-10,bundo,lainnya
+207,Tokoh-1,raja,lainnya
+207,Tokoh-2,"suami, suaminya",antagonis
+207,Tokoh-3,anak sulung,lainnya
+207,Tokoh-4,"kakek, kakek tua",lainnya
+207,Tokoh-5,"putri, putri tangguk",protagonis
+207,Tokoh-6,bungsu,lainnya
+207,Tokoh-7,sulung,lainnya
+207,Tokoh-8,bang,lainnya
+207,Tokoh-9,dik,lainnya
+208,Tokoh-1,raja,lainnya
+208,Tokoh-2,"ayah, ayahnya",protagonis
+208,Tokoh-3,"istri, istrinya",lainnya
+208,Tokoh-4,"datuk, datuk darah putih",antagonis
+208,Tokoh-5,panglima,protagonis
+208,Tokoh-6,rakyat,lainnya
+208,Tokoh-7,dinda,lainnya
+208,Tokoh-8,"putra, putranya",lainnya
+209,Tokoh-1,"bu, ibu, ibunya",protagonis
+209,Tokoh-2,raja,lainnya
+209,Tokoh-3,"suami, suaminya",lainnya
+209,Tokoh-4,tetangga,lainnya
+209,Tokoh-5,"putri bungsu, putri raja",lainnya
+209,Tokoh-6,tuhan,lainnya
+209,Tokoh-7,"bujang katak, katak",protagonis
+209,Tokoh-8,keenam putri,lainnya
+209,Tokoh-9,"nenek, nenek tua",antagonis
+209,Tokoh-10,"rakyat, warga",lainnya
+210,Tokoh-1,"istri, istriku",lainnya
+210,Tokoh-2,"suami, suaminya",lainnya
+210,Tokoh-3,tuhan,lainnya
+210,Tokoh-4,paman kerbau,lainnya
+210,Tokoh-5,"desa, kepala desa",lainnya
+210,Tokoh-6,"iwa, kebo iwa",protagonis
+210,Tokoh-7,warga,antagonis
+210,Tokoh-8,bayi,lainnya
+211,Tokoh-1,raja duo selo,lainnya
+211,Tokoh-2,raja adat,lainnya
+211,Tokoh-3,"ayah, ayahnya",lainnya
+211,Tokoh-4,"putri bungsu, putri raja mudo, putri reno bulan",lainnya
+211,Tokoh-5,sutan lemang alam,lainnya
+211,Tokoh-6,penasihat istana,lainnya
+211,Tokoh-7,basa ampek balai,lainnya
+211,Tokoh-8,tiang bungkuak,lainnya
+211,Tokoh-9,bundo kanduang,antagonis
+211,Tokoh-10,cindua mato,protagonis
+211,Tokoh-11,dang tuanku,lainnya
+211,Tokoh-12,imbang jayo,lainnya
+211,Tokoh-13,ratu,lainnya
+212,Tokoh-1,"ibu tiri, istri, orang tua",protagonis
+212,Tokoh-2,"ayah, ayahnya, orang tua, suami, suaminya",lainnya
+212,Tokoh-3,"kakak, kakak beradik",lainnya
+212,Tokoh-4,"adik, adiknya",lainnya
+212,Tokoh-5,"kakek, kakek tua",antagonis
+212,Tokoh-6,tetangga,lainnya
+212,Tokoh-7,penari,lainnya
+212,Tokoh-8,gadis,lainnya
+212,Tokoh-9,duda,lainnya
+212,Tokoh-10,desa,lainnya
+213,Tokoh-1,"pak, pasangan suami istri",lainnya
+213,Tokoh-2,"istri, istrinya",lainnya
+213,Tokoh-3,putri karang melenu,lainnya
+213,Tokoh-4,"aji, aji batara agung, aji batara agung dewa sakti, aji batara agung paduka nira, dewa",protagonis
+213,Tokoh-5,"penduduk, penduduk desa",lainnya
+213,Tokoh-6,tujuh dewa,lainnya
+213,Tokoh-7,"naga, naga besar, naga erau",lainnya
+213,Tokoh-8,petinggi,antagonis
+213,Tokoh-9,dewata,lainnya
+213,Tokoh-10,bayi,lainnya
+214,Tokoh-1,raja,lainnya
+214,Tokoh-2,"ayah, ayahnya",protagonis
+214,Tokoh-3,"gadis, putri, putri mambang linau",protagonis
+214,Tokoh-4,mambang linau,lainnya
+214,Tokoh-5,"ular, ular berbisa",lainnya
+214,Tokoh-6,bujang enok,antagonis
+214,Tokoh-7,tuan,lainnya
+215,Tokoh-1,anak buahnya,protagonis
+215,Tokoh-2,hulubalang negeri,lainnya
+215,Tokoh-3,"panglima, panglima kawal, panglima sakti",protagonis
+215,Tokoh-4,"jangoi, tuan, tuan jangoi",protagonis
+215,Tokoh-5,perompak,protagonis
+215,Tokoh-6,"rakyat, rakyatmu",lainnya
+216,Tokoh-1,"ibu, ibuku, ibunya, istri, istrinya",lainnya
+216,Tokoh-2,permaisuri,lainnya
+216,Tokoh-3,raja,lainnya
+216,Tokoh-4,"ayah, ayahnya",protagonis
+216,Tokoh-5,"anak, anak muda, anaknya",lainnya
+216,Tokoh-6,tuhan yang maha kuasa,lainnya
+216,Tokoh-7,"bendahara, bendahara kerajaan",lainnya
+216,Tokoh-8,"pangeran, pangeran lokan",antagonis
+216,Tokoh-9,"nenek, nenek kebayan",lainnya
+216,Tokoh-10,rakyat,lainnya
+216,Tokoh-11,pendam,lainnya
+216,Tokoh-12,pemuda,lainnya
+217,Tokoh-1,"ayah, orang tua",lainnya
+217,Tokoh-2,"kakak, kakakku, kakakmu",lainnya
+217,Tokoh-3,"adik, adiknya",lainnya
+217,Tokoh-4,"putri pandan berduri, putri tuan",lainnya
+217,Tokoh-5,"jenang perkasa, perkasa, tuanku jenang perkasa",protagonis
+217,Tokoh-6,batin mantang,lainnya
+217,Tokoh-7,batin kelong,lainnya
+217,Tokoh-8,"rakyat, rakyat pulau, warga",lainnya
+217,Tokoh-9,"batin lagoi, batin mapoi",antagonis
+217,Tokoh-10,pemimpin,lainnya
+217,Tokoh-11,julela,lainnya
+217,Tokoh-12,pemuda,protagonis
+217,Tokoh-13,tuan,lainnya
+218,Tokoh-1,"bu, ibu, ibunya, istri",protagonis
+218,Tokoh-2,ayah,lainnya
+218,Tokoh-3,"anak, anakku, anaknya, nak",protagonis
+218,Tokoh-4,tongko,lainnya
+218,Tokoh-5,gadis,protagonis
+218,Tokoh-6,cinta,lainnya
+218,Tokoh-7,hai,lainnya
+218,Tokoh-8,la,protagonis
+219,Tokoh-1,"raja, raja cina",lainnya
+219,Tokoh-2,"ayah, ayahnya",lainnya
+219,Tokoh-3,"istri, istrinya",protagonis
+219,Tokoh-4,"adik, adik kembarnya",lainnya
+219,Tokoh-5,"abang, abangku",lainnya
+219,Tokoh-6,"pengawal, pengawal sawerigading, sawerigading",protagonis
+219,Tokoh-7,saudari kembarnya,lainnya
+219,Tokoh-8,"we, we opu sengngeng",protagonis
+219,Tokoh-9,we tenriabeng,protagonis
+219,Tokoh-10,batara lattu,lainnya
+219,Tokoh-11,batara guru,lainnya
+219,Tokoh-12,la galigo,protagonis
+219,Tokoh-13,pangeran,lainnya
+219,Tokoh-14,we cudai,antagonis
+219,Tokoh-15,ratu,lainnya
+220,Tokoh-1,ibu,protagonis
+220,Tokoh-2,"ayah, bapak",protagonis
+220,Tokoh-3,anak kecil bersaudara,lainnya
+220,Tokoh-4,"desa, penduduk, penduduk desa, warga, warga desa",protagonis
+220,Tokoh-5,"nenek, nenek pakande, nenek tua",lainnya
+220,Tokoh-6,"kutu raksasa, raksasa",lainnya
+220,Tokoh-7,kepala desa,lainnya
+220,Tokoh-8,wanita tua,lainnya
+220,Tokoh-9,la beddu,lainnya
+220,Tokoh-10,pemuda,lainnya
+220,Tokoh-11,kecil,antagonis
+220,Tokoh-12,belut,lainnya
+221,Tokoh-1,permaisuri,lainnya
+221,Tokoh-2,raja tanjung,antagonis
+221,Tokoh-3,raja adil,lainnya
+221,Tokoh-4,"istri ketujuh, orang tuanya",lainnya
+221,Tokoh-5,"istri keenam, orang tuanya",lainnya
+221,Tokoh-6,orang tuanya,lainnya
+221,Tokoh-7,"putri betik hati, putri kerajaan",lainnya
+221,Tokoh-8,sindang belawan bumi,lainnya
+221,Tokoh-9,naga bertiara tiga,lainnya
+221,Tokoh-10,dewa maha sakti,protagonis
+221,Tokoh-11,yang maha kuasa,lainnya
+221,Tokoh-12,pangeran minak,lainnya
+221,Tokoh-13,mutiara lautan,lainnya
+221,Tokoh-14,ratu kedamaian,lainnya
+221,Tokoh-15,putra mahkota,lainnya
+221,Tokoh-16,"jambat, radin jambat",lainnya
+221,Tokoh-17,"ular, ular raksasa",lainnya
+221,Tokoh-18,"masyarakat, rakyat",lainnya
+221,Tokoh-19,ratu alam,lainnya
+221,Tokoh-20,jin,lainnya
+222,Tokoh-1,"ibu, ibu sidang belawan, ibunya, istri, istri raja, istriku, istrinya, orang tua",protagonis
+222,Tokoh-2,"orang tua, pak tua, pasangan suami istri, suami, suaminya",lainnya
+222,Tokoh-3,"raja, rajawali",lainnya
+222,Tokoh-4,"anak, anaknya",lainnya
+222,Tokoh-5,"adik, adikku",lainnya
+222,Tokoh-6,putri,protagonis
+222,Tokoh-7,tuhan,lainnya
+222,Tokoh-8,"burung, burung rajawali raksasa",lainnya
+222,Tokoh-9,"perempuan, perempuan cantik",lainnya
+222,Tokoh-10,"putra, putra tunggalnya",protagonis
+222,Tokoh-11,"bidadari, ketujuh bidadari",lainnya
+222,Tokoh-12,keenam bidadari,lainnya
+222,Tokoh-13,"bidadari bungsu, bidadari sulung",protagonis
+222,Tokoh-14,sidang belawan,antagonis
+222,Tokoh-15,wanita cantik,lainnya
+222,Tokoh-16,warga kampung,lainnya
+222,Tokoh-17,ajaib,protagonis
+222,Tokoh-18,dinda,lainnya
+222,Tokoh-19,kanda,lainnya
+222,Tokoh-20,"tuan, tuanku",protagonis
+222,Tokoh-21,hai,lainnya
+222,Tokoh-22,kak,lainnya

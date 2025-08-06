@@ -1,0 +1,125 @@
+story_id,judul,character_id,alias_characters,character_type
+7,Tuah Burung Merbak,Tokoh-1,"Ahmad, Abang, Bang, puteranya, pemuda, anak muda, Pemuda, abangku, abangnya",protagonist
+7,Tuah Burung Merbak,Tokoh-2,"Muhammad, adiknya, adik, puteranya, pemuda, anak muda, Pemuda, orang muda",protagonist
+7,Tuah Burung Merbak,Tokoh-3,"suami, ayah, ayahnya, Pak Ahmad, Ayah, Ayahnya, ayahmu",others
+7,Tuah Burung Merbak,Tokoh-4,"istri, ibu, ibumu, Ibu, Ibu Ahmad, ibunya, isterinya, Ibunya, Bu, mak, bu, Bu",others
+7,Tuah Burung Merbak,Tokoh-5,"burung Merbuk, burung, burung Merbuknya, Burung kesayangannya, Burung Merbuk",others
+7,Tuah Burung Merbak,Tokoh-6,Yang Maha Kuasa,others
+7,Tuah Burung Merbak,Tokoh-7,"Wak Pawang Merbuk, Pawang Merbuk, Wak, Wak Pawang",antagonist
+7,Tuah Burung Merbak,Tokoh-8,"Orang tua, orang tua",others
+7,Tuah Burung Merbak,Tokoh-9,"Raja, raja, Baginda Raja, ayahandanya",others
+7,Tuah Burung Merbak,Tokoh-10,"puteri, anak perempuan, anak dara, permaisuri, Putri Bungsu, puteri Bungsu, Tuan Puteri Bungsu, Puteri Bungsu, Tuan Puteri, isterinya",others
+7,Tuah Burung Merbak,Tokoh-11,Perdana Menteri,others
+7,Tuah Burung Merbak,Tokoh-12,"rakyat, rakyatnya",others
+7,Tuah Burung Merbak,Tokoh-13,anak laki-laki,others
+7,Tuah Burung Merbak,Tokoh-14,"Gajah Putih, gajah putih",others
+7,Tuah Burung Merbak,Tokoh-15,"pembantu, pembantunya",others
+7,Tuah Burung Merbak,Tokoh-16,"burung rajawali, Rajawali, rajawali",others
+7,Tuah Burung Merbak,Tokoh-17,"pengawal istana, pengawal",others
+7,Tuah Burung Merbak,Tokoh-18,mak Inang,others
+7,Tuah Burung Merbak,Tokoh-19,"puteri, anak perempuan, anak dara, permaisuri, Tuan Puteri, Puteri Sulung, isterinya",others
+7,Tuah Burung Merbak,Tokoh-20,Datuk Bendahara,others
+10,Sipakpak Kunal Dan Nagai Sori,Tokoh-1,"RAJA MARGOLANG, Raja Margolang, Tuanku Syah alam",others
+10,Sipakpak Kunal Dan Nagai Sori,Tokoh-2,"Raja Haroharo, Ayahandamu, suaminya",others
+10,Sipakpak Kunal Dan Nagai Sori,Tokoh-4,"puterinya, puteri Raja Margolang, puteri",others
+10,Sipakpak Kunal Dan Nagai Sori,Tokoh-5,pemuka daerah-daerah,others
+10,Sipakpak Kunal Dan Nagai Sori,Tokoh-6,"puteranya, NAGA SORAI, putera Haroharo, Naga Sorai, Nagai Sori",protagonist
+10,Sipakpak Kunal Dan Nagai Sori,Tokoh-7,"menteri, Perdana Menteri",others
+10,Sipakpak Kunal Dan Nagai Sori,Tokoh-8,"pembesar negeri, pembesar kerajaannya, pembesar negara, pembesar kerajaan",others
+10,Sipakpak Kunal Dan Nagai Sori,Tokoh-9,"rakyat, penduduk, rakyat Haroharo",others
+10,Sipakpak Kunal Dan Nagai Sori,Tokoh-10,ahli nujum,others
+10,Sipakpak Kunal Dan Nagai Sori,Tokoh-11,"anggota keluarga, Anggota-anggota keluarga ayah",others
+10,Sipakpak Kunal Dan Nagai Sori,Tokoh-12,"budak-budak, budak",others
+10,Sipakpak Kunal Dan Nagai Sori,Tokoh-13,"SIPAPAK KUNAL, Kunal, Sipakpak Kunal, budak, pengawal, penunjuk jalan, budak pengawal rombongan",antagonist
+10,Sipakpak Kunal Dan Nagai Sori,Tokoh-14,"ayahku, ayah, Ayah, raja yang sangat berkuasa",others
+10,Sipakpak Kunal Dan Nagai Sori,Tokoh-15,Sahang Mataniari,others
+10,Sipakpak Kunal Dan Nagai Sori,Tokoh-16,Ibu,others
+10,Sipakpak Kunal Dan Nagai Sori,Tokoh-17,tukang dayung,others
+10,Sipakpak Kunal Dan Nagai Sori,Tokoh-18,anggota rombongan,others
+10,Sipakpak Kunal Dan Nagai Sori,Tokoh-19,Menteri Dalam Negeri,others
+10,Sipakpak Kunal Dan Nagai Sori,Tokoh-20,Menteri Pertahanan,others
+10,Sipakpak Kunal Dan Nagai Sori,Tokoh-21,dayang-dayang,others
+10,Sipakpak Kunal Dan Nagai Sori,Tokoh-22,penyanyi-penyanyi,others
+10,Sipakpak Kunal Dan Nagai Sori,Tokoh-23,budak-budak perempuan,others
+10,Sipakpak Kunal Dan Nagai Sori,Tokoh-24,Permaisuri Raja Margolang,others
+10,Sipakpak Kunal Dan Nagai Sori,Tokoh-25,pegawai istana,others
+10,Sipakpak Kunal Dan Nagai Sori,Tokoh-26,Dewan Penasihat Raja Margolang,others
+111,Mentiko Betuah,Tokoh-1,"raja, Raja, ayahnya, Ayahnya, Ayah, ayah",protagonist
+111,Mentiko Betuah,Tokoh-2,"rakyatnya, rakyatku",others
+111,Mentiko Betuah,Tokoh-3,"istrinya, Istri raja, ibunya, bundanya",protagonist
+111,Mentiko Betuah,Tokoh-4,"Tuhan Yang Maha Esa, Tuhan",others
+111,Mentiko Betuah,Tokoh-5,"anak raja, anak tunggal, anaknya, anak, Anak, Anak raja, Anak muda, Anakku, Anaknya",protagonist
+111,Mentiko Betuah,Tokoh-6,anak-anak,others
+111,Mentiko Betuah,Tokoh-7,burung,others
+111,Mentiko Betuah,Tokoh-8,"segerombolan orang, Orang-orang, orang",others
+111,Mentiko Betuah,Tokoh-9,"ular, ular besar, Ular",others
+111,Mentiko Betuah,Tokoh-10,monyet,others
+111,Mentiko Betuah,Tokoh-11,"tukang emas, Tukang emas",others
+111,Mentiko Betuah,Tokoh-12,"tikus, Tikus",antagonist
+111,Mentiko Betuah,Tokoh-13,kucing,antagonist
+111,Mentiko Betuah,Tokoh-14,"anjing, anjinglah, Anjing",others
+87,Tanjung Siman,Tokoh-1,"penduduk desa, penduduk dusun, orang didusun, warga, penduduk, orang-orang sedusun",others
+87,Tanjung Siman,Tokoh-2,"laki-laki, Laki-laki Belulusan Ulakh, Laki laki, Laki-laki",protagonist
+87,Tanjung Siman,Tokoh-3,"ular, hewan melata",others
+87,Tanjung Siman,Tokoh-4,"teman sedusun, teman temannya, teman-temannya, teman sepermainannya",others
+87,Tanjung Siman,Tokoh-5,tetangganya,others
+87,Tanjung Siman,Tokoh-6,"sesepuh, sesepuh Dusun",others
+87,Tanjung Siman,Tokoh-7,puyang,others
+87,Tanjung Siman,Tokoh-8,seorang sesepuh dusun,others
+109,Ine Ude,Tokoh-1,"Isterinya, ibunya, ibu, Ibumu, ibu Siti Sara",protagonist
+109,Ine Ude,Tokoh-2,"Anaknya, Siti Sara, anak tunggal, anakku, anaknya",protagonist
+109,Ine Ude,Tokoh-3,"ayahmu, Ayahnya, ayah Siti Sara, papa, ayahnya",protagonist
+109,Ine Ude,Tokoh-4,Tuhan,others
+109,Ine Ude,Tokoh-5,"janda, ibu tirinya, isterinya, ibu",antagonist
+109,Ine Ude,Tokoh-6,"anaknya, anak yang masih kecil, anak yang dibawa ibu tirinya",others
+109,Ine Ude,Tokoh-7,"semua orang di kampung, orang lain, orang",others
+16,Asal Usul Laut Tador,Tokoh-1,"Tador, cucu, anak semata wayangnya, anak",protagonist
+16,Asal Usul Laut Tador,Tokoh-2,tetangga,others
+16,Asal Usul Laut Tador,Tokoh-3,"kakek, suami",others
+16,Asal Usul Laut Tador,Tokoh-4,"neneknya, nenek Tador, nenek",others
+16,Asal Usul Laut Tador,Tokoh-5,"ayah, orang tua Tador, ayah Tador, Orang tuanya, Ayah, orang tuanya",antagonist
+16,Asal Usul Laut Tador,Tokoh-6,"ibu, orang tua Tador, ibu Tador, Ibu, Orang tuanya, ibunya, orang tuanya, Ibu Tador",antagonist
+16,Asal Usul Laut Tador,Tokoh-7,"warga, warga kampung",others
+23,Rawang Tengkuluk,Tokoh-1,"seorang perempuan, Mak Siyah, ibunya, Ibu, Bu, ibu, orang tua",protagonist
+23,Rawang Tengkuluk,Tokoh-2,"Siti, anak gadisnya, anaknya, Siti anak yang pemalas, anak seorang janda miskin, gadis, Anak gadis, Nak, anak hamba",antagonist
+23,Rawang Tengkuluk,Tokoh-3,"Suaminya, ayah",others
+23,Rawang Tengkuluk,Tokoh-4,penduduk,others
+23,Rawang Tengkuluk,Tokoh-5,"Tek Kanah, orang kaya di kampung",others
+23,Rawang Tengkuluk,Tokoh-6,Bujang,others
+23,Rawang Tengkuluk,Tokoh-7,Tuhan,others
+35,Banta Seudang,Tokoh-1,"Banta Seudang, anak raja, adik saya, adikmu, anakku, kucing",protagonist
+35,Banta Seudang,Tokoh-2,"Raja, raja, ayah, ayahku, ayahnya, Ayah, raja buta, yah, ayah Banta Seudang, abangnya",protagonist
+35,Banta Seudang,Tokoh-3,"adik kandungnya, Pakcikmu, pakcik, adiknya",antagonist
+35,Banta Seudang,Tokoh-4,"ibunya, Mak, Ibunya, ibu Banta Seudang",protagonist
+35,Banta Seudang,Tokoh-5,"orang, orang yang sembahyang",others
+35,Banta Seudang,Tokoh-6,"arwah-arwah para aulia Allah, arwah aulia, aulia",others
+35,Banta Seudang,Tokoh-7,"gajah putih, gajah, gajah putihnya",others
+35,Banta Seudang,Tokoh-8,jin pari,protagonist
+35,Banta Seudang,Tokoh-9,raja,others
+35,Banta Seudang,Tokoh-10,"7 orang puteri, Anak-anaknya, ketujuh orang puteri raja, puteri-puterinya, puteri-puterinya raja, serombongan puteri",others
+35,Banta Seudang,Tokoh-11,"puteri, puteri yang paling bungsu, puterinya, bungsu, puteri raja, adiknya, puteri bungsu, Tuan puteri, isterinya",protagonist
+35,Banta Seudang,Tokoh-12,"penjaganya, wanita tua, Mak Toyo, Nek, nenek, nenek tua",protagonist
+35,Banta Seudang,Tokoh-13,"Keenam orang kakaknya, kakak-kakaknya",others
+25,Kisah Doyan Nada,Tokoh-1,"ratu jin, Dewi Anjani, Tuan Putri, tuannya",protagonist
+25,Kisah Doyan Nada,Tokoh-2,"patih, patih Songan, Patih",others
+25,Kisah Doyan Nada,Tokoh-3,"prajurit dari bangsa jin, pengikutnya, prajuritnya",others
+25,Kisah Doyan Nada,Tokoh-4,"burung, Beberi, Burung, burung peliharaannya",others
+25,Kisah Doyan Nada,Tokoh-5,kakek Tuan Putri,others
+25,Kisah Doyan Nada,Tokoh-6,"sepuluh pasang suami istri, Kesepuluh pasangan suami istri",others
+25,Kisah Doyan Nada,Tokoh-7,"kepala suku, kedua orang tua, ayah, Yah, suaminya, Ayah",antagonist
+25,Kisah Doyan Nada,Tokoh-8,"istri sang kepala suku, kedua orang tua, Bu, Ibu, istri, ibunya, ibu",protagonist
+25,Kisah Doyan Nada,Tokoh-9,"bayi laki-laki yang ajaib, bayi ajaib, Doyan Nada, anak, anaknya, Nak, anak semata wayangnya, Doyan, anak manusia, anak kecil, sakti mandraguna",protagonist
+25,Kisah Doyan Nada,Tokoh-10,"orang-orang, orang, penduduk desa",others
+25,Kisah Doyan Nada,Tokoh-11,"pertapa, Tameng Muter, Pertapa",protagonist
+25,Kisah Doyan Nada,Tokoh-12,"Pertapa, Sigar Penjalin, pertapa",protagonist
+25,Kisah Doyan Nada,Tokoh-13,"raksasa, Limandaru, Raksasa",antagonist
+26,Asal Mula Pulau Nusa,Tokoh-1,"Nusa, Bang, Abang, naga, suaminya, ular naga, Naga Nusa, Tuan Naga, Tuan",protagonist
+26,Asal Mula Pulau Nusa,Tokoh-2,"istri, istrinya, istri Nusa, Istrinya, Istri Nusa, Istri",others
+26,Asal Mula Pulau Nusa,Tokoh-3,"adik ipar laki-lakinya, adik iparnya, Dik, Adik, adik ipar Nusa",others
+26,Asal Mula Pulau Nusa,Tokoh-4,Tuhan,others
+26,Asal Mula Pulau Nusa,Tokoh-5,"orang warga, warga, Warga",others
+26,Asal Mula Pulau Nusa,Tokoh-6,ikan-ikan,others
+26,Asal Mula Pulau Nusa,Tokoh-7,Ikan Jelawat,others
+26,Asal Mula Pulau Nusa,Tokoh-8,"naga besar, Naga, naga",others
+26,Asal Mula Pulau Nusa,Tokoh-9,Ikan Saluang,antagonist
+26,Asal Mula Pulau Nusa,Tokoh-10,saudara-saudara,others

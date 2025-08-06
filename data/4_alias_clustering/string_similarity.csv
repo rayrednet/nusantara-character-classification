@@ -1,0 +1,2496 @@
+story_id,person,aliases
+1,Tokoh-1,['pak']
+1,Tokoh-2,['puteri']
+1,Tokoh-3,['putera']
+1,Tokoh-4,['ayah']
+1,Tokoh-5,"['istri', 'istri petani']"
+1,Tokoh-6,['suami']
+1,Tokoh-7,"['penduduk desa', 'desa']"
+1,Tokoh-8,['bidadari']
+1,Tokoh-9,['petani']
+1,Tokoh-10,['gadis']
+1,Tokoh-11,['kanda']
+1,Tokoh-12,['ikan']
+2,Tokoh-1,['putri cantik']
+2,Tokoh-2,['putri hijau']
+2,Tokoh-3,['abang']
+2,Tokoh-4,"['sultan', 'sultan muhayat syah']"
+2,Tokoh-5,['mambang khayali']
+2,Tokoh-6,['mambang jazid']
+2,Tokoh-7,['prajurit deli']
+2,Tokoh-8,"['naga', 'naga raksasa']"
+2,Tokoh-9,"['aceh', 'sultan aceh']"
+2,Tokoh-10,['hijau']
+3,Tokoh-1,['ibu']
+3,Tokoh-2,['pak']
+3,Tokoh-3,"['ayah', 'ayah seruni']"
+3,Tokoh-4,['istri']
+3,Tokoh-5,['orang tua seruni']
+3,Tokoh-6,['orang tua']
+3,Tokoh-7,['tetangga']
+3,Tokoh-8,['tuhan']
+3,Tokoh-9,['pasangan suami istri']
+3,Tokoh-10,['yang maha kuasa']
+3,Tokoh-11,['kembang desa']
+3,Tokoh-12,['penduduk']
+3,Tokoh-13,['majikan']
+3,Tokoh-14,['anjing']
+3,Tokoh-15,['seruni']
+3,Tokoh-16,['batu']
+3,Tokoh-17,['toki']
+3,Tokoh-18,['bu']
+4,Tokoh-1,['ibu']
+4,Tokoh-2,"['raja', 'raja sirambas']"
+4,Tokoh-3,['istri']
+4,Tokoh-4,['anak']
+4,Tokoh-5,['putri tuan jawabnya']
+4,Tokoh-6,['putri cantik']
+4,Tokoh-7,['tuhan']
+4,Tokoh-8,"['penduduk', 'penduduk kampung']"
+4,Tokoh-9,['wanita tua']
+4,Tokoh-10,['sampuraga']
+4,Tokoh-11,['janda tua']
+4,Tokoh-12,['pengawal']
+4,Tokoh-13,"['bu pinta', 'bu']"
+4,Tokoh-14,['majikan']
+4,Tokoh-15,['tuan']
+4,Tokoh-16,['nak']
+5,Tokoh-1,['istri']
+5,Tokoh-2,"['putri kerajaan laut', 'putri', 'putri laut']"
+5,Tokoh-3,"['datuk', 'datuk penghulu']"
+5,Tokoh-4,"['besar', 'buyung besar']"
+5,Tokoh-5,['penduduk']
+5,Tokoh-6,['warga']
+6,Tokoh-1,"['ibu si jibau', 'ibu']"
+6,Tokoh-2,['ayah']
+6,Tokoh-3,['istri datuk kejuruan']
+6,Tokoh-4,['bunda']
+6,Tokoh-5,['kakak']
+6,Tokoh-6,['adik']
+6,Tokoh-7,['kakek']
+6,Tokoh-8,"['tuhan', 'tuhan yang maha esa']"
+6,Tokoh-9,"['kaka', 'kaya', 'datuk orang kaya muda']"
+6,Tokoh-10,['orang kepercayaannya']
+6,Tokoh-11,"['datuk malim panjang', 'panjang']"
+6,Tokoh-12,['datuk kejuruan']
+6,Tokoh-13,['pemuda gagah']
+6,Tokoh-14,['amat lincah']
+6,Tokoh-15,['siti ensah']
+6,Tokoh-16,['nogong']
+6,Tokoh-17,['jibau']
+6,Tokoh-18,['syekh']
+6,Tokoh-19,['si']
+7,Tokoh-1,"['ibu ahmad', 'ibu']"
+7,Tokoh-2,['pak ahmad']
+7,Tokoh-3,['puteri bungsu']
+7,Tokoh-4,['puteri sulung']
+7,Tokoh-5,['raja']
+7,Tokoh-6,['ayah']
+7,Tokoh-7,['orang tua']
+7,Tokoh-8,['gajah putih kerajaan']
+7,Tokoh-9,"['pawang merbuk', 'wak pawang', 'wak', 'wak pawang merbuk']"
+7,Tokoh-10,"['burung merbuk', 'burung']"
+7,Tokoh-11,['lelaki tua']
+7,Tokoh-12,['muhammad']
+7,Tokoh-13,['firman']
+7,Tokoh-14,['ahmad']
+7,Tokoh-15,['hai']
+8,Tokoh-1,['raja sitanggang']
+8,Tokoh-2,['raja siali']
+8,Tokoh-3,['istri partiga tiga sipunjung']
+8,Tokoh-4,"['adik', 'adik tirinya']"
+8,Tokoh-5,"['tiga sipunjung', 'partiga tiga sipunjung', 'ayam jago partiga tiga sipunjung']"
+8,Tokoh-6,['yang maha kuasa']
+8,Tokoh-7,['suhi boh bosar']
+8,Tokoh-8,['warga kampung']
+8,Tokoh-9,"['ular', 'ular sendei']"
+8,Tokoh-10,['anggaranim']
+8,Tokoh-11,['ular besar']
+8,Tokoh-12,['nan sorma']
+8,Tokoh-13,['ayam raja']
+8,Tokoh-14,['siantar']
+8,Tokoh-15,['petani']
+8,Tokoh-16,['pemuda']
+8,Tokoh-17,['sanak']
+8,Tokoh-18,['urung']
+8,Tokoh-19,['cucu']
+9,Tokoh-1,['ibu']
+9,Tokoh-2,['puteri guru teteabulan']
+9,Tokoh-3,['puteri pamannya']
+9,Tokoh-4,['raja narasaon']
+9,Tokoh-5,['ayah']
+9,Tokoh-6,"['suami', 'suami isteri']"
+9,Tokoh-7,['anak']
+9,Tokoh-8,['orang tuanya']
+9,Tokoh-9,['pengurus besarnya']
+9,Tokoh-10,"['siboru bidinglaut', 'siboru']"
+9,Tokoh-11,"['bidadari', 'ketujuh bidadari']"
+9,Tokoh-12,['yang maha kuasa']
+9,Tokoh-13,['tujuh bidadari']
+9,Tokoh-14,['kodok besar']
+9,Tokoh-15,"['dukun besar', 'dukun']"
+9,Tokoh-16,['datu pejel']
+9,Tokoh-17,['narasaon']
+9,Tokoh-18,['budiman']
+9,Tokoh-19,['pemuda']
+9,Tokoh-20,['isteri']
+10,Tokoh-1,['ibu']
+10,Tokoh-2,"['puteri', 'puteri raja margolang', 'puteri margolang', 'puteri raja']"
+10,Tokoh-3,['permaisuri raja margolang']
+10,Tokoh-4,"['permaisuri raja haroharo', 'permaisuri haroharo']"
+10,Tokoh-5,['raja margolang']
+10,Tokoh-6,['raja haroharo']
+10,Tokoh-7,['putera haroharo']
+10,Tokoh-8,"['ayah', 'ayaha']"
+10,Tokoh-9,['suami']
+10,Tokoh-10,['menteri dalam negeri']
+10,Tokoh-11,['menteri pertahanan']
+10,Tokoh-12,['bunda']
+10,Tokoh-13,['anak raja']
+10,Tokoh-14,['adik']
+10,Tokoh-15,['orang tuaku']
+10,Tokoh-16,['dewan penasihat raja margolang']
+10,Tokoh-17,['menantu raja margolang']
+10,Tokoh-18,"['rakyat raja margolang', 'rakyat']"
+10,Tokoh-19,"['pembesar negara', 'pembesar kerajaannya', 'pembesar negeri']"
+10,Tokoh-20,"['kerajaan', 'pembesar kerajaan']"
+10,Tokoh-21,['anggota rombongan']
+10,Tokoh-22,['anggota keluarga']
+10,Tokoh-23,['tuanku syah alam']
+10,Tokoh-24,['perdana menteri']
+10,Tokoh-25,['rakyat haroharo']
+10,Tokoh-26,['penduduk daerah']
+10,Tokoh-27,"['istana', 'pegawai istana']"
+10,Tokoh-28,"['kunal', 'sipakpak kunal']"
+10,Tokoh-29,['keluarga ayah']
+10,Tokoh-30,['tukang dayung']
+10,Tokoh-31,['kerabat raja']
+10,Tokoh-32,"['tuan', 'tuan puteri']"
+10,Tokoh-33,"['nagai sori', 'naga sorai', 'sori']"
+10,Tokoh-34,['ahli nujum']
+10,Tokoh-35,['mataniari']
+10,Tokoh-36,['kepala']
+10,Tokoh-37,['isteri']
+10,Tokoh-38,['pemuka']
+10,Tokoh-39,['budak']
+10,Tokoh-40,['kaka']
+11,Tokoh-1,['raja']
+11,Tokoh-2,['ayah']
+11,Tokoh-3,"['datu', 'datu pongpangbalasaribu']"
+11,Tokoh-4,['datu pulungantua']
+11,Tokoh-5,"['penduduk desa', 'penduduk']"
+11,Tokoh-6,"['setan', 'setan betina']"
+11,Tokoh-7,"['sahang maima', 'maima']"
+11,Tokoh-8,"['babi', 'babi besar']"
+11,Tokoh-9,['datu dalu']
+11,Tokoh-10,['paman']
+11,Tokoh-11,['tujuh']
+12,Tokoh-1,['ibu']
+12,Tokoh-2,['raja pu rempur mayapmayap']
+12,Tokoh-3,['raja bulbulen']
+12,Tokoh-4,['ketujuh hulubalangnya']
+12,Tokoh-5,['pu rempur mayapmayap']
+12,Tokoh-6,"['rakyat benua harhar', 'rakyat']"
+12,Tokoh-7,['nenek batara guru']
+12,Tokoh-8,"['burung', 'burung kramat']"
+12,Tokoh-9,['pandirabar']
+12,Tokoh-10,['hulubalang']
+13,Tokoh-1,"['ibu si', 'ibu']"
+13,Tokoh-2,['raja alas']
+13,Tokoh-3,['ayah']
+13,Tokoh-4,"['istri datu kandibata', 'istri']"
+13,Tokoh-5,['adik']
+13,Tokoh-6,['orang tua']
+13,Tokoh-7,['beru tandang meriah']
+13,Tokoh-8,['beru tandang karo']
+13,Tokoh-9,"['datu', 'datu kandibata']"
+13,Tokoh-10,"['tua', 'perempuan tua']"
+13,Tokoh-11,['datu besar']
+13,Tokoh-12,['pedagang']
+13,Tokoh-13,['prajurit']
+13,Tokoh-14,['pesuruh']
+13,Tokoh-15,['kerabat']
+13,Tokoh-16,['rakyat']
+13,Tokoh-17,['isteri']
+13,Tokoh-18,['murid']
+13,Tokoh-19,['paman']
+13,Tokoh-20,['bibi']
+14,Tokoh-1,['ibu']
+14,Tokoh-2,['raja ompu pangisi']
+14,Tokoh-3,['raja dirumana']
+14,Tokoh-4,['raja simamen']
+14,Tokoh-5,['suami']
+14,Tokoh-6,['anak']
+14,Tokoh-7,['kakak']
+14,Tokoh-8,['adik']
+14,Tokoh-9,['orang tuanya']
+14,Tokoh-10,['abang']
+14,Tokoh-11,['datu parngongo']
+14,Tokoh-12,['penangkap ikan']
+14,Tokoh-13,"['pangisi', 'ompu pangisi']"
+14,Tokoh-14,['dukun besar']
+14,Tokoh-15,"['bayi gumul', 'bayi']"
+14,Tokoh-16,['taganbulu']
+14,Tokoh-17,['harimau']
+14,Tokoh-18,['nenek']
+15,Tokoh-1,['puteri sri pandan']
+15,Tokoh-2,['puteri yang']
+15,Tokoh-3,['puteri raja']
+15,Tokoh-4,['permaisuri']
+15,Tokoh-5,['raja simargolang']
+15,Tokoh-6,['raja aceh']
+15,Tokoh-7,['putera mahkota']
+15,Tokoh-8,"['ayaha', 'ayahanda raja']"
+15,Tokoh-9,['anakku sri pandan']
+15,Tokoh-10,['orang tua utusan']
+15,Tokoh-11,['orang tua']
+15,Tokoh-12,['tuanku puteri']
+15,Tokoh-13,['tuanku raja']
+15,Tokoh-14,['simargolang']
+15,Tokoh-15,['sri pandan']
+15,Tokoh-16,['margolang']
+15,Tokoh-17,['pembantu']
+15,Tokoh-18,['penduduk']
+15,Tokoh-19,['hatoban']
+15,Tokoh-20,['kekasih']
+15,Tokoh-21,['pemuda']
+15,Tokoh-22,['orang']
+16,Tokoh-1,"['ibu tador', 'ibu']"
+16,Tokoh-2,"['ayah tador', 'ayah']"
+16,Tokoh-3,['suami']
+16,Tokoh-4,"['uwak tador', 'uwak']"
+16,Tokoh-5,['anak']
+16,Tokoh-6,['kakek']
+16,Tokoh-7,"['orang tuanya', 'orang tua tador']"
+16,Tokoh-8,['orang tua']
+16,Tokoh-9,"['tetangga', 'tetangga tador']"
+16,Tokoh-10,"['warga kampung', 'warga']"
+16,Tokoh-11,"['ayam', 'ayam tua']"
+16,Tokoh-12,['penjaga']
+16,Tokoh-13,['cacing']
+16,Tokoh-14,['tador']
+16,Tokoh-15,['nenek']
+16,Tokoh-16,['ikan']
+16,Tokoh-17,['nak']
+16,Tokoh-18,['yah']
+16,Tokoh-19,['bu']
+17,Tokoh-1,['raja pangeran mas']
+17,Tokoh-2,['raja empedu']
+17,Tokoh-3,['raja kubang']
+17,Tokoh-4,['raja kubu']
+17,Tokoh-5,"['putri', 'putri darah putih']"
+17,Tokoh-6,['pangeran mas']
+17,Tokoh-7,['penduduk']
+17,Tokoh-8,['utusan']
+17,Tokoh-9,['kerbau']
+17,Tokoh-10,['kubang']
+17,Tokoh-11,['kubu']
+17,Tokoh-12,['tuan']
+18,Tokoh-1,['ibu']
+18,Tokoh-2,['raja']
+18,Tokoh-3,['anak raja']
+18,Tokoh-4,['kakak']
+18,Tokoh-5,['adik']
+18,Tokoh-6,['penduduk komering hilir']
+18,Tokoh-7,['masyarakat setempat']
+18,Tokoh-8,"['kerajaan', 'panglima kerajaan']"
+18,Tokoh-9,"['ratu', 'ratu wanita sakti']"
+18,Tokoh-10,['penduduk setempat']
+18,Tokoh-11,"['pagar bumi', 'teman pagar bumi']"
+18,Tokoh-12,['ketujuh saudara']
+18,Tokoh-13,['penjaga kebun']
+18,Tokoh-14,['puyung suan']
+18,Tokoh-15,['pahit lidah']
+18,Tokoh-16,['orang sakti']
+18,Tokoh-17,['pengawal']
+18,Tokoh-18,['dayang']
+18,Tokoh-19,['pemuda']
+18,Tokoh-20,['gadis']
+19,Tokoh-1,"['ibu indra', 'ibu']"
+19,Tokoh-2,"['pak', 'pak buyung']"
+19,Tokoh-3,['ayah']
+19,Tokoh-4,['istri']
+19,Tokoh-5,"['suami istri', 'suami']"
+19,Tokoh-6,['anak']
+19,Tokoh-7,['orangtua']
+19,Tokoh-8,['taduang']
+19,Tokoh-9,['indra']
+19,Tokoh-10,['ayam']
+19,Tokoh-11,['bu']
+20,Tokoh-1,"['ibu malin', 'ibu']"
+20,Tokoh-2,['istri']
+20,Tokoh-3,['anak']
+20,Tokoh-4,['putri']
+20,Tokoh-5,['tuhan']
+20,Tokoh-6,"['mande rubayah', 'mande']"
+20,Tokoh-7,"['malin kundang', 'malin']"
+20,Tokoh-8,['lelaki muda']
+20,Tokoh-9,"['wanita', 'wanita tua']"
+20,Tokoh-10,['awak kapal']
+20,Tokoh-11,['nak']
+20,Tokoh-12,['bu']
+21,Tokoh-1,['ibu']
+21,Tokoh-2,['ayah']
+21,Tokoh-3,['anak gadis']
+21,Tokoh-4,"['tujuh', 'tujuh orang pintar']"
+21,Tokoh-5,"['rajo kaciak', 'angku rajo kaciak']"
+21,Tokoh-6,['sutan rumanduang']
+21,Tokoh-7,['cerdik pandai']
+21,Tokoh-8,"['siamang', 'siamang putih']"
+21,Tokoh-9,"['puti', 'puti julian']"
+21,Tokoh-10,['alim ulama']
+21,Tokoh-11,['bangsawan']
+21,Tokoh-12,['penduduk']
+21,Tokoh-13,['penghulu']
+21,Tokoh-14,['saudagar']
+21,Tokoh-15,['rustam']
+21,Tokoh-16,['pemuda']
+21,Tokoh-17,['gadis']
+21,Tokoh-18,['bapak']
+21,Tokoh-19,['cucu']
+21,Tokoh-20,['uda']
+21,Tokoh-21,['ang']
+22,Tokoh-1,['suami']
+22,Tokoh-2,['anak']
+22,Tokoh-3,"['anjing penjaga ladang', 'anjing penjaga', 'anjing']"
+22,Tokoh-4,"['mak', 'siti', 'mak siti']"
+22,Tokoh-5,"['ipeh', 'mak ipeh']"
+22,Tokoh-6,['bayo']
+23,Tokoh-1,['ibu']
+23,Tokoh-2,['ayah']
+23,Tokoh-3,['suami']
+23,Tokoh-4,['anak seorang janda miskin']
+23,Tokoh-5,"['anak gadisnya', 'anak gadis']"
+23,Tokoh-6,['orang tua']
+23,Tokoh-7,['tuhan']
+23,Tokoh-8,['mak siyah']
+23,Tokoh-9,['tek kanah']
+23,Tokoh-10,['penduduk']
+23,Tokoh-11,['bujang']
+23,Tokoh-12,['gadis']
+23,Tokoh-13,['siti']
+23,Tokoh-14,['nak']
+23,Tokoh-15,['bu']
+24,Tokoh-1,['ibu']
+24,Tokoh-2,['ayah']
+24,Tokoh-3,['istri']
+24,Tokoh-4,"['kakak sulungnya', 'kakak']"
+24,Tokoh-5,"['adik', 'adik bungsunya']"
+24,Tokoh-6,['anggota keluarga kecil']
+24,Tokoh-7,"['saku', 'kak saku']"
+24,Tokoh-8,['abatan']
+24,Tokoh-9,['bungsu']
+24,Tokoh-10,['sulung']
+24,Tokoh-11,['nenek']
+24,Tokoh-12,['seko']
+24,Tokoh-13,['babi']
+25,Tokoh-1,['ibu']
+25,Tokoh-2,['ayah']
+25,Tokoh-3,"['istri sang kepala suku', 'istri']"
+25,Tokoh-4,['suami']
+25,Tokoh-5,['anak semata wayangnya']
+25,Tokoh-6,['anak kecil']
+25,Tokoh-7,['kakek tuan putri']
+25,Tokoh-8,['kesepuluh pasangan suami istri']
+25,Tokoh-9,['prajurit dari bangsa jin']
+25,Tokoh-10,['sakti mandraguna']
+25,Tokoh-11,['sigar penjalin']
+25,Tokoh-12,"['penduduk desa', 'desa']"
+25,Tokoh-13,['tameng muter']
+25,Tokoh-14,"['patih', 'patih songan']"
+25,Tokoh-15,['dewi anjani']
+25,Tokoh-16,['kepala suku']
+25,Tokoh-17,"['bayi', 'bayi ajaib', 'yang ajaib']"
+25,Tokoh-18,"['tuan putri', 'tuan']"
+25,Tokoh-19,"['doyan', 'doyan nada']"
+25,Tokoh-20,['limandaru']
+25,Tokoh-21,['ratu jin']
+25,Tokoh-22,['pertapa']
+25,Tokoh-23,['raksasa']
+25,Tokoh-24,['beberi']
+25,Tokoh-25,['burung']
+25,Tokoh-26,['orang']
+25,Tokoh-27,['nak']
+25,Tokoh-28,['yah']
+25,Tokoh-29,['bu']
+26,Tokoh-1,"['istri', 'istri nusa']"
+26,Tokoh-2,['suami']
+26,Tokoh-3,"['adik', 'adik ipar nusa', 'adik ipar', 'adik iparnya']"
+26,Tokoh-4,['abang']
+26,Tokoh-5,"['ikan saluang', 'ikan']"
+26,Tokoh-6,"['nusa', 'naga nusa', 'naga', 'naga besar']"
+26,Tokoh-7,"['tuan naga', 'tuan']"
+26,Tokoh-8,['ular naga']
+26,Tokoh-9,['warga']
+26,Tokoh-10,['bang']
+26,Tokoh-11,['dik']
+27,Tokoh-1,['ibu']
+27,Tokoh-2,['ayah']
+27,Tokoh-3,['istri']
+27,Tokoh-4,['suami']
+27,Tokoh-5,"['anak muda', 'anak']"
+27,Tokoh-6,['adik']
+27,Tokoh-7,['kakek']
+27,Tokoh-8,['putri kesayangannya']
+27,Tokoh-9,['putri tuan']
+27,Tokoh-10,['abang']
+27,Tokoh-11,"['ikan patin', 'ikan']"
+27,Tokoh-12,['ikan besar']
+27,Tokoh-13,['manyang']
+27,Tokoh-14,['leniri']
+27,Tokoh-15,['simbun']
+27,Tokoh-16,['pemuda']
+27,Tokoh-17,['labih']
+27,Tokoh-18,['putra']
+27,Tokoh-19,['bang']
+27,Tokoh-20,['tuan']
+27,Tokoh-21,['niri']
+27,Tokoh-22,['bayi']
+27,Tokoh-23,['kek']
+27,Tokoh-24,['ari']
+28,Tokoh-1,['ibu']
+28,Tokoh-2,['raja']
+28,Tokoh-3,['ayah']
+28,Tokoh-4,['suami']
+28,Tokoh-5,['anak muda']
+28,Tokoh-6,"['adik', 'adik tercintanya']"
+28,Tokoh-7,['putri raja']
+28,Tokoh-8,['abang']
+28,Tokoh-9,['ranying hatalla langit']
+28,Tokoh-10,['perempuan paruh baya']
+28,Tokoh-11,['pengawal istana']
+28,Tokoh-12,['perempuan tua']
+28,Tokoh-13,"['nenek malang', 'nenek']"
+28,Tokoh-14,"['bu nenek', 'bu']"
+28,Tokoh-15,['dohong']
+28,Tokoh-16,"['ambun', 'rimbun']"
+28,Tokoh-17,['janda']
+28,Tokoh-18,['bang']
+28,Tokoh-19,['cucu']
+28,Tokoh-20,['nek']
+28,Tokoh-21,['nak']
+28,Tokoh-22,['dik']
+29,Tokoh-1,['pemimpin para dewa']
+29,Tokoh-2,['sakti mandraguna']
+29,Tokoh-3,['batara narada']
+29,Tokoh-4,['pemuda tampan']
+29,Tokoh-5,['batara togog']
+29,Tokoh-6,"['batara semar', 'semar']"
+29,Tokoh-7,"['dewa narada', 'dewa indra']"
+29,Tokoh-8,"['pandu', 'prabu pandu']"
+29,Tokoh-9,['dewa ismaya']
+29,Tokoh-10,['dewa perang']
+29,Tokoh-11,"['guru', 'batara guru']"
+29,Tokoh-12,['pandawa']
+29,Tokoh-13,['arjuna']
+29,Tokoh-14,['tujuh']
+29,Tokoh-15,['raden']
+29,Tokoh-16,['hai']
+29,Tokoh-17,['den']
+30,Tokoh-1,['ibu']
+30,Tokoh-2,['anak muda']
+30,Tokoh-3,['putri semata wayangnya']
+30,Tokoh-4,['putri kemuning']
+30,Tokoh-5,['tuhan yang maha kuasa']
+30,Tokoh-6,"['rakyat kerajaan ringin anom', 'rakyat']"
+30,Tokoh-7,"['prabu', 'prabu aryo seto']"
+30,Tokoh-8,"['ular naga sakti', 'naga', 'naga sakti']"
+30,Tokoh-9,"['jaka budug', 'budug']"
+30,Tokoh-10,['pangeran']
+30,Tokoh-11,['pemuda']
+30,Tokoh-12,['warga']
+30,Tokoh-13,['yang']
+31,Tokoh-1,['ibu']
+31,Tokoh-2,['permaisuri']
+31,Tokoh-3,['raja']
+31,Tokoh-4,['ayah']
+31,Tokoh-5,['putri prabu siliwangi']
+31,Tokoh-6,['putri kandita']
+31,Tokoh-7,"['prabu siliwangi', 'prabu', 'selir prabu siliwangi', 'selir']"
+31,Tokoh-8,['peserta rapat']
+31,Tokoh-9,['pangeran']
+31,Tokoh-10,['istana']
+31,Tokoh-11,['dukun']
+32,Tokoh-1,"['raja', 'raja riak bakau']"
+32,Tokoh-2,['kakek misterius']
+32,Tokoh-3,['kakek bagus']
+32,Tokoh-4,['tuhan']
+32,Tokoh-5,['syekh abdullatif']
+32,Tokoh-6,['penduduk']
+32,Tokoh-7,['prajurit']
+32,Tokoh-8,['rakyat']
+32,Tokoh-9,['warga']
+32,Tokoh-10,['ayam']
+32,Tokoh-11,['tuan']
+32,Tokoh-12,['kek']
+33,Tokoh-1,['putri cadasari']
+33,Tokoh-2,['putri raja']
+33,Tokoh-3,['putri arum']
+33,Tokoh-4,"['pangeran bengis', 'pangeran sae bagus lana', 'pangeran', 'pangeran sae bagus', 'pangeran sae']"
+33,Tokoh-5,"['penduduk', 'penduduk setempat']"
+33,Tokoh-6,['sakti mandraguna']
+33,Tokoh-7,['pangeran cunihin']
+33,Tokoh-8,['penduduk kampung']
+33,Tokoh-9,['tetua kampung']
+33,Tokoh-10,['dewa penolong']
+33,Tokoh-11,"['gelang', 'pande', 'pande gelang']"
+33,Tokoh-12,['tuan putri']
+33,Tokoh-13,"['ki pande', 'ki']"
+33,Tokoh-14,['rakyat']
+33,Tokoh-15,['lelaki']
+33,Tokoh-16,['gadis']
+33,Tokoh-17,['guru']
+34,Tokoh-1,['ibu']
+34,Tokoh-2,['permaisuri']
+34,Tokoh-3,['raja buaya']
+34,Tokoh-4,['raja muda']
+34,Tokoh-5,['ayah']
+34,Tokoh-6,['istri raja muda']
+34,Tokoh-7,['istri saudagar']
+34,Tokoh-8,['suami']
+34,Tokoh-9,['adik sang raja']
+34,Tokoh-10,"['putri', 'putri niwer gading']"
+34,Tokoh-11,['putra mahkota']
+34,Tokoh-12,"['saudagar', 'saudagar kaya']"
+34,Tokoh-13,['tuan putri']
+34,Tokoh-14,"['naga', 'ikan besar', 'naga besar']"
+34,Tokoh-15,['amat mude']
+34,Tokoh-16,['keponakan']
+34,Tokoh-17,['paman']
+35,Tokoh-1,['ibu']
+35,Tokoh-2,['pakcik']
+35,Tokoh-3,"['puteri bungsu', 'puteri bungsunya']"
+35,Tokoh-4,['puteri raja']
+35,Tokoh-5,['raja']
+35,Tokoh-6,"['ayah', 'ayah banta seudang']"
+35,Tokoh-7,['istri']
+35,Tokoh-8,"['adik', 'adik kandungnya']"
+35,Tokoh-9,['ketujuh puteri']
+35,Tokoh-10,"['banta seudang', 'banta']"
+35,Tokoh-11,['gajah putih']
+35,Tokoh-12,['wanita tua']
+35,Tokoh-13,"['imam salat', 'imam']"
+35,Tokoh-14,"['mak', 'mak toyo']"
+35,Tokoh-15,"['jin', 'jin pari']"
+35,Tokoh-16,"['aulia', 'aulia al']"
+35,Tokoh-17,['kucing']
+35,Tokoh-18,['bapak']
+35,Tokoh-19,['lain']
+35,Tokoh-20,['nek']
+36,Tokoh-1,"['penduduk', 'penduduk kampung']"
+36,Tokoh-2,['masyarakat adat']
+36,Tokoh-3,['datu musa']
+37,Tokoh-1,['ayah sari']
+37,Tokoh-2,['dukun tua']
+37,Tokoh-3,['wanita']
+37,Tokoh-4,['sari']
+37,Tokoh-5,['rama']
+38,Tokoh-1,['ibu']
+38,Tokoh-2,['anak']
+38,Tokoh-3,['batu betangkup']
+38,Tokoh-4,['janda tua']
+38,Tokoh-5,"['minah', 'bu minah']"
+39,Tokoh-1,"['masyarakat papua nugini', 'masyarakat']"
+39,Tokoh-2,['warga masyarakat']
+39,Tokoh-3,['tetua adat']
+39,Tokoh-4,['naga']
+40,Tokoh-1,['wongge']
+40,Tokoh-2,['meja']
+41,Tokoh-1,['raksasa jahat']
+41,Tokoh-2,"['pemuda muda', 'pemuda']"
+41,Tokoh-3,['dewi cantik']
+41,Tokoh-4,['dewi anjani']
+41,Tokoh-5,['jaka daha']
+41,Tokoh-6,['dewa']
+42,Tokoh-1,['raja hutan']
+42,Tokoh-2,['putri cantik']
+42,Tokoh-3,['putri anggun']
+42,Tokoh-4,['anggun']
+42,Tokoh-5,['adi']
+43,Tokoh-1,"['gajah sakti', 'gajah']"
+43,Tokoh-2,['pemburu']
+43,Tokoh-3,['kancil']
+44,Tokoh-1,['penduduk desa']
+44,Tokoh-2,['pemimpin suku']
+44,Tokoh-3,"['rara anteng', 'rara']"
+44,Tokoh-4,"['dewa gunung', 'gunung']"
+44,Tokoh-5,['jaka seger']
+44,Tokoh-6,['pahlawan']
+44,Tokoh-7,['tengger']
+44,Tokoh-8,['pemuda']
+44,Tokoh-9,['bima']
+45,Tokoh-1,['raja']
+45,Tokoh-2,"['putri', 'putri cantik']"
+45,Tokoh-3,['prajurit kerajaan jenggala']
+45,Tokoh-4,['dewi kilisuci']
+45,Tokoh-5,['ayam jantan']
+45,Tokoh-6,['mahesa suro']
+45,Tokoh-7,['lembu suro']
+46,Tokoh-1,['raden cilik']
+46,Tokoh-2,"['warga desa', 'desa']"
+47,Tokoh-1,['bangsawan kerajaan']
+47,Tokoh-2,"['panji asmoro', 'panji']"
+47,Tokoh-3,['dukun tua']
+47,Tokoh-4,['pangeran']
+48,Tokoh-1,"['dewa sungai sempor', 'sempor']"
+48,Tokoh-2,"['penduduk desa', 'penduduk sempor', 'desa']"
+48,Tokoh-3,['penguasa jahat']
+48,Tokoh-4,['raden purnama']
+48,Tokoh-5,['jaka sempor']
+48,Tokoh-6,['kepala desa']
+49,Tokoh-1,['raja jin sepanjang']
+49,Tokoh-2,['raja jin']
+49,Tokoh-3,['suami']
+49,Tokoh-4,"['martoyuda', 'tumenggung martoyuda']"
+49,Tokoh-5,['ratu pantai selatan']
+49,Tokoh-6,['panembahan senopati']
+49,Tokoh-7,['ki gede pemanahan']
+49,Tokoh-8,['pangeran purbaya']
+49,Tokoh-9,"['raden krincing', 'raden kuning']"
+49,Tokoh-10,"['jin sepanjang', 'jin']"
+49,Tokoh-11,['kyai keramat']
+49,Tokoh-12,['nyai bogem']
+49,Tokoh-13,['santa']
+50,Tokoh-1,"['puyang adong', 'ratu puyang adong', 'ratu']"
+50,Tokoh-2,"['penduduk desa', 'desa']"
+51,Tokoh-1,['orang tua']
+51,Tokoh-2,"['rangga gading', 'ki rangga gading']"
+51,Tokoh-3,"['warga sekampung', 'warga']"
+51,Tokoh-4,['penjaga']
+51,Tokoh-5,['gantel']
+51,Tokoh-6,['burung']
+51,Tokoh-7,['eyang']
+51,Tokoh-8,['ulama']
+52,Tokoh-1,['permaisuri kerajaan']
+52,Tokoh-2,"['raja', 'raja asli']"
+52,Tokoh-3,['ayah angkatnya']
+52,Tokoh-4,['menteri']
+52,Tokoh-5,"['prabu barma wijaya', 'prabu barma wijaya kusumah']"
+52,Tokoh-6,"['ciung', 'ayam', 'ciung wanara', 'ayam ciung wanara']"
+52,Tokoh-7,['dewi naganingrum']
+52,Tokoh-8,['petugas kerajaan']
+52,Tokoh-9,['dewi pangrenyep']
+52,Tokoh-10,['penduduk desa']
+52,Tokoh-11,['prabu permana']
+52,Tokoh-12,['hariang banga']
+52,Tokoh-13,['ajar sukaresi']
+52,Tokoh-14,['rakyat galuh']
+52,Tokoh-15,['aria kebonan']
+52,Tokoh-16,['ayam jantan']
+52,Tokoh-17,['uwa batara']
+52,Tokoh-18,['perempuan']
+52,Tokoh-19,['nagawiru']
+52,Tokoh-20,['pemuda']
+52,Tokoh-21,['putra']
+53,Tokoh-1,['penduduk desa']
+53,Tokoh-2,['mbok sari']
+53,Tokoh-3,['nenek']
+53,Tokoh-4,['anom']
+54,Tokoh-1,['ibu']
+54,Tokoh-2,"['raja airlangga', 'raja']"
+54,Tokoh-3,['istri']
+54,Tokoh-4,['anak perempuan calon arang']
+54,Tokoh-5,['anak buahnya']
+54,Tokoh-6,"['arang', 'pasukan calon arang', 'calon arang']"
+54,Tokoh-7,['dewi angkara murka']
+54,Tokoh-8,['nyi calon arang']
+54,Tokoh-9,['ratna manggali']
+54,Tokoh-10,"['penduduk desa', 'penduduk']"
+54,Tokoh-11,['prajurit daha']
+54,Tokoh-12,['empu barada']
+54,Tokoh-13,['empu bahula']
+54,Tokoh-14,['dinda ratna']
+54,Tokoh-15,['paman patih']
+54,Tokoh-16,['ahli sihir']
+54,Tokoh-17,['kerajaan']
+54,Tokoh-18,['rakyat']
+54,Tokoh-19,['gadis']
+55,Tokoh-1,['ibu']
+55,Tokoh-2,['raja buaya']
+55,Tokoh-3,['raja muda']
+55,Tokoh-4,"['istri', 'istri saudagar']"
+55,Tokoh-5,['putri niwer gading']
+55,Tokoh-6,"['amat mude', 'paman amat mude']"
+55,Tokoh-7,['saudagar']
+55,Tokoh-8,['gading']
+55,Tokoh-9,['naga']
+55,Tokoh-10,['ratu']
+56,Tokoh-1,['raja linge']
+56,Tokoh-2,['ayah']
+56,Tokoh-3,"['sultan meurah', 'sultan']"
+56,Tokoh-4,['sultan alam']
+56,Tokoh-5,"['naga', 'naga besar']"
+56,Tokoh-6,['tuan tapa']
+56,Tokoh-7,['rakyat']
+56,Tokoh-8,['warga']
+57,Tokoh-1,['siluman penyu']
+57,Tokoh-2,['watu maladong']
+57,Tokoh-3,['dukun sakti']
+57,Tokoh-4,"['kepala desa', 'desa']"
+57,Tokoh-5,['tuan rumah']
+57,Tokoh-6,"['babi hutan', 'babi']"
+57,Tokoh-7,['petani']
+57,Tokoh-8,['nenek']
+57,Tokoh-9,['warga']
+58,Tokoh-1,['istri']
+58,Tokoh-2,['hyang widhi wasa']
+58,Tokoh-3,"['penduduk desa', 'desa', 'penduduk']"
+58,Tokoh-4,['paman kerbau']
+58,Tokoh-5,['kepala desa']
+58,Tokoh-6,"['warga desa', 'warga']"
+58,Tokoh-7,['kebo iwa']
+59,Tokoh-1,['raja negeri luhu']
+59,Tokoh-2,['raja soya']
+59,Tokoh-3,"['putri', 'putri ta ina luhu']"
+59,Tokoh-4,"['warga sekitar', 'warga']"
+59,Tokoh-5,"['luhu', 'ta ina luhu']"
+59,Tokoh-6,"['nenek', 'nenek luhu']"
+59,Tokoh-7,['soya']
+60,Tokoh-1,['raja jin kluntung wuluh']
+60,Tokoh-2,['ayah']
+60,Tokoh-3,['anak']
+60,Tokoh-4,['adik']
+60,Tokoh-5,['putri']
+60,Tokoh-6,"['raden panembahan batara katong', 'raden']"
+60,Tokoh-7,"['adipati raden batara katong', 'raden batara katong']"
+60,Tokoh-8,"['mungil', 'kluntung wuluh', 'jin kluntung wuluh', 'jin kluntung mungil']"
+60,Tokoh-9,"['warok', 'suro handoko', 'warok surohandoko', 'warok suro handoko']"
+60,Tokoh-10,['guru batara katong']
+60,Tokoh-11,['panembahan agung']
+60,Tokoh-12,['warok singobowo']
+60,Tokoh-13,"['roro', 'roro warsiyani']"
+60,Tokoh-14,['warok gunaseco']
+60,Tokoh-15,"['penari', 'penari jatilan']"
+60,Tokoh-16,['roro suminten']
+60,Tokoh-17,['raden subroto']
+60,Tokoh-18,['cempluk']
+60,Tokoh-19,['bapak']
+60,Tokoh-20,['bopo']
+61,Tokoh-1,['ibu']
+61,Tokoh-2,['tanggang']
+62,Tokoh-1,['ibu']
+62,Tokoh-2,"['ikan gabus emas', 'ikan']"
+62,Tokoh-3,"['penduduk desa', 'penduduk asli']"
+62,Tokoh-4,['raden surya']
+62,Tokoh-5,['berto']
+62,Tokoh-6,['tua']
+63,Tokoh-1,['raja hitam']
+63,Tokoh-2,['raja jahat']
+63,Tokoh-3,['raja muda']
+63,Tokoh-4,['rakyat']
+64,Tokoh-1,['babi hutan']
+64,Tokoh-2,['sigarlaki']
+64,Tokoh-3,['pembantu']
+64,Tokoh-4,['kepiting']
+64,Tokoh-5,['pencuri']
+64,Tokoh-6,['limbat']
+64,Tokoh-7,['rusa']
+64,Tokoh-8,['tuan']
+65,Tokoh-1,['kepiting']
+65,Tokoh-2,['ayam']
+65,Tokoh-3,['kera']
+66,Tokoh-1,['ibu']
+66,Tokoh-2,['pak']
+66,Tokoh-3,['ayah']
+66,Tokoh-4,['istri']
+66,Tokoh-5,['suami']
+66,Tokoh-6,"['anak', 'anak yang bungsu']"
+66,Tokoh-7,['kakak']
+66,Tokoh-8,['adik']
+66,Tokoh-9,['ikan duyung']
+66,Tokoh-10,['bungsu']
+66,Tokoh-11,['wanita']
+66,Tokoh-12,['bapak']
+66,Tokoh-13,['yang']
+66,Tokoh-14,['dik']
+66,Tokoh-15,['kak']
+66,Tokoh-16,['bu']
+67,Tokoh-1,['permaisuri']
+67,Tokoh-2,['raja bone']
+67,Tokoh-3,['ayaha']
+67,Tokoh-4,['putri tercintanya']
+67,Tokoh-5,['putri tadampalik']
+67,Tokoh-6,['putri dari luwu']
+67,Tokoh-7,['panglima anre guru pakanranyeng']
+67,Tokoh-8,"['panglima perang kerajaan bone', 'panglima kerajaan bone', 'bone']"
+67,Tokoh-9,"['putra mahkota', 'putra mahkota kerajaan']"
+67,Tokoh-10,['tabib istana']
+67,Tokoh-11,"['luwu', 'rakyat', 'rakyat luwu']"
+67,Tokoh-12,"['kerbau bule', 'kerbau']"
+67,Tokoh-13,"['datu', 'datu luwu']"
+67,Tokoh-14,['pengawal']
+67,Tokoh-15,['pengikut']
+67,Tokoh-16,['pangeran']
+67,Tokoh-17,['gadis']
+67,Tokoh-18,['dewa']
+67,Tokoh-19,['nak']
+68,Tokoh-1,"['raja bumi', 'raja alekawi bumi']"
+68,Tokoh-2,['raja langit']
+68,Tokoh-3,['ayah']
+68,Tokoh-4,['putri tiongkok']
+68,Tokoh-5,"['anggota kerajaan', 'anggota kerajaan langit', 'kerajaan']"
+68,Tokoh-6,['kesatria kerajaan']
+68,Tokoh-7,['guru ri selleng']
+68,Tokoh-8,"['we tanriyabeng', 'we']"
+68,Tokoh-9,"['la toge langi', 'la toge']"
+68,Tokoh-10,['la tenritatta']
+68,Tokoh-11,['la patiganna']
+68,Tokoh-12,['we tenriwaru']
+68,Tokoh-13,['batara lattu']
+68,Tokoh-14,['i la galigo']
+68,Tokoh-15,['la tiuleng']
+68,Tokoh-16,['we cudai']
+68,Tokoh-17,['gadis']
+68,Tokoh-18,['timo']
+69,Tokoh-1,"['istri towjatuwa', 'istri']"
+69,Tokoh-2,['suami']
+69,Tokoh-3,['burung kaswari']
+69,Tokoh-4,"['buaya', 'buaya besar']"
+69,Tokoh-5,['buaya ajaib']
+69,Tokoh-6,['towjatuwa']
+69,Tokoh-7,['wituwe']
+69,Tokoh-8,['bayi']
+70,Tokoh-1,"['ibu tua', 'ibu']"
+70,Tokoh-2,['ayah']
+70,Tokoh-3,['istri']
+70,Tokoh-4,['anak perempuan']
+70,Tokoh-5,['anak anjing']
+70,Tokoh-6,['adik tirinya']
+70,Tokoh-7,['burung cenderawasih']
+70,Tokoh-8,"['anjing betina', 'anjing']"
+70,Tokoh-9,"['tua', 'perempuan tua']"
+70,Tokoh-10,"['wong', 'wong koko']"
+70,Tokoh-11,['kweiya']
+71,Tokoh-1,['ibu']
+71,Tokoh-2,['permaisuri']
+71,Tokoh-3,['ayah']
+71,Tokoh-4,['istri']
+71,Tokoh-5,['suami istri']
+71,Tokoh-6,"['kakak lelakinya', 'kakak']"
+71,Tokoh-7,['adik']
+71,Tokoh-8,['orang tuanya']
+71,Tokoh-9,['orang tua']
+71,Tokoh-10,['burung kecil']
+71,Tokoh-11,"['hutan', 'hantu hutan']"
+71,Tokoh-12,"['ikun', 'suri ikun']"
+71,Tokoh-13,['ketujuh']
+71,Tokoh-14,['saudara']
+71,Tokoh-15,['rakyat']
+71,Tokoh-16,['keenam']
+71,Tokoh-17,['kak']
+71,Tokoh-18,['bu']
+72,Tokoh-1,['ibu']
+72,Tokoh-2,['istri']
+72,Tokoh-3,['suami']
+72,Tokoh-4,['anak']
+72,Tokoh-5,['kakak']
+72,Tokoh-6,['adik']
+72,Tokoh-7,"['burung kelik', 'burung kekuwo']"
+72,Tokoh-8,"['inaq lembain', 'lembain', 'amaq lembain']"
+72,Tokoh-9,['penduduk']
+72,Tokoh-10,['dewata']
+72,Tokoh-11,['bu']
+73,Tokoh-1,['orang tua magohiduuru']
+73,Tokoh-2,['nona endo lisawa']
+73,Tokoh-3,"['penduduk', 'penduduk dusun']"
+73,Tokoh-4,['magohiduuru']
+73,Tokoh-5,['nona laeng']
+73,Tokoh-6,['tetua adat']
+73,Tokoh-7,['majojaru']
+73,Tokoh-8,['orang']
+74,Tokoh-1,"['penduduk desa', 'desa', 'penduduk']"
+74,Tokoh-2,['aminah']
+74,Tokoh-3,['gadis']
+74,Tokoh-4,['buaya']
+75,Tokoh-1,['puteri aji berdarah putih']
+75,Tokoh-2,['puteri jelita']
+75,Tokoh-3,['puteri cantik']
+75,Tokoh-4,['puteri aji']
+75,Tokoh-5,['raja terhormat']
+75,Tokoh-6,['raja sakti']
+75,Tokoh-7,['raja cina']
+75,Tokoh-8,['prajurit sang puteri jelita']
+75,Tokoh-9,['panglima perangnya']
+75,Tokoh-10,['prajurit raja cina']
+75,Tokoh-11,['anjing']
+76,Tokoh-1,['puteri karang melenu']
+76,Tokoh-2,['raja cina']
+76,Tokoh-3,['anak sawah']
+76,Tokoh-4,['kakek']
+76,Tokoh-5,['putri karang melenu']
+76,Tokoh-6,['putri junjung']
+76,Tokoh-7,"['aji betara agung dewa sakti', 'dewa sakti', 'dewa']"
+76,Tokoh-8,['petinggi halu dusun']
+76,Tokoh-9,['lembu suana']
+76,Tokoh-10,"['naga kutai', 'naga']"
+76,Tokoh-11,['valentjin']
+76,Tokoh-12,['penggawa']
+76,Tokoh-13,['delapan']
+76,Tokoh-14,['.']
+77,Tokoh-1,['permaisuri']
+77,Tokoh-2,['raja']
+77,Tokoh-3,"['saudara kembarnya', 'saudara']"
+77,Tokoh-4,['prajurit kerajaan']
+77,Tokoh-5,['kembar raja']
+77,Tokoh-6,['rakyat']
+77,Tokoh-7,['kapal']
+77,Tokoh-8,['buaya']
+77,Tokoh-9,['naga']
+77,Tokoh-10,['alam']
+78,Tokoh-1,['ibu']
+78,Tokoh-2,['suami']
+78,Tokoh-3,['anak']
+78,Tokoh-4,['putri']
+78,Tokoh-5,['tuhan']
+78,Tokoh-6,['penduduk sekitar']
+78,Tokoh-7,['pembantu']
+78,Tokoh-8,['pemuda']
+78,Tokoh-9,['cantik']
+78,Tokoh-10,['darmi']
+79,Tokoh-1,"['ibu chandrakirana', 'ibu']"
+79,Tokoh-2,['pakar kesehatan istana kediri']
+79,Tokoh-3,"['puteri kandungnya', 'puteri']"
+79,Tokoh-4,"['permaisuri kediri', 'permaisuri']"
+79,Tokoh-5,['raja panjalu']
+79,Tokoh-6,['raja kediri']
+79,Tokoh-7,['raja daha']
+79,Tokoh-8,"['ayah', 'ayaha']"
+79,Tokoh-9,"['putri', 'putri permaisuri']"
+79,Tokoh-10,['dewata yang maha agung']
+79,Tokoh-11,"['raden inu', 'raden inu kertapati']"
+79,Tokoh-12,"['dewi chandrakirana', 'chandrakirana']"
+79,Tokoh-13,"['nenek', 'nenek gagak ireng']"
+79,Tokoh-14,"['tabib istana', 'tabib']"
+79,Tokoh-15,"['dukun wanita', 'dukun']"
+79,Tokoh-16,['nenek sihir']
+79,Tokoh-17,"['keong emas', 'keong']"
+79,Tokoh-18,['dewi ajeng']
+79,Tokoh-19,"['prabu', 'rama prabu']"
+79,Tokoh-20,"['gadis', 'gadis yang']"
+79,Tokoh-21,['nenek tua']
+79,Tokoh-22,['bu']
+80,Tokoh-1,['ayah']
+80,Tokoh-2,['suami']
+80,Tokoh-3,['anak']
+80,Tokoh-4,"['penduduk desa', 'penduduk desa pathok']"
+80,Tokoh-5,['nyai selakanta']
+80,Tokoh-6,"['warga desa', 'warga']"
+80,Tokoh-7,['nyi latung']
+80,Tokoh-8,['klinthing']
+80,Tokoh-9,['janda tua']
+80,Tokoh-10,['ki hajar']
+80,Tokoh-11,['nenek']
+80,Tokoh-12,['resi']
+80,Tokoh-13,['naga']
+81,Tokoh-1,['raja bertubuh raksasa']
+81,Tokoh-2,['raja boko']
+81,Tokoh-3,['ayah']
+81,Tokoh-4,"['prajurit', 'prajurit prambanan']"
+81,Tokoh-5,"['roro', 'roro jonggrang']"
+81,Tokoh-6,['makhluk halus']
+81,Tokoh-7,"['pemuda desa', 'pemuda', 'pemuda sakti']"
+81,Tokoh-8,"['joko bandung', 'joko']"
+81,Tokoh-9,['bibik emban']
+81,Tokoh-10,['ayam jantan']
+81,Tokoh-11,['tentara']
+81,Tokoh-12,['satria']
+81,Tokoh-13,['paduka']
+81,Tokoh-14,['raden']
+81,Tokoh-15,['jin']
+82,Tokoh-1,['ibu']
+82,Tokoh-2,['suami']
+82,Tokoh-3,['anak perempuan']
+82,Tokoh-4,['janda paruh baya']
+82,Tokoh-5,['wanita tua']
+82,Tokoh-6,['mbok srini']
+82,Tokoh-7,"['mas', 'timun mas']"
+82,Tokoh-8,['pertapa']
+82,Tokoh-9,['raksasa']
+83,Tokoh-1,"['kakek tua', 'kakek']"
+83,Tokoh-2,"['pengawal', 'kepala desa', 'pengawal kepala desa']"
+83,Tokoh-3,['penduduk']
+83,Tokoh-4,['pengemis']
+84,Tokoh-1,['raja']
+84,Tokoh-2,['ayah']
+84,Tokoh-3,"['putri', 'putri kerajaan']"
+84,Tokoh-4,"['bandung bondowoso', 'pangeran bandung bondowoso', 'pangeran']"
+84,Tokoh-5,['roro jonggrang']
+84,Tokoh-6,['kerajaan']
+85,Tokoh-1,"['ibu muda', 'ibu']"
+85,Tokoh-2,['suami']
+85,Tokoh-3,['anak']
+85,Tokoh-4,"['malin kundang', 'malin']"
+85,Tokoh-5,"['kapten kapal', 'kapten']"
+85,Tokoh-6,['amina']
+86,Tokoh-1,['ibu']
+86,Tokoh-2,['pak wuragil']
+86,Tokoh-3,"['raja', 'raja negeri']"
+86,Tokoh-4,['ayah']
+86,Tokoh-5,['istri']
+86,Tokoh-6,['suami']
+86,Tokoh-7,['kakak']
+86,Tokoh-8,['putri tunggalnya']
+86,Tokoh-9,['putri nilasari']
+86,Tokoh-10,['burung merpati']
+86,Tokoh-11,['ketujuh anak']
+86,Tokoh-12,"['bu wuragil', 'wuragil']"
+86,Tokoh-13,['raksasa']
+86,Tokoh-14,['sulung']
+86,Tokoh-15,['keenam']
+86,Tokoh-16,"['kyai', 'nyai']"
+86,Tokoh-17,['nak']
+86,Tokoh-18,['kak']
+87,Tokoh-1,['tetangga']
+87,Tokoh-2,['teman sepermainannya']
+87,Tokoh-3,['belulusan ulakh']
+87,Tokoh-4,"['penduduk desa', 'penduduk dusun', 'penduduk dosen', 'penduduk']"
+87,Tokoh-5,['sesepuh dusun']
+87,Tokoh-6,['orang didusun']
+87,Tokoh-7,['teman sedusun']
+87,Tokoh-8,['hewan melata']
+87,Tokoh-9,['sahabat']
+87,Tokoh-10,['puyang']
+87,Tokoh-11,['warga']
+87,Tokoh-12,['ular']
+88,Tokoh-1,"['raja', 'raja naga']"
+88,Tokoh-2,"['ular', 'ular tapak angin']"
+88,Tokoh-3,['ular besar']
+88,Tokoh-4,['ular naga']
+88,Tokoh-5,['nakal']
+89,Tokoh-1,"['dewa', 'matahari', 'dewa matahari']"
+89,Tokoh-2,['pembesar dewa']
+89,Tokoh-3,['hyang candra']
+89,Tokoh-4,['hyang surya']
+89,Tokoh-5,['hyang wisnu']
+89,Tokoh-6,['batara guru']
+89,Tokoh-7,['resi narada']
+89,Tokoh-8,"['dewi biasa', 'dewi']"
+89,Tokoh-9,"['dewa bulan', 'bulan']"
+89,Tokoh-10,['kalarahu']
+89,Tokoh-11,['raksasa']
+90,Tokoh-1,['permaisuri']
+90,Tokoh-2,['raja medang']
+90,Tokoh-3,['anak kijang']
+90,Tokoh-4,['rakyat seluruh negeri']
+90,Tokoh-5,['bayi kijang']
+90,Tokoh-6,['dewata']
+90,Tokoh-7,['sulang']
+90,Tokoh-8,['prabu']
+90,Tokoh-9,['nenek']
+90,Tokoh-10,['dukun']
+90,Tokoh-11,['gusti']
+91,Tokoh-1,['kala srenggi']
+91,Tokoh-2,['batara guru']
+91,Tokoh-3,['ki semangke']
+91,Tokoh-4,['resi narada']
+91,Tokoh-5,['babi hutan']
+91,Tokoh-6,['dewi sri']
+92,Tokoh-1,['pak mukdima']
+92,Tokoh-2,['raja']
+92,Tokoh-3,['ayah']
+92,Tokoh-4,"['istri', 'istrinya dik']"
+92,Tokoh-5,['suami']
+92,Tokoh-6,['putri']
+92,Tokoh-7,['orang madura']
+92,Tokoh-8,['tukang sapu']
+92,Tokoh-9,['lasmudin']
+92,Tokoh-10,['mukdima']
+92,Tokoh-11,['pegawai']
+92,Tokoh-12,['patih']
+92,Tokoh-13,['gusti']
+92,Tokoh-14,['nak']
+92,Tokoh-15,['din']
+92,Tokoh-16,['dik']
+93,Tokoh-1,"['ibu patih sidapaksa', 'ibu']"
+93,Tokoh-2,['permaisuri']
+93,Tokoh-3,['raja sindureja']
+93,Tokoh-4,['ayah']
+93,Tokoh-5,"['istri', 'istri patih sidapaksa']"
+93,Tokoh-6,['anak']
+93,Tokoh-7,"['patih sidapaksa', 'patih', 'sidapaksa']"
+93,Tokoh-8,['nenek']
+93,Tokoh-9,['bayi']
+94,Tokoh-1,['raja medangkamulan']
+94,Tokoh-2,['adik dora']
+94,Tokoh-3,['orang tua']
+94,Tokoh-4,"['prabu', 'medangkamulan', 'prabu medangkamulan']"
+94,Tokoh-5,"['tuan aji saka', 'aji saka', 'tuan', 'prabu aji saka']"
+94,Tokoh-6,"['paman', 'sembada', 'paman sembada']"
+94,Tokoh-7,"['paman dora', 'dora']"
+94,Tokoh-8,['rakyat']
+94,Tokoh-9,['patih']
+95,Tokoh-1,['ibu']
+95,Tokoh-2,['permaisuri']
+95,Tokoh-3,['raja bandarangin']
+95,Tokoh-4,['raja kelana']
+95,Tokoh-5,['raja kediri']
+95,Tokoh-6,"['ayah', 'ayaha']"
+95,Tokoh-7,['putriku candra kirana']
+95,Tokoh-8,['putri tunggalnya']
+95,Tokoh-9,['abang']
+95,Tokoh-10,"['panji asmara bangun', 'panji asmara']"
+95,Tokoh-11,"['candra kirana', 'dinda candra kirana']"
+95,Tokoh-12,['dewi candra kirana']
+95,Tokoh-13,"['rondo dadapan', 'mbok rondo dadapan', 'mbok rondo', 'mbok']"
+95,Tokoh-14,['patih tamengdita']
+95,Tokoh-15,"['ungu', 'kleting kuning', 'kleting ungu', 'kuning']"
+95,Tokoh-16,"['kangkang', 'yuyu kangkang']"
+95,Tokoh-17,['naya genggong']
+95,Tokoh-18,['rakyat kediri']
+95,Tokoh-19,['tukang perahu']
+95,Tokoh-20,"['kleting iren', 'iren']"
+95,Tokoh-21,['ragil kuning']
+95,Tokoh-22,['sabda palon']
+95,Tokoh-23,"['kleting ljo', 'ljo']"
+95,Tokoh-24,"['ande', 'lumut', 'ande lumut']"
+95,Tokoh-25,['kodok ljo']
+95,Tokoh-26,['pemuda']
+95,Tokoh-27,['doyok']
+95,Tokoh-28,['nduk']
+96,Tokoh-1,"['pak sabar', 'pak sabar bar']"
+96,Tokoh-2,['istri']
+96,Tokoh-3,['tukang emas']
+96,Tokoh-4,['bu mellas']
+96,Tokoh-5,['bu sabar']
+96,Tokoh-6,['saudara']
+96,Tokoh-7,['anjing']
+96,Tokoh-8,['kucing']
+96,Tokoh-9,['tikus']
+96,Tokoh-10,['ma ti']
+96,Tokoh-11,['pria']
+96,Tokoh-12,['dik']
+97,Tokoh-1,['ibu']
+97,Tokoh-2,['ayah']
+97,Tokoh-3,['kakek buto ljo']
+97,Tokoh-4,['tuhan']
+97,Tokoh-5,"['mbok', 'mbok rondo dadapan', 'mbok rondo', 'rondo', 'rondo dadapan']"
+97,Tokoh-6,"['nini buto ljo', 'nini buto']"
+97,Tokoh-7,['bawang merah']
+97,Tokoh-8,['bawang putih']
+97,Tokoh-9,['saudara']
+97,Tokoh-10,['nenek']
+97,Tokoh-11,['janda']
+97,Tokoh-12,['paman']
+97,Tokoh-13,['nek']
+97,Tokoh-14,['nak']
+98,Tokoh-1,"['ayah mereka', 'ayah']"
+98,Tokoh-2,['kakak']
+98,Tokoh-3,['adik']
+98,Tokoh-4,"['putri', 'putri sulung']"
+98,Tokoh-5,['prabu tapa agung']
+98,Tokoh-6,"['kasarung', 'lutung kasarung']"
+98,Tokoh-7,['nenek sihir']
+98,Tokoh-8,['purbararang']
+98,Tokoh-9,['purbasari']
+98,Tokoh-10,['pengawal']
+98,Tokoh-11,['monyet']
+98,Tokoh-12,['rakyat']
+98,Tokoh-13,['pemuda']
+98,Tokoh-14,['patih']
+99,Tokoh-1,['ibu']
+99,Tokoh-2,"['raja', 'raja sungging perbangkara']"
+99,Tokoh-3,['ayah']
+99,Tokoh-4,['babi hutan betina']
+99,Tokoh-5,['hyang tunggul']
+99,Tokoh-6,['dayang sumbi']
+99,Tokoh-7,['makhluk gaib']
+99,Tokoh-8,['gadis jelita']
+99,Tokoh-9,['sangkuriang']
+99,Tokoh-10,['babi betina']
+99,Tokoh-11,['wayungyang']
+99,Tokoh-12,['dewata']
+99,Tokoh-13,['tumang']
+99,Tokoh-14,['pemuda']
+99,Tokoh-15,['bu']
+100,Tokoh-1,['pak']
+100,Tokoh-2,"['kakek tua', 'kakek']"
+100,Tokoh-3,['tuhan']
+100,Tokoh-4,"['penduduk', 'penduduk kampung']"
+100,Tokoh-5,['penduduk desa']
+100,Tokoh-6,"['warga kampung', 'warga']"
+100,Tokoh-7,"['pengemis', 'pengemis tua']"
+100,Tokoh-8,"['endit', 'nyai endit']"
+100,Tokoh-9,"['nyi asih', 'nyi']"
+100,Tokoh-10,['centeng']
+100,Tokoh-11,['petani']
+100,Tokoh-12,['hai']
+101,Tokoh-1,['ibu angkatnya']
+101,Tokoh-2,"['permaisuri pohaci naganingrum', 'permaisuri pohaci']"
+101,Tokoh-3,['permaisuri kedua raja']
+101,Tokoh-4,['raja']
+101,Tokoh-5,['ayah']
+101,Tokoh-6,['istri']
+101,Tokoh-7,"['wanara', 'ayam', 'ciung wanara', 'ayam ciung wanara']"
+101,Tokoh-8,['dewi pangrenyep']
+101,Tokoh-9,['pegawai istana']
+101,Tokoh-10,"['hariang', 'hariang banga']"
+101,Tokoh-11,"['putra pohaci', 'pohaci']"
+101,Tokoh-12,['naganingrum']
+101,Tokoh-13,['pengawal']
+101,Tokoh-14,['nini']
+101,Tokoh-15,['aki']
+101,Tokoh-16,['ki']
+102,Tokoh-1,['raja']
+102,Tokoh-2,"['putri', 'putri kecil']"
+102,Tokoh-3,['penasihat kerajaan']
+102,Tokoh-4,['ahli perhiasan']
+102,Tokoh-5,['paman kerbau']
+102,Tokoh-6,['masyarakat']
+102,Tokoh-7,['penduduk']
+102,Tokoh-8,['kebo iwa']
+102,Tokoh-9,['rakyat']
+102,Tokoh-10,['prabu']
+102,Tokoh-11,['ratu']
+102,Tokoh-12,['nak']
+103,Tokoh-1,['ibu']
+103,Tokoh-2,"['puteri bungsu raja', 'puteri bungsu', 'puteri raja']"
+103,Tokoh-3,"['puteri bungsu', 'puteri bungsuku']"
+103,Tokoh-4,['raja']
+103,Tokoh-5,['suami']
+103,Tokoh-6,['anak']
+103,Tokoh-7,['tuhan']
+103,Tokoh-8,['ikan besar']
+103,Tokoh-9,['rakyat']
+103,Tokoh-10,['isteri']
+103,Tokoh-11,['bu']
+104,Tokoh-1,['ibu']
+104,Tokoh-2,['puteri raja']
+104,Tokoh-3,"['permaisuri', 'permaisuri tuanku']"
+104,Tokoh-4,"['raja', 'raja gambang cina']"
+104,Tokoh-5,['ayah']
+104,Tokoh-6,['istri']
+104,Tokoh-7,['suami']
+104,Tokoh-8,['bunda']
+104,Tokoh-9,['putri']
+104,Tokoh-10,['tuhan']
+104,Tokoh-11,['putra mahkota']
+104,Tokoh-12,['labang donya']
+104,Tokoh-13,['ahli nujum']
+104,Tokoh-14,['pengawal']
+104,Tokoh-15,['mak ni']
+104,Tokoh-16,['donya']
+104,Tokoh-17,['gajah']
+104,Tokoh-18,['hakim']
+104,Tokoh-19,['nun']
+105,Tokoh-1,['ibu kandungnya']
+105,Tokoh-2,['ibu tirinya']
+105,Tokoh-3,"['puterinya yang ketujuh', 'puteri yang']"
+105,Tokoh-4,['puteri daulat tuanku']
+105,Tokoh-5,"['puteri bungsu raja', 'puteri bungsu', 'puteri raja']"
+105,Tokoh-6,"['puteri yang ketiga', 'puteri yang']"
+105,Tokoh-7,['puteri sulung']
+105,Tokoh-8,['puteri laila']
+105,Tokoh-9,"['permaisuri', 'permaisuri raja ahmad']"
+105,Tokoh-10,"['raja', 'raja ahmad']"
+105,Tokoh-11,['putera raja']
+105,Tokoh-12,"['ayah', 'ayah puteri bungsu']"
+105,Tokoh-13,['suami']
+105,Tokoh-14,['anak lahuda']
+105,Tokoh-15,['anak raja']
+105,Tokoh-16,['adik']
+105,Tokoh-17,['tuhan']
+105,Tokoh-18,['abang']
+105,Tokoh-19,['tengku syiah rimba']
+105,Tokoh-20,['kambing gembalanya']
+105,Tokoh-21,"['penduduk', 'penduduk kampung', 'kampung']"
+105,Tokoh-22,['perdana menteri']
+105,Tokoh-23,['ketujuh puteri']
+105,Tokoh-24,"['burung raksasa', 'raksasa', 'burung']"
+105,Tokoh-25,['penduduk desa']
+105,Tokoh-26,"['burung garuda', 'garuda']"
+105,Tokoh-27,"['lahuda', 'isteri lahuda']"
+105,Tokoh-28,['daulat tuanku']
+105,Tokoh-29,"['gajah', 'tapak gajah']"
+105,Tokoh-30,['tengku qazi']
+105,Tokoh-31,"['tuan', 'tuan puteri']"
+105,Tokoh-32,"['banta ahmad', 'ahmad']"
+105,Tokoh-33,"['nenek tua', 'nenek']"
+105,Tokoh-34,"['kuda tua', 'kuda']"
+105,Tokoh-35,['pelayan']
+105,Tokoh-36,['dayang']
+105,Tokoh-37,['rakyat']
+105,Tokoh-38,['cokeng']
+105,Tokoh-39,['bungsu']
+105,Tokoh-40,['pemuda']
+105,Tokoh-41,['budak']
+105,Tokoh-42,"['yang', 'bang']"
+105,Tokoh-43,['nek']
+105,Tokoh-44,['bu']
+105,Tokoh-45,['ai']
+106,Tokoh-1,['ibu']
+106,Tokoh-2,"['puteri', 'puteri niwer gading', 'puteri gading']"
+106,Tokoh-3,['permaisuri']
+106,Tokoh-4,['raja buaya']
+106,Tokoh-5,['raja muda']
+106,Tokoh-6,['putera raja']
+106,Tokoh-7,['ayah']
+106,Tokoh-8,['suami']
+106,Tokoh-9,['anak saudaranya']
+106,Tokoh-10,['anak muda']
+106,Tokoh-11,['kakak iparnya']
+106,Tokoh-12,"['tuhan yang maha kuasa', 'tuhan']"
+106,Tokoh-13,"['isteri saudagar', 'saudagar', 'isteri']"
+106,Tokoh-14,"['naga', 'ikan besar', 'naga besar']"
+106,Tokoh-15,"['mude', 'amat mude']"
+106,Tokoh-16,['petugas']
+106,Tokoh-17,['pegawai']
+106,Tokoh-18,['rakyat']
+106,Tokoh-19,['tukang']
+106,Tokoh-20,['gading']
+106,Tokoh-21,['paduka']
+106,Tokoh-22,['dukun']
+106,Tokoh-23,['kaka']
+106,Tokoh-24,['ai']
+107,Tokoh-1,"['raja', 'raja muda']"
+107,Tokoh-2,['ayah']
+107,Tokoh-3,['adik']
+107,Tokoh-4,['orang tua']
+107,Tokoh-5,['tuhan']
+107,Tokoh-6,['abang']
+107,Tokoh-7,"['penduduk', 'penduduk kampung']"
+107,Tokoh-8,"['peukan', 'beungong', 'meulu', 'beungong peukan', 'beungong meulu']"
+107,Tokoh-9,['kepala kampung']
+107,Tokoh-10,"['dayang', 'dayang raja']"
+107,Tokoh-11,"['naga', 'naga besar']"
+107,Tokoh-12,['naga laut']
+107,Tokoh-13,['anjing']
+107,Tokoh-14,['nenek']
+107,Tokoh-15,['ahli']
+108,Tokoh-1,['pak hasan']
+108,Tokoh-2,['pak amat']
+108,Tokoh-3,['suami']
+108,Tokoh-4,['orang tua']
+108,Tokoh-5,"['penduduk', 'penduduk kampung', 'kampung']"
+108,Tokoh-6,"['maskerning', 'inem maskerning', 'aman maskerning']"
+108,Tokoh-7,['penghulu uten']
+108,Tokoh-8,"['hutan', 'orang hutan', 'orang']"
+109,Tokoh-1,['ibu kandungnya']
+109,Tokoh-2,['ibu siti sara']
+109,Tokoh-3,"['ibu tiri', 'ibu tirinya']"
+109,Tokoh-4,"['ayah', 'ayah siti sara']"
+109,Tokoh-5,['suami']
+109,Tokoh-6,"['anak', 'anak yang masih kecil']"
+109,Tokoh-7,['semua orang di kampung']
+109,Tokoh-8,['orang lain']
+109,Tokoh-9,['siti sara']
+109,Tokoh-10,['isteri']
+109,Tokoh-11,['janda']
+109,Tokoh-12,['papa']
+110,Tokoh-1,['ibu']
+110,Tokoh-2,['ayah']
+110,Tokoh-3,['suami']
+110,Tokoh-4,['anak']
+110,Tokoh-5,"['kucing peliharaannya', 'kucing']"
+110,Tokoh-6,['perempuan tua']
+110,Tokoh-7,['anjing']
+110,Tokoh-8,['kijang']
+110,Tokoh-9,['tikus']
+110,Tokoh-10,['bang']
+110,Tokoh-11,['ular']
+110,Tokoh-12,['nome']
+110,Tokoh-13,['win']
+111,Tokoh-1,['ibu']
+111,Tokoh-2,['raja']
+111,Tokoh-3,['ayah']
+111,Tokoh-4,"['istri', 'istri raja']"
+111,Tokoh-5,['bunda']
+111,Tokoh-6,"['anak tunggal raja', 'anak raja']"
+111,Tokoh-7,['anak muda']
+111,Tokoh-8,['orang tuanya']
+111,Tokoh-9,['tuhan yang maha esa']
+111,Tokoh-10,['tukang emas']
+111,Tokoh-11,"['ular', 'besar', 'ular besar']"
+111,Tokoh-12,['kampung']
+111,Tokoh-13,['anjing']
+111,Tokoh-14,['monyet']
+111,Tokoh-15,['kucing']
+111,Tokoh-16,['rakyat']
+111,Tokoh-17,['burung']
+111,Tokoh-18,['tikus']
+112,Tokoh-1,['ibu salamah']
+112,Tokoh-2,"['pak', 'pak amat']"
+112,Tokoh-3,['istri']
+112,Tokoh-4,['suami']
+112,Tokoh-5,['tetangga']
+112,Tokoh-6,['tuhan']
+112,Tokoh-7,['orang kampung']
+112,Tokoh-8,['salamah']
+112,Tokoh-9,['kerabat']
+112,Tokoh-10,['famili']
+112,Tokoh-11,['sopir']
+112,Tokoh-12,['amat']
+113,Tokoh-1,['ibu']
+113,Tokoh-2,['ayah']
+113,Tokoh-3,['istri']
+113,Tokoh-4,['suami']
+113,Tokoh-5,['anak']
+113,Tokoh-6,['orang tua']
+113,Tokoh-7,['penduduk kampung']
+113,Tokoh-8,['empeng besoe']
+113,Tokoh-9,['orang kaya']
+113,Tokoh-10,['ikan']
+114,Tokoh-1,"['ibu putroe sunoe', 'ibu']"
+114,Tokoh-2,['permaisuri']
+114,Tokoh-3,"['raja', 'raja tuanku']"
+114,Tokoh-4,['ayah']
+114,Tokoh-5,['anak']
+114,Tokoh-6,['putroe sambinoe']
+114,Tokoh-7,['putroe sunoe']
+114,Tokoh-8,['putroe hitam']
+114,Tokoh-9,['telangkai keempat']
+114,Tokoh-10,['telangkai ketiga']
+114,Tokoh-11,['tuhan']
+114,Tokoh-12,['sambinoe']
+114,Tokoh-13,['dayang']
+114,Tokoh-14,['dukun']
+114,Tokoh-15,['hitam']
+114,Tokoh-16,['sunoe']
+114,Tokoh-17,['tuan']
+115,Tokoh-1,['ibu']
+115,Tokoh-2,"['raja', 'raja muda']"
+115,Tokoh-3,"['putri', 'putri ular']"
+115,Tokoh-4,['dayang istana']
+115,Tokoh-5,"['ular', 'ular besar']"
+115,Tokoh-6,['burung']
+115,Tokoh-7,['ratu']
+115,Tokoh-8,['bu']
+116,Tokoh-1,['ibu']
+116,Tokoh-2,['raja']
+116,Tokoh-3,['anak kecil']
+116,Tokoh-4,"['beru dayang', 'dayang']"
+116,Tokoh-5,['ikan besar']
+116,Tokoh-6,['penduduk']
+116,Tokoh-7,['janda']
+117,Tokoh-1,['ayah']
+117,Tokoh-2,['putri tunggalnya']
+117,Tokoh-3,['putri lubuk gong']
+117,Tokoh-4,['masyarakat desa']
+117,Tokoh-5,['lubuk gong']
+117,Tokoh-6,['pemuda']
+118,Tokoh-1,['ibu sabai']
+118,Tokoh-2,"['ayah', 'ayaha']"
+118,Tokoh-3,['adik']
+118,Tokoh-4,['putri sulung']
+118,Tokoh-5,"['nan', 'rajo nan kongkong', 'rajo']"
+118,Tokoh-6,['rajo nan panjang']
+118,Tokoh-7,"['sabai nan aluih', 'sabai']"
+118,Tokoh-8,['rajo babanding']
+118,Tokoh-9,['mangkutak alam']
+118,Tokoh-10,['sadun saribai']
+118,Tokoh-11,['pembantu']
+118,Tokoh-12,['pengawal']
+118,Tokoh-13,['gembala']
+118,Tokoh-14,['warga']
+119,Tokoh-1,['tuhan']
+119,Tokoh-2,"['masyarakat pendukungnya', 'masyarakat']"
+119,Tokoh-3,['masyarakat tanjungraya']
+119,Tokoh-4,['bujang sembilan']
+119,Tokoh-5,['datuk limbatang']
+119,Tokoh-6,"['adat', 'pemimpin adat']"
+119,Tokoh-7,['siti rasani']
+119,Tokoh-8,['ikan rinuak']
+119,Tokoh-9,['kepala desa']
+119,Tokoh-10,['giran']
+120,Tokoh-1,['ibu']
+120,Tokoh-2,['raja']
+120,Tokoh-3,['ayah']
+120,Tokoh-4,"['putri', 'putri raja']"
+120,Tokoh-5,['abang']
+120,Tokoh-6,['penduduk negeri']
+120,Tokoh-7,['salimbo']
+120,Tokoh-8,['pemuda']
+120,Tokoh-9,['ikan']
+120,Tokoh-10,['ngah']
+121,Tokoh-1,['raja syah alam']
+121,Tokoh-2,['raja besar']
+121,Tokoh-3,['ayah']
+121,Tokoh-4,['istri']
+121,Tokoh-5,['bunda hang tuah']
+121,Tokoh-6,"['bendahara', 'bendahara paduka raja bintan', 'bintan']"
+121,Tokoh-7,['pegawai kerajaan majapahit']
+121,Tokoh-8,['raden aria sena']
+121,Tokoh-9,"['hang kasturi', 'dang', 'hang']"
+121,Tokoh-10,['taming sari']
+121,Tokoh-11,"['hang tuah', 'hang mahmud']"
+121,Tokoh-12,['hang jebat']
+121,Tokoh-13,"['aria putra', 'putra']"
+121,Tokoh-14,['hang lekir']
+121,Tokoh-15,['penduduk']
+121,Tokoh-16,['lanun']
+121,Tokoh-17,['tetua']
+121,Tokoh-18,['cih']
+121,Tokoh-19,['hai']
+122,Tokoh-1,['harimau']
+122,Tokoh-2,['kucing']
+122,Tokoh-3,['singa']
+122,Tokoh-4,['guru']
+123,Tokoh-1,"['permaisuri', 'permaisuri kerajaan palembang']"
+123,Tokoh-2,['istri']
+123,Tokoh-3,['suami']
+123,Tokoh-4,['pangeran demang aji jaya']
+123,Tokoh-5,"['datuk kaya', 'datuk']"
+123,Tokoh-6,['nilam sari']
+123,Tokoh-7,['cik wan']
+123,Tokoh-8,['alam']
+124,Tokoh-1,['ayah']
+124,Tokoh-2,['istri']
+124,Tokoh-3,['kakak']
+124,Tokoh-4,['adik']
+124,Tokoh-5,"['putri', 'putri pandan berduri']"
+124,Tokoh-6,['masyarakat suku laut']
+124,Tokoh-7,['pemimpin bijak']
+124,Tokoh-8,['bayi perempuan']
+124,Tokoh-9,['jenang perkasa']
+124,Tokoh-10,['batin mantang']
+124,Tokoh-11,"['batin lagoi', 'batin mapoi']"
+124,Tokoh-12,['julela']
+124,Tokoh-13,['pemuda']
+124,Tokoh-14,['warga']
+125,Tokoh-1,['istri']
+125,Tokoh-2,['suami']
+125,Tokoh-3,['adik']
+125,Tokoh-4,['tetangga']
+125,Tokoh-5,"['warga bunguran', 'warga']"
+125,Tokoh-6,['bidan kampung']
+125,Tokoh-7,['warga sekitar']
+125,Tokoh-8,"['mak', 'mak semah']"
+125,Tokoh-9,['perempuan']
+125,Tokoh-10,['mak bidan']
+125,Tokoh-11,"['mai lamah', 'mai']"
+125,Tokoh-12,['penduduk']
+125,Tokoh-13,['baitusen']
+125,Tokoh-14,['budi']
+125,Tokoh-15,['bang']
+125,Tokoh-16,['emak']
+125,Tokoh-17,['dik']
+126,Tokoh-1,['istri']
+126,Tokoh-2,"['suami istri', 'suami']"
+126,Tokoh-3,['penduduk desa']
+126,Tokoh-4,"['ular', 'ular besar']"
+126,Tokoh-5,['harimau']
+126,Tokoh-6,['loreng']
+127,Tokoh-1,['masyarakat desa']
+127,Tokoh-2,"['pengemis', 'pengemis tua']"
+127,Tokoh-3,"['warga desa', 'warga']"
+127,Tokoh-4,"['nyai', 'nyai endit']"
+127,Tokoh-5,['penduduk']
+127,Tokoh-6,['penjaga']
+127,Tokoh-7,['petani']
+128,Tokoh-1,"['raja', 'raja bijaksana']"
+128,Tokoh-2,['adik']
+128,Tokoh-3,"['pangeran jaya', 'pangeran suta']"
+128,Tokoh-4,['pangeran geri']
+128,Tokoh-5,['lelaki tua']
+128,Tokoh-6,['bidadari']
+129,Tokoh-1,['pak piun']
+129,Tokoh-2,['ayah']
+129,Tokoh-3,['anak buahnya']
+129,Tokoh-4,"['pemimpin centeng', 'pemimpin']"
+129,Tokoh-5,['rakyat miskin']
+129,Tokoh-6,['rakyat jelata']
+129,Tokoh-7,['haji naipin']
+129,Tokoh-8,['tuan tanah']
+129,Tokoh-9,"['liem tjeng', 'liem']"
+129,Tokoh-10,['babah liem']
+129,Tokoh-11,['pendekar']
+129,Tokoh-12,['bu pinah']
+129,Tokoh-13,['pitung']
+129,Tokoh-14,['guru']
+130,Tokoh-1,['anak']
+130,Tokoh-2,['masyarakat desa']
+130,Tokoh-3,"['ular berbisa', 'ular']"
+130,Tokoh-4,['siti mayang']
+130,Tokoh-5,['mah bongsu']
+130,Tokoh-6,['mah piah']
+130,Tokoh-7,['pemuda']
+131,Tokoh-1,"['ibu dari gadis', 'ibu']"
+131,Tokoh-2,['putri']
+131,Tokoh-3,['penduduk dusun']
+131,Tokoh-4,['kepala desa']
+131,Tokoh-5,['warga dusun']
+131,Tokoh-6,['gadis']
+131,Tokoh-7,['babi']
+132,Tokoh-1,['ibu']
+132,Tokoh-2,['raja']
+132,Tokoh-3,['putri']
+132,Tokoh-4,"['burung elang', 'burung']"
+132,Tokoh-5,['pemuda']
+132,Tokoh-6,['paman']
+132,Tokoh-7,['banta']
+132,Tokoh-8,['janda']
+132,Tokoh-9,['jakub']
+133,Tokoh-1,"['raja', 'raja parkit']"
+133,Tokoh-2,"['burung parkit', 'parkit']"
+133,Tokoh-3,['pemburu']
+134,Tokoh-1,['ibu']
+134,Tokoh-2,['ayah']
+134,Tokoh-3,['anak ketiga']
+134,Tokoh-4,['adik kedua']
+134,Tokoh-5,"['raksasa', 'raksasa wanita']"
+134,Tokoh-6,['orangtua']
+134,Tokoh-7,['ketujuh']
+134,Tokoh-8,['bungsu']
+134,Tokoh-9,['sulung']
+135,Tokoh-1,['raja cik serule']
+135,Tokoh-2,['raja linge']
+135,Tokoh-3,"['ayah', 'ayah angkatnya']"
+135,Tokoh-4,['kakak']
+135,Tokoh-5,"['putri', 'putri sultan aceh']"
+135,Tokoh-6,['penduduk negeri']
+135,Tokoh-7,"['sultan', 'sultan johor']"
+135,Tokoh-8,['gajah putih']
+135,Tokoh-9,"['aceh', 'sultan aceh']"
+135,Tokoh-10,['sengeda']
+135,Tokoh-11,['rakyat']
+135,Tokoh-12,['muria']
+135,Tokoh-13,['warga']
+136,Tokoh-1,['ayah']
+136,Tokoh-2,['kakak raden kuning']
+136,Tokoh-3,['adik sinaran bulan']
+136,Tokoh-4,"['putri sinaran bulan', 'putri sinaran']"
+136,Tokoh-5,['putri hitam manis']
+136,Tokoh-6,['tukang pantunan']
+136,Tokoh-7,['rantai sekilan']
+136,Tokoh-8,['penduduk kota']
+136,Tokoh-9,"['raden keling', 'raden kuning']"
+136,Tokoh-10,['roman yakub']
+136,Tokoh-11,['hitam manis']
+136,Tokoh-12,['naga lipan']
+136,Tokoh-13,['hulubalang']
+136,Tokoh-14,"['ratu', 'ratu agung']"
+136,Tokoh-15,['ular']
+137,Tokoh-1,['raja']
+137,Tokoh-2,['istri']
+137,Tokoh-3,['anak muda']
+137,Tokoh-4,"['putri', 'putri raja']"
+137,Tokoh-5,['masyarakat desa']
+137,Tokoh-6,['bujang kurap']
+137,Tokoh-7,['pria raksasa']
+137,Tokoh-8,['tabib sakti']
+137,Tokoh-9,['tapak libok']
+137,Tokoh-10,['orang sakti']
+137,Tokoh-11,['penduduk']
+137,Tokoh-12,['peserta']
+137,Tokoh-13,['warga']
+138,Tokoh-1,['raja hutan']
+138,Tokoh-2,['adipati ratu']
+138,Tokoh-3,['puyang sajak']
+138,Tokoh-4,['masyarakat']
+138,Tokoh-5,['penduduk']
+138,Tokoh-6,['pemimpin']
+138,Tokoh-7,['harimau']
+138,Tokoh-8,['rakyat']
+138,Tokoh-9,['hutan']
+138,Tokoh-10,['yang']
+139,Tokoh-1,"['penduduk', 'dusun', 'penduduk dusun']"
+139,Tokoh-2,['warga']
+140,Tokoh-1,['ibu']
+140,Tokoh-2,['ayah']
+140,Tokoh-3,['istri']
+140,Tokoh-4,['putri raja']
+140,Tokoh-5,['mande rubayah']
+140,Tokoh-6,"['malin kundang', 'malin']"
+140,Tokoh-7,['nahkoda']
+140,Tokoh-8,['wanita']
+141,Tokoh-1,['ibu']
+141,Tokoh-2,['ayah']
+141,Tokoh-3,['suami']
+141,Tokoh-4,['anak gadis']
+141,Tokoh-5,['orang tuanya']
+141,Tokoh-6,"['putri', 'putri tercintanya']"
+141,Tokoh-7,['tuhan']
+141,Tokoh-8,"['penduduk desa', 'desa']"
+141,Tokoh-9,"['panagian', 'keke', 'keke panagian']"
+141,Tokoh-10,['warga desa']
+141,Tokoh-11,['masyarakat']
+141,Tokoh-12,['mamaluan']
+141,Tokoh-13,['tante']
+141,Tokoh-14,['gadis']
+141,Tokoh-15,['bibi']
+141,Tokoh-16,['ma']
+142,Tokoh-1,['ibu']
+142,Tokoh-2,"['ayah', 'ayah la moelu']"
+142,Tokoh-3,['la moelu']
+142,Tokoh-4,['jinnade']
+142,Tokoh-5,['ikan']
+143,Tokoh-1,['istri']
+143,Tokoh-2,['anggota rombongan']
+143,Tokoh-3,['pengantin pria']
+143,Tokoh-4,['perias']
+144,Tokoh-1,['ibu']
+144,Tokoh-2,['anak']
+144,Tokoh-3,"['burung tiung besar', 'burung tiung', 'burung']"
+144,Tokoh-4,"['elang besar', 'elang']"
+144,Tokoh-5,['burung beo']
+144,Tokoh-6,['nak']
+144,Tokoh-7,['bu']
+145,Tokoh-1,['ayah']
+145,Tokoh-2,['istri']
+145,Tokoh-3,['suami']
+145,Tokoh-4,['tuhan']
+145,Tokoh-5,['pasangan suami istri']
+145,Tokoh-6,"['penduduk', 'penduduk sekitar']"
+145,Tokoh-7,['man metem']
+145,Tokoh-8,['man moro']
+145,Tokoh-9,['pintolee']
+145,Tokoh-10,['mohamad']
+145,Tokoh-11,['war']
+146,Tokoh-1,['permaisuri']
+146,Tokoh-2,['raja']
+146,Tokoh-3,"['putri mandalika', 'putri']"
+146,Tokoh-4,['sekar kuning']
+146,Tokoh-5,['pangeran']
+146,Tokoh-6,['rakyat']
+146,Tokoh-7,['ratu']
+147,Tokoh-1,['raja tutur jimat']
+147,Tokoh-2,['raja bijaksana']
+147,Tokoh-3,['ayah']
+147,Tokoh-4,['kakek']
+147,Tokoh-5,"['ratu darah putih', 'ratu']"
+147,Tokoh-6,"['paniakan dalem', 'dalem']"
+147,Tokoh-7,['muhammad']
+147,Tokoh-8,['rakyat']
+148,Tokoh-1,['raja sangiang']
+148,Tokoh-2,['raja sangen']
+148,Tokoh-3,['raja bunu']
+148,Tokoh-4,"['paninting tarung', 'paninting']"
+148,Tokoh-5,['mangku amat']
+148,Tokoh-6,['nyai jaya']
+148,Tokoh-7,['paman']
+148,Tokoh-8,['dukun']
+149,Tokoh-1,['raja']
+149,Tokoh-2,['ayah']
+149,Tokoh-3,"['istri', 'istri tuan']"
+149,Tokoh-4,"['kakak', 'kakak kandungnya']"
+149,Tokoh-5,['adik']
+149,Tokoh-6,"['raden banterang', 'tuanku raden banterang']"
+149,Tokoh-7,['pembantu']
+149,Tokoh-8,['kijang']
+149,Tokoh-9,['surati']
+149,Tokoh-10,['lelaki']
+149,Tokoh-11,['gadis']
+149,Tokoh-12,['tuan']
+150,Tokoh-1,['ayah']
+150,Tokoh-2,"['putri', 'putri adipati jayengrana']"
+150,Tokoh-3,['adipati cakraningrat']
+150,Tokoh-4,"['pangeran situbondo', 'pangeran', 'situbondo']"
+150,Tokoh-5,['adipati jayengrana']
+150,Tokoh-6,['kyai gembolo']
+150,Tokoh-7,['pemuda sakti']
+150,Tokoh-8,"['jaka jumput', 'jaka']"
+150,Tokoh-9,['jaka taruna']
+150,Tokoh-10,['joko dolog']
+150,Tokoh-11,['purbawati']
+151,Tokoh-1,['raja bijaksana']
+151,Tokoh-2,"['putri', 'putri teja', 'putri teja nirmala']"
+151,Tokoh-3,['raden begawan']
+151,Tokoh-4,"['dewi jahat', 'dewi']"
+151,Tokoh-5,['pangeran']
+151,Tokoh-6,['prabu']
+152,Tokoh-1,['ibu']
+152,Tokoh-2,['raja']
+152,Tokoh-3,['putri cantik']
+152,Tokoh-4,['sungging perbangkara']
+152,Tokoh-5,['anjing jantan']
+152,Tokoh-6,['makhluk halus']
+152,Tokoh-7,['hyang tunggal']
+152,Tokoh-8,['wayung hyang']
+152,Tokoh-9,['dayang sumbi']
+152,Tokoh-10,['sangkuriang']
+152,Tokoh-11,['tumang']
+152,Tokoh-12,"['dewa', 'dewi']"
+153,Tokoh-1,['raja']
+153,Tokoh-2,['ayah']
+153,Tokoh-3,['adik']
+153,Tokoh-4,"['putri', 'putri rarang', 'putri rarang purbaratna']"
+153,Tokoh-5,['prabu panggung keraton']
+153,Tokoh-6,"['pangeran munding larik', 'pangeran munding']"
+153,Tokoh-7,['prabu gajah menggala']
+153,Tokoh-8,['ular besar']
+153,Tokoh-9,['penduduk']
+153,Tokoh-10,['kakang']
+153,Tokoh-11,['pemuda']
+153,Tokoh-12,['rayi']
+154,Tokoh-1,['ibu']
+154,Tokoh-2,['ayah']
+154,Tokoh-3,"['putri endahwarni', 'putri']"
+154,Tokoh-4,['dayang kesayangan permaisuri']
+154,Tokoh-5,"['pangeran', 'pangeran anantakusuma', 'anantakusuma']"
+154,Tokoh-6,['candramawat']
+154,Tokoh-7,"['anteh', 'nyai anteh']"
+154,Tokoh-8,['nyai dadap']
+154,Tokoh-9,['paman']
+154,Tokoh-10,['ratu']
+154,Tokoh-11,['tuan']
+155,Tokoh-1,['pak mantri']
+155,Tokoh-2,"['mertua kabayan', 'mertua', 'kabayan']"
+155,Tokoh-3,['kang kabayan']
+155,Tokoh-4,['nyi iteung']
+155,Tokoh-5,['abah']
+156,Tokoh-1,['raja giri layang']
+156,Tokoh-2,['raja majapahit']
+156,Tokoh-3,['istri']
+156,Tokoh-4,['kakak']
+156,Tokoh-5,['adik']
+156,Tokoh-6,['putri giri larang']
+156,Tokoh-7,['putri cantik']
+156,Tokoh-8,"['patih endang capang', 'patih']"
+156,Tokoh-9,['patih mangkunagara']
+156,Tokoh-10,['penduduk kerajaan']
+156,Tokoh-11,['kaka']
+156,Tokoh-12,['giri']
+157,Tokoh-1,"['raja', 'raja mongondow']"
+157,Tokoh-2,['istri']
+157,Tokoh-3,['adik']
+157,Tokoh-4,['putri raja']
+157,Tokoh-5,"['pulumoduyo', 'putra pulumoduyo', 'murid pulumoduyo', 'putra']"
+157,Tokoh-6,['pembesar negeri']
+157,Tokoh-7,['bangsa iyotogia']
+157,Tokoh-8,['putra mahkota']
+157,Tokoh-9,['putra mooduto']
+157,Tokoh-10,['sapi hutan']
+157,Tokoh-11,['pogambango']
+157,Tokoh-12,['pengikut']
+157,Tokoh-13,['odahati']
+157,Tokoh-14,['suwawa']
+157,Tokoh-15,['rakyat']
+157,Tokoh-16,['dodo']
+158,Tokoh-1,['ibu']
+158,Tokoh-2,['permaisuri']
+158,Tokoh-3,['raja siendeng']
+158,Tokoh-4,['raja negeri']
+158,Tokoh-5,['ayah']
+158,Tokoh-6,['istri']
+158,Tokoh-7,"['putri siendeng', 'putri raja siendeng']"
+158,Tokoh-8,['putra mahkota ternate']
+158,Tokoh-9,"['zulkarnain', 'putra zulkarnain']"
+158,Tokoh-10,['djumangopa']
+158,Tokoh-11,['ahli nujum']
+158,Tokoh-12,['pongoliwu']
+158,Tokoh-13,['kemenakan']
+158,Tokoh-14,['djamali']
+158,Tokoh-15,['djubali']
+158,Tokoh-16,['tutali']
+158,Tokoh-17,['wanita']
+158,Tokoh-18,['pemuda']
+159,Tokoh-1,['ibu']
+159,Tokoh-2,['istri']
+159,Tokoh-3,"['putri semata wayangnya', 'putri']"
+159,Tokoh-4,['sri nawangsih']
+159,Tokoh-5,"['tuan tanah', 'tanah']"
+159,Tokoh-6,['ceceng']
+159,Tokoh-7,['gadis']
+159,Tokoh-8,['janda']
+160,Tokoh-1,['istri']
+160,Tokoh-2,['suami']
+160,Tokoh-3,"['desa', 'sesepuh desa']"
+160,Tokoh-4,['sri poh haci']
+160,Tokoh-5,['raden budog']
+160,Tokoh-6,['warga desa']
+160,Tokoh-7,['dewi padi']
+160,Tokoh-8,['nyi siti']
+160,Tokoh-9,['anjing']
+160,Tokoh-10,['janda']
+160,Tokoh-11,['kuda']
+161,Tokoh-1,['ibu']
+161,Tokoh-2,['permaisuri']
+161,Tokoh-3,['raja']
+161,Tokoh-4,['ayah']
+161,Tokoh-5,['istri']
+161,Tokoh-6,['adik sang raja']
+161,Tokoh-7,"['paman pangeran amat mude', 'pangeran', 'paman', 'pangeran amat mude']"
+161,Tokoh-8,"['rakyat negeri', 'rakyat']"
+161,Tokoh-9,['tabib']
+161,Tokoh-10,['fakir']
+161,Tokoh-11,['sang']
+162,Tokoh-1,['permaisuri']
+162,Tokoh-2,"['raja', 'raja ular']"
+162,Tokoh-3,['ayah']
+162,Tokoh-4,"['tukang cincin', 'tukang pembuat cincin']"
+162,Tokoh-5,"['ular', 'ular besar']"
+162,Tokoh-6,['anjing']
+162,Tokoh-7,['burung']
+162,Tokoh-8,['kucing']
+162,Tokoh-9,['tikus']
+162,Tokoh-10,['rohib']
+163,Tokoh-1,['ayah']
+163,Tokoh-2,['masyarakat sekitar']
+163,Tokoh-3,"['tonaas', 'tonaas utara']"
+163,Tokoh-4,['maharimbouw']
+163,Tokoh-5,['alam']
+164,Tokoh-1,['ibu']
+164,Tokoh-2,['ayah']
+164,Tokoh-3,"['tua', 'perempuan tua']"
+164,Tokoh-4,"['lelaki tua', 'lelaki']"
+164,Tokoh-5,['anjing']
+164,Tokoh-6,['kweiya']
+164,Tokoh-7,['burung']
+165,Tokoh-1,['raja tongkol']
+165,Tokoh-2,['raja ayam']
+165,Tokoh-3,"['tongkol', 'rakyat', 'rakyat tongkol']"
+165,Tokoh-4,['warga pesisir']
+165,Tokoh-5,['warga pantai']
+165,Tokoh-6,['ikan tongkol']
+165,Tokoh-7,"['ayam', 'ayam jantan']"
+165,Tokoh-8,['rakyat ayam']
+165,Tokoh-9,['nelayan']
+166,Tokoh-1,['pak pung']
+166,Tokoh-2,['istri']
+166,Tokoh-3,['suami']
+166,Tokoh-4,"['kakek tua', 'kakek']"
+166,Tokoh-5,['tetangga']
+166,Tokoh-6,"['ikan pesut', 'ikan']"
+166,Tokoh-7,['warga']
+166,Tokoh-8,['gadis']
+167,Tokoh-1,['raja']
+167,Tokoh-2,['ayah']
+167,Tokoh-3,"['kakek tua', 'kakek']"
+167,Tokoh-4,['putri']
+167,Tokoh-5,"['burung ruai', 'ruai', 'burung']"
+167,Tokoh-6,['bungsu']
+168,Tokoh-1,['ular panjang']
+168,Tokoh-2,['hyang shiwa']
+168,Tokoh-3,['batara guru']
+168,Tokoh-4,"['dewa', 'dewa brahma']"
+168,Tokoh-5,['dewa shiwa']
+168,Tokoh-6,['raksasa']
+169,Tokoh-1,['prabu jayabaya']
+169,Tokoh-2,['mpu panuluh']
+169,Tokoh-3,['mpu sedah']
+169,Tokoh-4,['ratu adil']
+170,Tokoh-1,"['batara narada', 'batara panyarikan', 'batara']"
+170,Tokoh-2,['batara bayu']
+170,Tokoh-3,['batara guru']
+170,Tokoh-4,"['empu rama', 'empu', 'empu pamadi']"
+170,Tokoh-5,"['dewa', 'dewa angin']"
+170,Tokoh-6,['empu sakti']
+171,Tokoh-1,['istri']
+171,Tokoh-2,['suami']
+171,Tokoh-3,['nawangwulan']
+171,Tokoh-4,['jaka tarub']
+171,Tokoh-5,['bidadari']
+172,Tokoh-1,"['raja brawijaya v', 'raja']"
+172,Tokoh-2,"['menggala', 'wangsa menggala']"
+172,Tokoh-3,['adipati cepu']
+172,Tokoh-4,['sabdo palon']
+172,Tokoh-5,['raden']
+173,Tokoh-1,"['tumenggung wiraguna', 'tumenggung']"
+173,Tokoh-2,"['adipati pragulo', 'adipati', 'pragulo ii', 'adipati pragulo ii']"
+173,Tokoh-3,['nyai simobarong']
+173,Tokoh-4,['sultan agung']
+173,Tokoh-5,"['roro', 'roro mendut']"
+173,Tokoh-6,['abdi']
+174,Tokoh-1,['ibu']
+174,Tokoh-2,['anak']
+174,Tokoh-3,['joko bodo']
+174,Tokoh-4,['gadis']
+174,Tokoh-5,['janda']
+174,Tokoh-6,['bu']
+175,Tokoh-1,['ibu']
+175,Tokoh-2,['anak']
+175,Tokoh-3,['joko bodo']
+175,Tokoh-4,['gadis']
+175,Tokoh-5,['janda']
+175,Tokoh-6,['bu']
+176,Tokoh-1,['wangkoang']
+176,Tokoh-2,['raksasa']
+176,Tokoh-3,['bungsu']
+176,Tokoh-4,['wahede']
+176,Tokoh-5,['bara']
+177,Tokoh-1,['raja']
+177,Tokoh-2,['ayah']
+177,Tokoh-3,['adik']
+177,Tokoh-4,['putri raja']
+177,Tokoh-5,"['lutung', 'pangeran lutung kasarung', 'lutung kasarung']"
+177,Tokoh-6,['patih istana']
+177,Tokoh-7,['purbararang']
+177,Tokoh-8,['prabu tapa']
+177,Tokoh-9,['purbasari']
+177,Tokoh-10,['perempuan']
+177,Tokoh-11,['rakyat']
+178,Tokoh-1,['pak sabeni']
+178,Tokoh-2,['masyarakat sekitar']
+178,Tokoh-3,['pedagang']
+178,Tokoh-4,['salamah']
+178,Tokoh-5,['pemuda']
+178,Tokoh-6,['rojali']
+179,Tokoh-1,['rio tabing']
+179,Tokoh-2,['rakyat']
+179,Tokoh-3,['alam']
+179,Tokoh-4,['dewa']
+180,Tokoh-1,['raja']
+180,Tokoh-2,"['nenek tua', 'nenek']"
+180,Tokoh-3,['piatu']
+180,Tokoh-4,['nak']
+180,Tokoh-5,['nek']
+181,Tokoh-1,"['ibu tua', 'ibu']"
+181,Tokoh-2,['suami']
+181,Tokoh-3,"['pangeran kerajaan', 'pangeran']"
+181,Tokoh-4,"['ular', 'gaib', 'ular gaib']"
+181,Tokoh-5,['bungsu']
+181,Tokoh-6,['pemuda']
+181,Tokoh-7,['sulung']
+182,Tokoh-1,['ayah']
+182,Tokoh-2,['kakek']
+182,Tokoh-3,"['sultan maulana hasanuddin', 'sultan', 'maulana hasanuddin']"
+182,Tokoh-4,['prabu pucuk umun']
+182,Tokoh-5,['prabu surawosan']
+183,Tokoh-1,"['raja', 'raja wilayah']"
+183,Tokoh-2,"['penduduk', 'penduduk wilayah']"
+183,Tokoh-3,['nagaseni']
+183,Tokoh-4,['mahadali']
+183,Tokoh-5,['rio raos']
+183,Tokoh-6,['panjang']
+184,Tokoh-1,"['raksasa', 'raksasa ganas']"
+184,Tokoh-2,"['tikus', 'tikus jantan']"
+184,Tokoh-3,['burung mutuo']
+184,Tokoh-4,['lipan besar']
+184,Tokoh-5,['lelaki tua']
+184,Tokoh-6,['tulap']
+185,Tokoh-1,['wamborowamboro']
+185,Tokoh-2,['wangguunggu pa']
+185,Tokoh-3,"['penduduk desa', 'penduduk']"
+185,Tokoh-4,['pemimpin desa']
+185,Tokoh-5,['burung gagak']
+185,Tokoh-6,['ende bhawo']
+185,Tokoh-7,['masyarakat']
+185,Tokoh-8,['pemuda']
+185,Tokoh-9,['panda']
+185,Tokoh-10,['sara']
+186,Tokoh-1,['raja sigi']
+186,Tokoh-2,['ayah']
+186,Tokoh-3,"['istri', 'istri raja sigi']"
+186,Tokoh-4,['panglima perang']
+186,Tokoh-5,['tadulako bulili']
+186,Tokoh-6,['warga bulili']
+186,Tokoh-7,['pendekar']
+186,Tokoh-8,['pengawal']
+186,Tokoh-9,['bantili']
+186,Tokoh-10,['dinda']
+186,Tokoh-11,['make']
+186,Tokoh-12,['sigi']
+187,Tokoh-1,['raja']
+187,Tokoh-2,['istri']
+187,Tokoh-3,['putri bungsu raja']
+187,Tokoh-4,"['penduduk', 'penduduk negeri']"
+187,Tokoh-5,"['burung ajaib', 'burung']"
+187,Tokoh-6,"['to baka', 'to baka keo']"
+187,Tokoh-7,['pemuda']
+188,Tokoh-1,['ayah landorundun']
+188,Tokoh-2,['putri']
+188,Tokoh-3,['putra mahkota kerajaan']
+188,Tokoh-4,['datu bendurana']
+188,Tokoh-5,['landorundun']
+188,Tokoh-6,['tetua adat']
+188,Tokoh-7,['pengawal']
+189,Tokoh-1,"['putri mayang sari', 'putri mayang']"
+189,Tokoh-2,['putri bungsu']
+189,Tokoh-3,['putri tertua']
+189,Tokoh-4,['putri tujuh']
+189,Tokoh-5,"['pangeran empang kuala', 'pangeran']"
+189,Tokoh-6,['seri bunga tanjung']
+189,Tokoh-7,"['ratu', 'ratu bijaksana']"
+189,Tokoh-8,"['cik sima', 'ratu cik sima']"
+189,Tokoh-9,['ketujuh putri']
+189,Tokoh-10,['mayang sari']
+189,Tokoh-11,['tujuh']
+190,Tokoh-1,"['ayah caadara', 'ayah']"
+190,Tokoh-2,['anak buah caadara']
+190,Tokoh-3,"['panglima perang wire', 'panglima perang', 'wire']"
+190,Tokoh-4,['masyarakat desa']
+190,Tokoh-5,"['anjing', 'anjing pemburu']"
+190,Tokoh-6,['caadara']
+190,Tokoh-7,['kuala']
+191,Tokoh-1,['ibu']
+191,Tokoh-2,['ayah']
+191,Tokoh-3,['istri']
+191,Tokoh-4,['anak']
+191,Tokoh-5,['putri kepala adat']
+191,Tokoh-6,"['penduduk kampung merem', 'penduduk kampung', 'penduduk']"
+191,Tokoh-7,['woiwallytmang']
+191,Tokoh-8,['kepala adat']
+191,Tokoh-9,['bonadebu']
+191,Tokoh-10,['woiram']
+191,Tokoh-11,['mesi']
+191,Tokoh-12,['dewa']
+192,Tokoh-1,['roh penunggu pohon']
+192,Tokoh-2,"['penduduk', 'penduduk kampung', 'kampung']"
+192,Tokoh-3,['kepala kampung']
+192,Tokoh-4,['yatim']
+192,Tokoh-5,['warga']
+193,Tokoh-1,"['raja', 'raja koranobini']"
+193,Tokoh-2,['istri']
+193,Tokoh-3,['penduduk kampung']
+193,Tokoh-4,"['bungsu', 'bidadari', 'bidadari bungsu']"
+193,Tokoh-5,['mandinuma']
+193,Tokoh-6,['nenek tua']
+193,Tokoh-7,['siraiman']
+193,Tokoh-8,['pemuda']
+194,Tokoh-1,"['ayah', 'ayah skolong']"
+194,Tokoh-2,['istri']
+194,Tokoh-3,['kakak']
+194,Tokoh-4,['adik']
+194,Tokoh-5,['kakek']
+194,Tokoh-6,['orang tua skolong']
+194,Tokoh-7,"['skolong rebo todo', 'skolong']"
+194,Tokoh-8,"['gadis', 'gadis cantik']"
+194,Tokoh-9,['paman']
+194,Tokoh-10,['bibi']
+194,Tokoh-11,['cue']
+195,Tokoh-1,['raja patmaraga']
+195,Tokoh-2,['raja sukmaraga']
+195,Tokoh-3,['istri']
+195,Tokoh-4,['kakak']
+195,Tokoh-5,['putri junjung buih']
+195,Tokoh-6,"['bayi perempuan', 'bayi']"
+195,Tokoh-7,['datuk pujung']
+195,Tokoh-8,['ratu kuripan']
+195,Tokoh-9,['sukmaraga']
+195,Tokoh-10,['wanita']
+195,Tokoh-11,['rakyat']
+195,Tokoh-12,['tuan']
+196,Tokoh-1,"['ratu ayu kencana wungu', 'ratu', 'ratu ayu kencana']"
+196,Tokoh-2,"['adipati kebo marcuet', 'adipati', 'kebo marcuet']"
+196,Tokoh-3,['ki ajah pamengger']
+196,Tokoh-4,['rakyat majapahit']
+196,Tokoh-5,['layang kumitir']
+196,Tokoh-6,['pendekar sakti']
+196,Tokoh-7,['patih logender']
+196,Tokoh-8,['dewi puyengan']
+196,Tokoh-9,['adipati sakti']
+196,Tokoh-10,['jaka umbaran']
+196,Tokoh-11,['dewi wahita']
+196,Tokoh-12,['dewi suhita']
+196,Tokoh-13,['layang seta']
+196,Tokoh-14,['minakjinggo']
+196,Tokoh-15,['damarwulan']
+196,Tokoh-16,['pemuda']
+196,Tokoh-17,['guru']
+197,Tokoh-1,['ibu']
+197,Tokoh-2,"['puteri', 'puteri dayang lais']"
+197,Tokoh-3,['raja komering']
+197,Tokoh-4,['raja jambi']
+197,Tokoh-5,['kakak']
+197,Tokoh-6,['adik']
+197,Tokoh-7,"['hulubalang', 'hulubalang tengkorak batu', 'tengkorak batu']"
+197,Tokoh-8,['hulubalang sakti']
+197,Tokoh-9,['harimau']
+197,Tokoh-10,['buaya']
+197,Tokoh-11,['ceren']
+198,Tokoh-1,['istri']
+198,Tokoh-2,"['putri', 'putri penguasa kota']"
+198,Tokoh-3,['tuhan']
+198,Tokoh-4,['abang']
+198,Tokoh-5,"['penduduk', 'penduduk kampung']"
+198,Tokoh-6,['penguasa kota']
+198,Tokoh-7,"['anok lumang', 'lumang']"
+198,Tokoh-8,['perempuan']
+198,Tokoh-9,['pengawal']
+198,Tokoh-10,['pemuda']
+198,Tokoh-11,['abdul']
+198,Tokoh-12,['bang']
+199,Tokoh-1,"['ibu mertua', 'ibu']"
+199,Tokoh-2,['raja malaka']
+199,Tokoh-3,['ayah']
+199,Tokoh-4,['istri']
+199,Tokoh-5,['anak']
+199,Tokoh-6,['kakek tua']
+199,Tokoh-7,['putri raja']
+199,Tokoh-8,['tuhan']
+199,Tokoh-9,['perempuan tua']
+199,Tokoh-10,['janda tua']
+199,Tokoh-11,['penduduk']
+199,Tokoh-12,['pengawal']
+199,Tokoh-13,['kantan']
+199,Tokoh-14,['nak']
+199,Tokoh-15,['bu']
+200,Tokoh-1,"['ibu dari ni tuwung kuning', 'ibu']"
+200,Tokoh-2,['istri']
+200,Tokoh-3,['suami']
+200,Tokoh-4,['anak']
+200,Tokoh-5,['orang tuanya']
+200,Tokoh-6,['ni tuwung kuning']
+200,Tokoh-7,['bidadari']
+200,Tokoh-8,['i pudak']
+200,Tokoh-9,['bapak']
+200,Tokoh-10,['nenek']
+200,Tokoh-11,['bu']
+201,Tokoh-1,['raja']
+201,Tokoh-2,['istri']
+201,Tokoh-3,"['pan balang', 'pan balang tamak']"
+201,Tokoh-4,['kepala desa']
+201,Tokoh-5,['pencuri']
+201,Tokoh-6,['bapak']
+201,Tokoh-7,['warga']
+201,Tokoh-8,['ayam']
+202,Tokoh-1,['putri bungsu']
+202,Tokoh-2,"['tuan tapa yang sakti', 'tuan tapa']"
+202,Tokoh-3,['bayi perempuan']
+202,Tokoh-4,"['pertapa', 'pertapa sakti']"
+202,Tokoh-5,"['naga', 'sepasang naga']"
+202,Tokoh-6,['naga raksasa']
+202,Tokoh-7,['naga betina']
+202,Tokoh-8,['bayi mungil']
+202,Tokoh-9,['naga jantan']
+202,Tokoh-10,['naga sakti']
+202,Tokoh-11,['orangtua']
+203,Tokoh-1,['ibu']
+203,Tokoh-2,['ayah']
+203,Tokoh-3,['suami']
+203,Tokoh-4,['tuhan']
+203,Tokoh-5,"['warga desa', 'desa']"
+203,Tokoh-6,['pelayan']
+203,Tokoh-7,['bungsu']
+203,Tokoh-8,['sulung']
+203,Tokoh-9,['nak']
+203,Tokoh-10,['kak']
+204,Tokoh-1,['ibu']
+204,Tokoh-2,['raja']
+204,Tokoh-3,['ayah']
+204,Tokoh-4,['istri']
+204,Tokoh-5,['suami']
+204,Tokoh-6,"['putri', 'putri raja']"
+204,Tokoh-7,['tuhan yang maha kuasa']
+204,Tokoh-8,['panglima kerajaan']
+204,Tokoh-9,['penduduk kampung']
+204,Tokoh-10,['yang maha kuasa']
+204,Tokoh-11,"['pemuda gagah', 'pemuda']"
+204,Tokoh-12,['raksasa']
+204,Tokoh-13,['bayi']
+205,Tokoh-1,['ibu']
+205,Tokoh-2,['puteri mayang']
+205,Tokoh-3,"['raja', 'raja mataram']"
+205,Tokoh-4,['ayah']
+205,Tokoh-5,['anak kecil kudisan']
+205,Tokoh-6,['adik']
+205,Tokoh-7,['putri pinang masak']
+205,Tokoh-8,['putri cantik']
+205,Tokoh-9,"['paman orang kayo hitam', 'orang kayo hitam', 'paman']"
+205,Tokoh-10,['orang kayo pinagi']
+205,Tokoh-11,['datuk temenggung']
+205,Tokoh-12,['orang kayo gemuk']
+205,Tokoh-13,['penasihat raja']
+205,Tokoh-14,['tiang bungkuk']
+205,Tokoh-15,['hulubalang']
+205,Tokoh-16,"['empu', 'empu sakti']"
+205,Tokoh-17,['tentara']
+205,Tokoh-18,['tuan']
+206,Tokoh-1,['ibunda sang raja']
+206,Tokoh-2,"['raja', 'raja tua']"
+206,Tokoh-3,"['putri', 'putri pinang masak']"
+206,Tokoh-4,['prajurit bayaran']
+206,Tokoh-5,['pengawal raja']
+206,Tokoh-6,['ahli tukang']
+206,Tokoh-7,['kerajaan']
+206,Tokoh-8,['pekerja']
+206,Tokoh-9,['rakyat']
+206,Tokoh-10,['bundo']
+207,Tokoh-1,['raja']
+207,Tokoh-2,['suami']
+207,Tokoh-3,['anak sulung']
+207,Tokoh-4,"['kakek tua', 'kakek']"
+207,Tokoh-5,"['putri', 'putri tangguk']"
+207,Tokoh-6,['bungsu']
+207,Tokoh-7,['sulung']
+207,Tokoh-8,['bang']
+207,Tokoh-9,['dik']
+208,Tokoh-1,['raja']
+208,Tokoh-2,['ayah']
+208,Tokoh-3,['istri']
+208,Tokoh-4,"['datuk', 'datuk darah putih']"
+208,Tokoh-5,['panglima']
+208,Tokoh-6,['rakyat']
+208,Tokoh-7,['dinda']
+208,Tokoh-8,['putra']
+209,Tokoh-1,['ibu']
+209,Tokoh-2,['raja']
+209,Tokoh-3,['suami']
+209,Tokoh-4,['tetangga']
+209,Tokoh-5,['putri bungsu']
+209,Tokoh-6,['putri raja']
+209,Tokoh-7,['tuhan']
+209,Tokoh-8,"['bujang katak', 'katak']"
+209,Tokoh-9,['keenam putri']
+209,Tokoh-10,"['nenek tua', 'nenek']"
+209,Tokoh-11,['rakyat']
+209,Tokoh-12,['warga']
+209,Tokoh-13,['bu']
+210,Tokoh-1,['istri']
+210,Tokoh-2,['suami']
+210,Tokoh-3,['tuhan']
+210,Tokoh-4,['paman kerbau']
+210,Tokoh-5,"['kepala desa', 'desa']"
+210,Tokoh-6,"['kebo iwa', 'iwa']"
+210,Tokoh-7,['warga']
+210,Tokoh-8,['bayi']
+211,Tokoh-1,['raja duo selo']
+211,Tokoh-2,['raja adat']
+211,Tokoh-3,['ayah']
+211,Tokoh-4,['putri reno bulan']
+211,Tokoh-5,['putri raja mudo']
+211,Tokoh-6,['putri bungsu']
+211,Tokoh-7,['sutan lemang alam']
+211,Tokoh-8,['penasihat istana']
+211,Tokoh-9,['basa ampek balai']
+211,Tokoh-10,['tiang bungkuak']
+211,Tokoh-11,['bundo kanduang']
+211,Tokoh-12,['cindua mato']
+211,Tokoh-13,['dang tuanku']
+211,Tokoh-14,['imbang jayo']
+211,Tokoh-15,['ratu']
+212,Tokoh-1,['ibu tiri']
+212,Tokoh-2,['ayah']
+212,Tokoh-3,['istri']
+212,Tokoh-4,['suami']
+212,Tokoh-5,"['kakak', 'kakak beradik']"
+212,Tokoh-6,['adik']
+212,Tokoh-7,"['kakek tua', 'kakek']"
+212,Tokoh-8,['orang tua']
+212,Tokoh-9,['tetangga']
+212,Tokoh-10,['penari']
+212,Tokoh-11,['gadis']
+212,Tokoh-12,['duda']
+212,Tokoh-13,['desa']
+213,Tokoh-1,['pak']
+213,Tokoh-2,['istri']
+213,Tokoh-3,['putri karang melenu']
+213,Tokoh-4,"['aji batara agung paduka nira', 'aji batara agung dewa sakti', 'aji batara agung', 'aji', 'dewa']"
+213,Tokoh-5,['pasangan suami istri']
+213,Tokoh-6,"['penduduk desa', 'penduduk']"
+213,Tokoh-7,['tujuh dewa']
+213,Tokoh-8,"['naga', 'naga erau', 'naga besar']"
+213,Tokoh-9,['petinggi']
+213,Tokoh-10,['dewata']
+213,Tokoh-11,['bayi']
+214,Tokoh-1,['raja']
+214,Tokoh-2,['ayah']
+214,Tokoh-3,"['putri', 'putri mambang linau']"
+214,Tokoh-4,['mambang linau']
+214,Tokoh-5,"['ular berbisa', 'ular']"
+214,Tokoh-6,['bujang enok']
+214,Tokoh-7,['gadis']
+214,Tokoh-8,['tuan']
+215,Tokoh-1,['anak buahnya']
+215,Tokoh-2,['hulubalang negeri']
+215,Tokoh-3,"['panglima kawal', 'panglima', 'panglima sakti']"
+215,Tokoh-4,"['tuan jangoi', 'jangoi', 'tuan']"
+215,Tokoh-5,['perompak']
+215,Tokoh-6,['rakyat']
+216,Tokoh-1,['ibu']
+216,Tokoh-2,['permaisuri']
+216,Tokoh-3,['raja']
+216,Tokoh-4,['ayah']
+216,Tokoh-5,['istri']
+216,Tokoh-6,"['anak muda', 'anak']"
+216,Tokoh-7,['tuhan yang maha kuasa']
+216,Tokoh-8,"['bendahara kerajaan', 'bendahara']"
+216,Tokoh-9,"['pangeran', 'pangeran lokan']"
+216,Tokoh-10,"['nenek kebayan', 'nenek']"
+216,Tokoh-11,['rakyat']
+216,Tokoh-12,['pendam']
+216,Tokoh-13,['pemuda']
+217,Tokoh-1,['ayah']
+217,Tokoh-2,['kakak']
+217,Tokoh-3,['adik']
+217,Tokoh-4,['orang tua']
+217,Tokoh-5,['putri pandan berduri']
+217,Tokoh-6,['putri tuan']
+217,Tokoh-7,"['jenang perkasa', 'tuanku jenang perkasa', 'perkasa']"
+217,Tokoh-8,['batin mantang']
+217,Tokoh-9,['batin kelong']
+217,Tokoh-10,"['rakyat pulau', 'rakyat']"
+217,Tokoh-11,"['batin lagoi', 'batin mapoi']"
+217,Tokoh-12,['pemimpin']
+217,Tokoh-13,['julela']
+217,Tokoh-14,['pemuda']
+217,Tokoh-15,['warga']
+217,Tokoh-16,['tuan']
+218,Tokoh-1,['ibu']
+218,Tokoh-2,['ayah']
+218,Tokoh-3,['istri']
+218,Tokoh-4,['anak']
+218,Tokoh-5,['tongko']
+218,Tokoh-6,['gadis']
+218,Tokoh-7,['cinta']
+218,Tokoh-8,['nak']
+218,Tokoh-9,['hai']
+218,Tokoh-10,['la']
+218,Tokoh-11,['bu']
+219,Tokoh-1,"['raja', 'raja cina']"
+219,Tokoh-2,['ayah']
+219,Tokoh-3,['istri']
+219,Tokoh-4,"['adik', 'adik kembarnya']"
+219,Tokoh-5,['abang']
+219,Tokoh-6,"['pengawal', 'pengawal sawerigading', 'sawerigading']"
+219,Tokoh-7,['saudari kembarnya']
+219,Tokoh-8,"['we opu sengngeng', 'we']"
+219,Tokoh-9,['we tenriabeng']
+219,Tokoh-10,['batara lattu']
+219,Tokoh-11,['batara guru']
+219,Tokoh-12,['la galigo']
+219,Tokoh-13,['pangeran']
+219,Tokoh-14,['we cudai']
+219,Tokoh-15,['ratu']
+220,Tokoh-1,['ibu']
+220,Tokoh-2,['ayah']
+220,Tokoh-3,['anak kecil bersaudara']
+220,Tokoh-4,"['penduduk desa', 'desa', 'penduduk']"
+220,Tokoh-5,"['nenek', 'nenek pakande']"
+220,Tokoh-6,"['kutu raksasa', 'raksasa']"
+220,Tokoh-7,['kepala desa']
+220,Tokoh-8,['wanita tua']
+220,Tokoh-9,"['warga desa', 'warga']"
+220,Tokoh-10,['nenek tua']
+220,Tokoh-11,['la beddu']
+220,Tokoh-12,['pemuda']
+220,Tokoh-13,['bapak']
+220,Tokoh-14,['kecil']
+220,Tokoh-15,['belut']
+221,Tokoh-1,['permaisuri']
+221,Tokoh-2,['raja tanjung']
+221,Tokoh-3,['raja adil']
+221,Tokoh-4,['istri ketujuh']
+221,Tokoh-5,['istri keenam']
+221,Tokoh-6,['orang tuanya']
+221,Tokoh-7,['putri betik hati']
+221,Tokoh-8,['putri kerajaan']
+221,Tokoh-9,['sindang belawan bumi']
+221,Tokoh-10,['naga bertiara tiga']
+221,Tokoh-11,['dewa maha sakti']
+221,Tokoh-12,['yang maha kuasa']
+221,Tokoh-13,['pangeran minak']
+221,Tokoh-14,['mutiara lautan']
+221,Tokoh-15,['ratu kedamaian']
+221,Tokoh-16,['putra mahkota']
+221,Tokoh-17,"['jambat', 'radin jambat']"
+221,Tokoh-18,"['ular', 'ular raksasa']"
+221,Tokoh-19,['masyarakat']
+221,Tokoh-20,['ratu alam']
+221,Tokoh-21,['rakyat']
+221,Tokoh-22,['jin']
+222,Tokoh-1,"['ibu sidang belawan', 'ibu']"
+222,Tokoh-2,['pak tua']
+222,Tokoh-3,"['raja', 'rajawali']"
+222,Tokoh-4,"['istri', 'istri raja']"
+222,Tokoh-5,['suami']
+222,Tokoh-6,['anak']
+222,Tokoh-7,['adik']
+222,Tokoh-8,['orang tua']
+222,Tokoh-9,['putri']
+222,Tokoh-10,['tuhan']
+222,Tokoh-11,"['burung rajawali raksasa', 'burung']"
+222,Tokoh-12,['pasangan suami istri']
+222,Tokoh-13,"['perempuan', 'perempuan cantik']"
+222,Tokoh-14,"['putra tunggalnya', 'putra']"
+222,Tokoh-15,"['bidadari', 'ketujuh bidadari']"
+222,Tokoh-16,['keenam bidadari']
+222,Tokoh-17,"['bidadari bungsu', 'bidadari sulung']"
+222,Tokoh-18,['sidang belawan']
+222,Tokoh-19,['wanita cantik']
+222,Tokoh-20,['warga kampung']
+222,Tokoh-21,['ajaib']
+222,Tokoh-22,['dinda']
+222,Tokoh-23,['kanda']
+222,Tokoh-24,['tuan']
+222,Tokoh-25,['hai']
+222,Tokoh-26,['kak']
